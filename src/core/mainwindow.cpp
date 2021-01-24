@@ -211,6 +211,8 @@
 #include "smartplaylists/smartplaylistsviewcontainer.h"
 
 #include "organize/organizeerrordialog.h"
+#include "artistbio/artistbioview.h"
+
 
 #ifdef Q_OS_WIN
 #  include "windows7thumbbar.h"
@@ -226,6 +228,7 @@
 
 using std::make_unique;
 using std::make_shared;
+
 using namespace std::chrono_literals;
 
 const char *MainWindow::kSettingsGroup = "MainWindow";
@@ -319,6 +322,7 @@ MainWindow::MainWindow(Application *app, SharedPtr<SystemTrayIcon> tray_icon, OS
       qobuz_view_(new StreamingTabsView(app_, app->streaming_services()->ServiceBySource(Song::Source::Qobuz), QLatin1String(QobuzSettingsPage::kSettingsGroup), SettingsDialog::Page::Qobuz, this)),
 #endif
       radio_view_(new RadioViewContainer(this)),
+      artistbio_view_(new ArtistBioView(this)),
       lastfm_import_dialog_(new LastFMImportDialog(app_->lastfm_import(), this)),
       collection_show_all_(nullptr),
       collection_show_duplicates_(nullptr),
@@ -405,6 +409,7 @@ MainWindow::MainWindow(Application *app, SharedPtr<SystemTrayIcon> tray_icon, OS
 #ifdef HAVE_QOBUZ
   ui_->tabs->AddTab(qobuz_view_, QStringLiteral("qobuz"), IconLoader::Load(QStringLiteral("qobuz"), true, 0, 32), tr("Qobuz"));
 #endif
+  ui_->tabs->AddTab(artistbio_view_, QStringLiteral("artistbio"), IconLoader::Load(QStringLiteral("guitar")), tr("Artist biography"));
 
   // Add the playing widget to the fancy tab widget
   ui_->tabs->AddBottomWidget(ui_->widget_playing);
@@ -921,6 +926,10 @@ MainWindow::MainWindow(Application *app, SharedPtr<SystemTrayIcon> tray_icon, OS
   QObject::connect(&*app_->lastfm_import(), &LastFMImport::UpdateTotal, lastfm_import_dialog_, &LastFMImportDialog::UpdateTotal);
   QObject::connect(&*app_->lastfm_import(), &LastFMImport::UpdateProgress, lastfm_import_dialog_, &LastFMImportDialog::UpdateProgress);
 
+  connect(&*app_->playlist_manager(), &PlaylistManager::CurrentSongChanged, artistbio_view_, &ArtistBioView::SongChanged);
+  connect(&*app_->player(), &Player::PlaylistFinished, artistbio_view_, &ArtistBioView::SongFinished);
+  connect(&*app_->player(), &Player::Stopped, artistbio_view_, &ArtistBioView::SongFinished);
+
   // Load settings
   qLog(Debug) << "Loading settings";
   settings_.beginGroup(kSettingsGroup);
@@ -1176,6 +1185,16 @@ void MainWindow::ReloadSettings() {
   osd_->ReloadSettings();
 
   album_cover_choice_controller_->search_cover_auto_action()->setChecked(settings_.value("search_for_cover_auto", true).toBool());
+
+  s.beginGroup(BehaviourSettingsPage::kSettingsGroup);
+  bool artistbio = s.value("artistbio", false).toBool();
+  s.endGroup();
+  if (artistbio) {
+    ui_->tabs->EnableTab(artistbio_view_);
+  }
+  else {
+    ui_->tabs->DisableTab(artistbio_view_);
+  }
 
 #ifdef HAVE_SUBSONIC
   s.beginGroup(SubsonicSettingsPage::kSettingsGroup);
