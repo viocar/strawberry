@@ -35,8 +35,8 @@
 
 #include "globalshortcutsbackend-kde.h"
 
-#include "kglobalaccel.h"
-#include "kglobalaccelcomponent.h"
+#include "globalshortcuts/kglobalaccel.h"
+#include "globalshortcuts/kglobalaccelcomponent.h"
 
 using namespace Qt::Literals::StringLiterals;
 

@@ -33,7 +33,7 @@
 #include "globalshortcutsbackend.h"
 #include "globalshortcutsbackend-mate.h"
 
-#include "matesettingsdaemon.h"
+#include "globalshortcuts/matesettingsdaemon.h"
 
 using namespace Qt::Literals::StringLiterals;
 

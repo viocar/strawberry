@@ -35,7 +35,7 @@
 #include "globalshortcutsbackend.h"
 #include "globalshortcutsbackend-gnome.h"
 
-#include "gnomesettingsdaemon.h"
+#include "globalshortcuts/gnomesettingsdaemon.h"
 
 using namespace Qt::Literals::StringLiterals;
 
