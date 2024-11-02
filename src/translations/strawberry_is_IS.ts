@@ -382,7 +382,7 @@
     </message>
     <message>
       <source>Tabbar colors</source>
-      <translation type="unfinished">Tabbar colors</translation>
+      <translation>Litir flipastiku</translation>
     </message>
     <message>
       <source>&amp;Use the system default color</source>
@@ -398,7 +398,7 @@
     </message>
     <message>
       <source>Select tabbar color:</source>
-      <translation type="unfinished">Select tabbar color:</translation>
+      <translation>Veldu lit á flipastiku:</translation>
     </message>
     <message>
       <source>Background image</source>
@@ -422,7 +422,7 @@
     </message>
     <message>
       <source>Custom image:</source>
-      <translation>Sérsniðin mynd</translation>
+      <translation>Sérsniðin mynd:</translation>
     </message>
     <message>
       <source>Browse...</source>
@@ -494,7 +494,7 @@
     </message>
     <message>
       <source>Tabbar large mode</source>
-      <translation type="unfinished">Tabbar large mode</translation>
+      <translation>Stór flipastika</translation>
     </message>
     <message>
       <source>Play control buttons</source>
@@ -510,11 +510,11 @@
     </message>
     <message>
       <source>Tabbar small mode</source>
-      <translation type="unfinished">Tabbar small mode</translation>
+      <translation>Lítil flipastika</translation>
     </message>
     <message>
       <source>Playlist playing song color</source>
-      <translation type="unfinished">Playlist playing song color</translation>
+      <translation>Litur lags í spilunarlista sem er núna í spilun</translation>
     </message>
     <message>
       <source>System highlight color</source>
@@ -526,7 +526,7 @@
     </message>
     <message>
       <source>Select playlist playing song color:</source>
-      <translation type="unfinished">Select playlist playing song color:</translation>
+      <translation>Veldu lit spilandi lags í spilunarlista:</translation>
     </message>
     <message>
       <source>Select background image</source>
@@ -808,7 +808,7 @@
     </message>
     <message>
       <source>Append to the playlist</source>
-      <translation>Bæta við lagalistann</translation>
+      <translation>Bæta við spilunarlistann</translation>
     </message>
     <message>
       <source>Replace the playlist</source>
@@ -1051,7 +1051,7 @@
     </message>
     <message>
       <source>Song fingerprinting and tracking</source>
-      <translation type="unfinished">Song fingerprinting and tracking</translation>
+      <translation>Gerð fingrafara og vöktun laga</translation>
     </message>
     <message>
       <source>Mark disappeared songs unavailable</source>
@@ -1180,7 +1180,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Append to current playlist</source>
-      <translation>Bæta við fyrirliggjandi lagalista</translation>
+      <translation>Bæta við fyrirliggjandi spilunarlista</translation>
     </message>
     <message>
       <source>Replace current playlist</source>
@@ -1597,7 +1597,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Add to playlist</source>
-      <translation>Bæta við lagalista</translation>
+      <translation>Bæta á spilunarlista</translation>
     </message>
   </context>
   <context>
@@ -1947,7 +1947,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Append to current playlist</source>
-      <translation>Bæta við fyrirliggjandi lagalista</translation>
+      <translation>Bæta við fyrirliggjandi spilunarlista</translation>
     </message>
     <message>
       <source>Replace current playlist</source>
@@ -2486,7 +2486,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     <name>FileViewList</name>
     <message>
       <source>Append to current playlist</source>
-      <translation>Bæta við fyrirliggjandi lagalista</translation>
+      <translation>Bæta við fyrirliggjandi spilunarlista</translation>
     </message>
     <message>
       <source>Replace current playlist</source>
@@ -2647,7 +2647,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Restart or previous track</source>
-      <translation type="unfinished">Restart or previous track</translation>
+      <translation>Byrja aftur eða fyrra lag</translation>
     </message>
     <message>
       <source>Increase volume</source>
@@ -2890,7 +2890,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Separate albums by grouping tag</source>
-      <translation type="unfinished">Separate albums by grouping tag</translation>
+      <translation>Aðgreina hljómplötur með hópunarmerki</translation>
     </message>
   </context>
   <context>
@@ -2943,7 +2943,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Receiving initial data from last.fm...</source>
-      <translation type="unfinished">Receiving initial data from last.fm...</translation>
+      <translation>Tek á móti frumgögnum frá last.fm...</translation>
     </message>
     <message>
       <source>Receiving playcount for %1 songs and last played for %2 songs.</source>
@@ -2951,7 +2951,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Receiving last played for %1 songs.</source>
-      <translation type="unfinished">Receiving last played for %1 songs.</translation>
+      <translation>Næ í síðast spilað fyrir %1 lög.</translation>
     </message>
     <message>
       <source>Receiving playcounts for %1 songs.</source>
@@ -3169,7 +3169,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Clear playlist</source>
-      <translation>Hreinsa lagalista</translation>
+      <translation>Hreinsa spilunarlista</translation>
     </message>
     <message>
       <source>Ctrl+K</source>
@@ -3393,7 +3393,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Playlists</source>
-      <translation>Lagalisti</translation>
+      <translation>Spilunarlistar</translation>
     </message>
     <message>
       <source>Smart playlists</source>
@@ -3569,7 +3569,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>New playlist</source>
-      <translation>Nýr lagalisti</translation>
+      <translation>Nýr spilunarlisti</translation>
     </message>
     <message>
       <source>Add file</source>
@@ -3738,7 +3738,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Use proxy settings for streaming</source>
-      <translation type="unfinished">Use proxy settings for streaming</translation>
+      <translation>Nota stillingar milliþjóns fyrir streymi</translation>
     </message>
   </context>
   <context>
@@ -3762,7 +3762,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Show a &amp;native desktop notification</source>
-      <translation type="unfinished">Show a &amp;native desktop notification</translation>
+      <translation>Birta tilky&amp;nningu í innbyggðu kerfistilkynningakerfi</translation>
     </message>
     <message>
       <source>Show a pretty OSD</source>
@@ -3770,7 +3770,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Show a popup fro&amp;m the system tray</source>
-      <translation type="unfinished">Show a popup fro&amp;m the system tray</translation>
+      <translation>&amp;Birta sprettglugga úr kerfisbakka</translation>
     </message>
     <message>
       <source>General settings</source>
@@ -4095,7 +4095,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Remove problematic characters from filenames</source>
-      <translation type="unfinished">Remove problematic characters from filenames</translation>
+      <translation>Fjarlægja vandræðastafi úr skráarheitum</translation>
     </message>
     <message>
       <source>Restrict to characters allowed on FAT filesystems</source>
@@ -4581,11 +4581,11 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     <name>PlaylistParser</name>
     <message>
       <source>All playlists (%1)</source>
-      <translation>Allir lagalistar (%1)</translation>
+      <translation>Allir spilunarlistar (%1)</translation>
     </message>
     <message>
       <source>%1 playlists (%2)</source>
-      <translation>%1 lagalistar (%2)</translation>
+      <translation>%1 spilunarlistar (%2)</translation>
     </message>
     <message>
       <source>Unknown filetype: %1</source>
@@ -4698,11 +4698,11 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Show bars on the currently playing track</source>
-      <translation type="unfinished">Show bars on the currently playing track</translation>
+      <translation>Birta súlur á lagi sem nú er í spilun</translation>
     </message>
     <message>
       <source>Show a glowing animation on the currently playing track</source>
-      <translation type="unfinished">Show a glowing animation on the currently playing track</translation>
+      <translation>Birta glóandi myndlífgun á lagi sem nú er í spilun</translation>
     </message>
     <message>
       <source>Warn me when closing a playlist tab</source>
@@ -4750,7 +4750,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Absolu&amp;te</source>
-      <translation>Algildar</translation>
+      <translation>Al&amp;gildar</translation>
     </message>
     <message>
       <source>Re&amp;lative</source>
@@ -4785,7 +4785,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Close playlist</source>
-      <translation>Loka lagalista</translation>
+      <translation>Loka spilunarlista</translation>
     </message>
     <message>
       <source>Rename playlist...</source>
@@ -4801,11 +4801,11 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Enter a new name for this playlist</source>
-      <translation>Settu inn nýtt nafn á þennan lagalista</translation>
+      <translation>Settu inn nýtt nafn á þennan spilunarlista</translation>
     </message>
     <message>
       <source>Remove playlist</source>
-      <translation>Fjarlægja lagalista</translation>
+      <translation>Fjarlægja spilunarlista</translation>
     </message>
     <message>
       <source>You are about to remove a playlist which is not part of your favorite playlists: the playlist will be deleted (this action cannot be undone). 
@@ -4827,7 +4827,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     </message>
     <message>
       <source>Playlist</source>
-      <translation>Lagalisti</translation>
+      <translation>Spilunarlisti</translation>
     </message>
   </context>
   <context>
@@ -4977,11 +4977,11 @@ Ertu viss um að þú viljir halda áfram?</translation>
     </message>
     <message>
       <source>Append files/URLs to the playlist</source>
-      <translation>Bæta skrám/slóðum í lagalista</translation>
+      <translation>Bæta skrám/slóðum í spilunarlistann</translation>
     </message>
     <message>
       <source>Loads files/URLs, replacing current playlist</source>
-      <translation>Hleður inn skrám/slóðum, skiptir út núverandi lagalista</translation>
+      <translation>Hleður inn skrám/slóðum, skiptir út fyrirliggjandi spilunarlista</translation>
     </message>
     <message>
       <source>Play the &lt;n&gt;th track in the playlist</source>
@@ -5529,7 +5529,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     <name>QueueView</name>
     <message>
       <source>QueueView</source>
-      <translation type="unfinished">QueueView</translation>
+      <translation>Biðraðasýn</translation>
     </message>
     <message>
       <source>Move down</source>
@@ -5571,7 +5571,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     <name>RadioView</name>
     <message>
       <source>Append to current playlist</source>
-      <translation>Bæta við fyrirliggjandi lagalista</translation>
+      <translation>Bæta við fyrirliggjandi spilunarlista</translation>
     </message>
     <message>
       <source>Replace current playlist</source>
@@ -6001,7 +6001,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     </message>
     <message>
       <source>A song will be included in the playlist if it matches these conditions.</source>
-      <translation>Lag birtist á lagalista að ákveðnum skilyrðum uppfylltum.</translation>
+      <translation>Lag birtist á spilunarlista að ákveðnum skilyrðum uppfylltum.</translation>
     </message>
     <message>
       <source>Search options</source>
@@ -6162,7 +6162,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     </message>
     <message>
       <source>Append to current playlist</source>
-      <translation>Bæta við fyrirliggjandi lagalista</translation>
+      <translation>Bæta við fyrirliggjandi spilunarlista</translation>
     </message>
     <message>
       <source>Replace current playlist</source>
@@ -6213,7 +6213,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     </message>
     <message>
       <source>Copy your strawberry.conf and strawberry.db from your ~/snap directory to avoid losing configuration before you uninstall the snap:</source>
-      <translation type="unfinished">Copy your strawberry.conf and strawberry.db from your ~/snap directory to avoid losing configuration before you uninstall the snap:</translation>
+      <translation>Afritaðu strawberry.conf og strawberry.db úr ~/snap möppunni þinni til að forðast að tapa grunnstillingunum þínum áður en þú fjarlægir snap-pakkann:</translation>
     </message>
     <message>
       <source>Uninstall the snap with:</source>
@@ -6434,7 +6434,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     <name>StreamingCollectionView</name>
     <message>
       <source>The streaming collection is empty!</source>
-      <translation type="unfinished">The streaming collection is empty!</translation>
+      <translation>Streymisafnið er tómt!</translation>
     </message>
     <message>
       <source>Click here to retrieve music</source>
@@ -6442,7 +6442,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     </message>
     <message>
       <source>Append to current playlist</source>
-      <translation>Bæta við fyrirliggjandi lagalista</translation>
+      <translation>Bæta við fyrirliggjandi spilunarlista</translation>
     </message>
     <message>
       <source>Replace current playlist</source>
@@ -6523,7 +6523,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     </message>
     <message>
       <source>Append to current playlist</source>
-      <translation>Bæta við núverandi lagalista</translation>
+      <translation>Bæta við fyrirliggjandi spilunarlista</translation>
     </message>
     <message>
       <source>Replace current playlist</source>
@@ -6813,7 +6813,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     <name>TidalService</name>
     <message>
       <source>Reply from Tidal is missing query items.</source>
-      <translation type="unfinished">Reply from Tidal is missing query items.</translation>
+      <translation>Svar frá Tidal vantar atriði í beiðni.</translation>
     </message>
     <message>
       <source>Missing Tidal API token.</source>
@@ -6924,7 +6924,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     </message>
     <message>
       <source>Stream URL method</source>
-      <translation type="unfinished">Stream URL method</translation>
+      <translation>Aðferð fyrir slóð streymis</translation>
     </message>
     <message>
       <source>Append explicit to album title for explicit albums</source>
