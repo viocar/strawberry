@@ -17,7 +17,7 @@
     </message>
     <message>
       <source>Strawberry is a music player and music collection organizer.</source>
-      <translation type="unfinished">Strawberry is a music player and music collection organizer.</translation>
+      <translation>Strawberry er tónlistarspilari og skipulagningartól fyrir tónlistarsafnið.</translation>
     </message>
     <message>
       <source>It is a fork of Clementine released in 2018 aimed at music collectors and audiophiles.</source>
@@ -25,11 +25,11 @@
     </message>
     <message>
       <source>Strawberry is free software released under GPL. The source code is available on %1</source>
-      <translation type="unfinished">Strawberry is free software released under GPL. The source code is available on %1</translation>
+      <translation>Strawberry er frjáls hugbúnaður, gefinn út með almenna GPL-notkunarleyfinu. Grunnkóðann má nálgast á %1</translation>
     </message>
     <message>
       <source>You should have received a copy of the GNU General Public License along with this program.  If not, see %1</source>
-      <translation type="unfinished">You should have received a copy of the GNU General Public License along with this program.  If not, see %1</translation>
+      <translation>Það ætti að hafa fylgt afrit af almenna GNU GPL notkunarleyfinu með forritinu. Ef ekki, skoðaðu þá %1</translation>
     </message>
     <message>
       <source>If you like Strawberry and can make use of it, consider sponsoring or donating.</source>
@@ -37,7 +37,7 @@
     </message>
     <message>
       <source>You can sponsor the author on %1. You can also make a one-time payment through %2.</source>
-      <translation type="unfinished">You can sponsor the author on %1. You can also make a one-time payment through %2.</translation>
+      <translation>Þú getur styrkt höfundinn á %1. Þú getur líka lagt fram eins-skiptis greiðslu í gegnum %2.</translation>
     </message>
     <message>
       <source>Author and maintainer</source>
@@ -61,7 +61,7 @@
     </message>
     <message>
       <source>Thanks to all the other Amarok and Clementine contributors.</source>
-      <translation type="unfinished">Thanks to all the other Amarok and Clementine contributors.</translation>
+      <translation>Bestu þakkir til allra hinna þátttakendanna í Amarok og Clementine verkefnunum.</translation>
     </message>
   </context>
   <context>
@@ -866,7 +866,7 @@
     <name>CollectionBackend</name>
     <message>
       <source>Unable to execute collection SQL query: %1</source>
-      <translation type="unfinished">Unable to execute collection SQL query: %1</translation>
+      <translation>Tókst ekki að keyra SQL-beiðni á safn: %1</translation>
     </message>
     <message>
       <source>Failed SQL query: %1</source>
@@ -1027,7 +1027,7 @@
     </message>
     <message>
       <source>These folders will be scanned for music to make up your collection</source>
-      <translation type="unfinished">These folders will be scanned for music to make up your collection</translation>
+      <translation>Leitað verður í þessum möppum eftir efni í safnið þitt</translation>
     </message>
     <message>
       <source>Add new folder...</source>
@@ -1076,8 +1076,8 @@
     <message>
       <source>When looking for album art Strawberry will first look for picture files that contain one of these words.
 If there are no matches then it will use the largest image in the directory.</source>
-      <translation type="unfinished">When looking for album art Strawberry will first look for picture files that contain one of these words.
-If there are no matches then it will use the largest image in the directory.</translation>
+      <translation>Þegar leitað er að umslagsmyndum mun Strawberry leita fyrst að heitum myndskráa sem innihalda eitt af þessum orðum.
+Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni.</translation>
     </message>
     <message>
       <source>Display options</source>
@@ -1093,7 +1093,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Show album cover art in collection</source>
-      <translation type="unfinished">Show album cover art in collection</translation>
+      <translation>Birta myndefni plötuumslaga í safni</translation>
     </message>
     <message>
       <source>Use various artists for compilation albums</source>
@@ -1101,7 +1101,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Skip leading articles (&quot;the&quot;, &quot;a&quot;, &quot;an&quot;) when sorting artist names</source>
-      <translation type="unfinished">Skip leading articles (&quot;the&quot;, &quot;a&quot;, &quot;an&quot;) when sorting artist names</translation>
+      <translation>Sleppa greinum á undan (&quot;the&quot;, &quot;a&quot;, &quot;an&quot;) þegar nöfnum flytjenda er raðað</translation>
     </message>
     <message>
       <source>Album cover pixmap cache</source>
@@ -1133,11 +1133,11 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Save playcounts to song tags when possible</source>
-      <translation type="unfinished">Save playcounts to song tags when possible</translation>
+      <translation>Vista spilunarfjölda í lagamerkjum þegar það er mögulegt</translation>
     </message>
     <message>
       <source>Save ratings to song tags when possible</source>
-      <translation type="unfinished">Save ratings to song tags when possible</translation>
+      <translation>Vista einkunnir í lagamerkjum þegar það er mögulegt</translation>
     </message>
     <message>
       <source>Overwrite database playcount when songs are re-read from disk</source>
@@ -1149,7 +1149,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Save playcounts and ratings to files now</source>
-      <translation type="unfinished">Save playcounts and ratings to files now</translation>
+      <translation>Vista núna fjölda spilana og einkunnir í skrár</translation>
     </message>
     <message>
       <source>Enable delete files in the right click context menu</source>
@@ -1161,11 +1161,11 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Write all playcounts and ratings to files</source>
-      <translation type="unfinished">Write all playcounts and ratings to files</translation>
+      <translation>Vista allan fjölda spilana og einkunnir í skrár</translation>
     </message>
     <message>
       <source>Are you sure you want to write song playcounts and ratings to file for all songs in your collection?</source>
-      <translation type="unfinished">Are you sure you want to write song playcounts and ratings to file for all songs in your collection?</translation>
+      <translation>Ertu viss að þú viljir skrifa tölfræði allra laga í safninu í allar hljóðskrár í safninu þínu?</translation>
     </message>
   </context>
   <context>
@@ -1244,7 +1244,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Would you like to move the other songs on this album to Various Artists as well?</source>
-      <translation type="unfinished">Would you like to move the other songs on this album to Various Artists as well?</translation>
+      <translation>Viltu einnig færa hin lögin á þessari hljómplötu yfir í &apos;Ýmsir flytjendur&apos;?</translation>
     </message>
     <message>
       <source>Error</source>
@@ -1784,7 +1784,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>The following files will be deleted from disk:</source>
-      <translation type="unfinished">The following files will be deleted from disk:</translation>
+      <translation>Eftirfarandi skrám verður eytt af diski:</translation>
     </message>
     <message>
       <source>Are you sure you want to continue?</source>
@@ -1829,7 +1829,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>This is the first time you have connected this device.  Strawberry will now scan the device to find music files - this may take some time.</source>
-      <translation type="unfinished">This is the first time you have connected this device.  Strawberry will now scan the device to find music files - this may take some time.</translation>
+      <translation>Þetta er í fyrsta skipti sem þú tengir þetta tæki. Strawberry mun núna skanna tækið til að finna tónlistarskrár - það gæti tekið nokkra stund.</translation>
     </message>
     <message>
       <source>This device will not work properly</source>
@@ -1837,7 +1837,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>This is an MTP device, but you compiled Strawberry without libmtp support.</source>
-      <translation type="unfinished">This is an MTP device, but you compiled Strawberry without libmtp support.</translation>
+      <translation>Þetta er MTP-tæki, en þú vistþýddir Strawberry án stuðnings við libmtp.</translation>
     </message>
     <message>
       <source>If you continue, this device will work slowly and songs copied to it may not work.</source>
@@ -1845,7 +1845,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>This is an iPod, but you compiled Strawberry without libgpod support.</source>
-      <translation type="unfinished">This is an iPod, but you compiled Strawberry without libgpod support.</translation>
+      <translation>Þetta er iPod, en þú vistþýddir Strawberry án stuðnings við libgpod.</translation>
     </message>
     <message>
       <source>This type of device is not supported: %1</source>
@@ -1892,7 +1892,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Strawberry can automatically convert the music you copy to this device into a format that it can play.</source>
-      <translation type="unfinished">Strawberry can automatically convert the music you copy to this device into a format that it can play.</translation>
+      <translation>/ getur sjálfkrafa umbreytt tónlistinni sem þú afritar á þetta tæki yfir í snið sem það getur spilað.</translation>
     </message>
     <message>
       <source>Do not convert any music</source>
@@ -1912,7 +1912,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>This device must be connected and opened before Strawberry can see what file formats it supports.</source>
-      <translation type="unfinished">This device must be connected and opened before Strawberry can see what file formats it supports.</translation>
+      <translation>Þetta tæki verður að vera tengt og opnað áður en Strawberry getur séð hvaða skráasnið það styður.</translation>
     </message>
     <message>
       <source>Open device</source>
@@ -2726,7 +2726,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>You need to launch System Preferences and allow Strawberry to &quot;&lt;span style=&quot;font-style:italic&quot;&gt;control your computer&lt;/span&gt;&quot; to use global shortcuts in Strawberry.</source>
-      <translation type="unfinished">You need to launch System Preferences and allow Strawberry to &quot;&lt;span style=&quot;font-style:italic&quot;&gt;control your computer&lt;/span&gt;&quot; to use global shortcuts in Strawberry.</translation>
+      <translation>Þú þarft að fara í kerfisstillingarnar þínar og leyfa Strawberry að &quot;&lt;span style=&quot;font-style:italic&quot;&gt;stýra tölvunni þinni&lt;/span&gt;&quot; til þess að geta notað altækar flýtileiðir í Strawberry.</translation>
     </message>
     <message>
       <source>Action</source>
@@ -3597,7 +3597,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>The version of Strawberry you&apos;ve just updated to requires a full collection rescan because of the new features listed below:</source>
-      <translation type="unfinished">The version of Strawberry you&apos;ve just updated to requires a full collection rescan because of the new features listed below:</translation>
+      <translation>Sú útgáfa af Strawberry sem þú varst að uppfæra í, krefst þess að safnið sé skannað til fulls. Það er vegna nýrra eiginleika sem taldir eru upp hér fyrir neðan:</translation>
     </message>
     <message>
       <source>Would you like to run a full rescan right now?</source>
@@ -3749,7 +3749,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Strawberry can show a message when the track changes.</source>
-      <translation type="unfinished">Strawberry can show a message when the track changes.</translation>
+      <translation>Strawberry getur birt skilaboð þegar skipt er um lag.</translation>
     </message>
     <message>
       <source>Notification type</source>
@@ -6990,7 +6990,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     </message>
     <message>
       <source>Strawberry was unable to find results for this file</source>
-      <translation type="unfinished">Strawberry was unable to find results for this file</translation>
+      <translation>Strawberry fann engar niðurstöður fyrir þessa skrá</translation>
     </message>
     <message>
       <source>Select best possible match</source>
