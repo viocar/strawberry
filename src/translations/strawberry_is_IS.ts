@@ -5,15 +5,15 @@
     <name>About</name>
     <message>
       <source>About</source>
-      <translation type="unfinished">About</translation>
+      <translation>Um hugbúnaðinn</translation>
     </message>
     <message>
       <source>About Strawberry</source>
-      <translation type="unfinished">About Strawberry</translation>
+      <translation>Um Strawberry</translation>
     </message>
     <message>
       <source>Version %1</source>
-      <translation type="unfinished">Version %1</translation>
+      <translation>Útgáfa %1</translation>
     </message>
     <message>
       <source>Strawberry is a music player and music collection organizer.</source>
@@ -21,7 +21,7 @@
     </message>
     <message>
       <source>It is a fork of Clementine released in 2018 aimed at music collectors and audiophiles.</source>
-      <translation type="unfinished">It is a fork of Clementine released in 2018 aimed at music collectors and audiophiles.</translation>
+      <translation>Það er kvíslað frá Clementine árið 2018 og miðast við þarfir tónlistarsafnara og hljómgæðafikla.</translation>
     </message>
     <message>
       <source>Strawberry is free software released under GPL. The source code is available on %1</source>
@@ -33,7 +33,7 @@
     </message>
     <message>
       <source>If you like Strawberry and can make use of it, consider sponsoring or donating.</source>
-      <translation type="unfinished">If you like Strawberry and can make use of it, consider sponsoring or donating.</translation>
+      <translation>Ef þú kannt við Strawberry og það nýtist þér vel, ættirðu að íhuga að styrkja verkefnið.</translation>
     </message>
     <message>
       <source>You can sponsor the author on %1. You can also make a one-time payment through %2.</source>
@@ -41,23 +41,23 @@
     </message>
     <message>
       <source>Author and maintainer</source>
-      <translation type="unfinished">Author and maintainer</translation>
+      <translation>Höfundur og umsjónarmaður</translation>
     </message>
     <message>
       <source>Contributors</source>
-      <translation type="unfinished">Contributors</translation>
+      <translation>Þátttakendur</translation>
     </message>
     <message>
       <source>Clementine authors</source>
-      <translation type="unfinished">Clementine authors</translation>
+      <translation>Höfundar Clementine</translation>
     </message>
     <message>
       <source>Clementine contributors</source>
-      <translation type="unfinished">Clementine contributors</translation>
+      <translation>Þátttakendur í Clementine</translation>
     </message>
     <message>
       <source>Thanks to</source>
-      <translation type="unfinished">Thanks to</translation>
+      <translation>Þakkir til</translation>
     </message>
     <message>
       <source>Thanks to all the other Amarok and Clementine contributors.</source>
@@ -68,309 +68,309 @@
     <name>AddStreamDialog</name>
     <message>
       <source>Add Stream</source>
-      <translation type="unfinished">Add Stream</translation>
+      <translation>Bæta við streymi</translation>
     </message>
     <message>
       <source>Enter the URL of a stream:</source>
-      <translation type="unfinished">Enter the URL of a stream:</translation>
+      <translation>Settu inn slóð á streymi:</translation>
     </message>
   </context>
   <context>
     <name>AlbumCoverChoiceController</name>
     <message>
       <source>Images (*.png *.jpg *.jpeg *.bmp *.gif *.xpm *.pbm *.pgm *.ppm *.xbm)</source>
-      <translation type="unfinished">Images (*.png *.jpg *.jpeg *.bmp *.gif *.xpm *.pbm *.pgm *.ppm *.xbm)</translation>
+      <translation>Myndir (*.png *.jpg *.jpeg *.bmp *.gif *.xpm *.pbm *.pgm *.ppm *.xbm)</translation>
     </message>
     <message>
       <source>Images (*.png *.jpg *.jpeg *.bmp *.xpm *.pbm *.ppm *.xbm)</source>
-      <translation type="unfinished">Images (*.png *.jpg *.jpeg *.bmp *.xpm *.pbm *.ppm *.xbm)</translation>
+      <translation>Myndir (*.png *.jpg *.jpeg *.bmp *.xpm *.pbm *.ppm *.xbm)</translation>
     </message>
     <message>
       <source>All files (*)</source>
-      <translation type="unfinished">All files (*)</translation>
+      <translation>Allar skrár (*)</translation>
     </message>
     <message>
       <source>Load cover from disk...</source>
-      <translation type="unfinished">Load cover from disk...</translation>
+      <translation>Hlaða umslagi af diski...</translation>
     </message>
     <message>
       <source>Save cover to disk...</source>
-      <translation type="unfinished">Save cover to disk...</translation>
+      <translation>Vista umslag á disk...</translation>
     </message>
     <message>
       <source>Load cover from URL...</source>
-      <translation type="unfinished">Load cover from URL...</translation>
+      <translation>Hlaða umslagi af vefslóð...</translation>
     </message>
     <message>
       <source>Search for album covers...</source>
-      <translation type="unfinished">Search for album covers...</translation>
+      <translation>Leita að plötuumslögum...</translation>
     </message>
     <message>
       <source>Unset cover</source>
-      <translation type="unfinished">Unset cover</translation>
+      <translation>Aftengja umslag</translation>
     </message>
     <message>
       <source>Delete cover</source>
-      <translation type="unfinished">Delete cover</translation>
+      <translation>Eyða umslagi</translation>
     </message>
     <message>
       <source>Clear cover</source>
-      <translation type="unfinished">Clear cover</translation>
+      <translation>Hreinsa umslag</translation>
     </message>
     <message>
       <source>Show fullsize...</source>
-      <translation type="unfinished">Show fullsize...</translation>
+      <translation>Sýna fulla stærð...</translation>
     </message>
     <message>
       <source>Search automatically</source>
-      <translation type="unfinished">Search automatically</translation>
+      <translation>Leita sjálfvirkt</translation>
     </message>
     <message>
       <source>Load cover from disk</source>
-      <translation type="unfinished">Load cover from disk</translation>
+      <translation>Hlaða umslagi af diski</translation>
     </message>
     <message>
       <source>Failed to open cover file %1 for reading: %2</source>
-      <translation type="unfinished">Failed to open cover file %1 for reading: %2</translation>
+      <translation>Get ekki opnað umslagsskrána %1 til lestrar: %2</translation>
     </message>
     <message>
       <source>Cover file %1 is empty.</source>
-      <translation type="unfinished">Cover file %1 is empty.</translation>
+      <translation>Umslagsskráin %1 er tóm.</translation>
     </message>
     <message>
       <source>unknown</source>
-      <translation type="unfinished">unknown</translation>
+      <translation>óþekkt</translation>
     </message>
     <message>
       <source>Save album cover</source>
-      <translation type="unfinished">Save album cover</translation>
+      <translation>Vista plötuumslag</translation>
     </message>
     <message>
       <source>Failed to open cover file %1 for writing: %2</source>
-      <translation type="unfinished">Failed to open cover file %1 for writing: %2</translation>
+      <translation>Get ekki opnað umslagsskrána %1 til skrifunar: %2</translation>
     </message>
     <message>
       <source>Failed writing cover to file %1: %2</source>
-      <translation type="unfinished">Failed writing cover to file %1: %2</translation>
+      <translation>Gat ekki skrifað umslag í skrá %1 : %2</translation>
     </message>
     <message>
       <source>Failed writing cover to file %1.</source>
-      <translation type="unfinished">Failed writing cover to file %1.</translation>
+      <translation>Gat ekki skrifað umslag í skrá %1 .</translation>
     </message>
     <message>
       <source>Failed to delete cover file %1: %2</source>
-      <translation type="unfinished">Failed to delete cover file %1: %2</translation>
+      <translation>Mistókst að eyða umslagsskrá %1: %2</translation>
     </message>
     <message>
       <source>Failed to write cover to file %1: %2</source>
-      <translation type="unfinished">Failed to write cover to file %1: %2</translation>
+      <translation>Gat ekki skrifað umslag í skrá %1 : %2</translation>
     </message>
     <message>
       <source>Could not save cover to file %1.</source>
-      <translation type="unfinished">Could not save cover to file %1.</translation>
+      <translation>Gat ekki vistað umslag í skrána %1.</translation>
     </message>
   </context>
   <context>
     <name>AlbumCoverExport</name>
     <message>
       <source>Export covers</source>
-      <translation type="unfinished">Export covers</translation>
+      <translation>Flytja út umslög</translation>
     </message>
     <message>
       <source>Output</source>
-      <translation type="unfinished">Output</translation>
+      <translation>Úttak</translation>
     </message>
     <message>
       <source>Enter a filename for exported covers (no extension):</source>
-      <translation type="unfinished">Enter a filename for exported covers (no extension):</translation>
+      <translation>Settu inn skráarheiti fyrir útflutt umslög (engin skráarending):</translation>
     </message>
     <message>
       <source>Export downloaded covers</source>
-      <translation type="unfinished">Export downloaded covers</translation>
+      <translation>Flytja út sótt umslög</translation>
     </message>
     <message>
       <source>Export embedded covers</source>
-      <translation type="unfinished">Export embedded covers</translation>
+      <translation>Flytja út innbyggð umslög</translation>
     </message>
     <message>
       <source>Existing covers</source>
-      <translation type="unfinished">Existing covers</translation>
+      <translation>Fyrirliggjandi umslög</translation>
     </message>
     <message>
       <source>Do not overwrite</source>
-      <translation type="unfinished">Do not overwrite</translation>
+      <translation>Ekki skrifa yfir</translation>
     </message>
     <message>
       <source>O&amp;verwrite all</source>
-      <translation type="unfinished">O&amp;verwrite all</translation>
+      <translation>&amp;Yfirskrifa allt</translation>
     </message>
     <message>
       <source>Overwrite s&amp;maller ones only</source>
-      <translation type="unfinished">Overwrite s&amp;maller ones only</translation>
+      <translation>Einungis skrifa yfir s&amp;mærri</translation>
     </message>
     <message>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Stærð</translation>
     </message>
     <message>
       <source>Scale size</source>
-      <translation type="unfinished">Scale size</translation>
+      <translation>Kvarða stærð</translation>
     </message>
     <message>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>Stærð:</translation>
     </message>
     <message>
       <source>Pixel</source>
-      <translation type="unfinished">Pixel</translation>
+      <translation>Mynddíll</translation>
     </message>
   </context>
   <context>
     <name>AlbumCoverManager</name>
     <message>
       <source>Abort</source>
-      <translation type="unfinished">Abort</translation>
+      <translation>Hætta við</translation>
     </message>
     <message>
       <source>All albums</source>
-      <translation type="unfinished">All albums</translation>
+      <translation>Allar hljómplötur</translation>
     </message>
     <message>
       <source>Albums with covers</source>
-      <translation type="unfinished">Albums with covers</translation>
+      <translation>Hljómplötur með umslögum</translation>
     </message>
     <message>
       <source>Albums without covers</source>
-      <translation type="unfinished">Albums without covers</translation>
+      <translation>Hljómplötur án umslaga</translation>
     </message>
     <message>
       <source>Really cancel?</source>
-      <translation type="unfinished">Really cancel?</translation>
+      <translation>Ertu viss um að þú viljir hætta við?</translation>
     </message>
     <message>
       <source>Closing this window will stop searching for album covers.</source>
-      <translation type="unfinished">Closing this window will stop searching for album covers.</translation>
+      <translation>Ef þessum glugga er lokað, verður hætt við leit að umslögum.</translation>
     </message>
     <message>
       <source>Don&apos;t stop!</source>
-      <translation type="unfinished">Don&apos;t stop!</translation>
+      <translation>Ekki hætta!</translation>
     </message>
     <message>
       <source>All artists</source>
-      <translation type="unfinished">All artists</translation>
+      <translation>Allir flytjendur</translation>
     </message>
     <message>
       <source>Various artists</source>
-      <translation type="unfinished">Various artists</translation>
+      <translation>Ýmsir flytjendur</translation>
     </message>
     <message>
       <source>Got %1 covers out of %2 (%3 failed)</source>
-      <translation type="unfinished">Got %1 covers out of %2 (%3 failed)</translation>
+      <translation>Náði í %1 umslag af %2 (%3 mistókust)</translation>
     </message>
     <message>
       <source>%1 transferred</source>
-      <translation type="unfinished">%1 transferred</translation>
+      <translation>%1 flutt</translation>
     </message>
     <message>
       <source>Export finished</source>
-      <translation type="unfinished">Export finished</translation>
+      <translation>Útflutningi lokið</translation>
     </message>
     <message>
       <source>No covers to export.</source>
-      <translation type="unfinished">No covers to export.</translation>
+      <translation>Engin umslög til að flytja út.</translation>
     </message>
     <message>
       <source>Exported %1 covers out of %2 (%3 skipped)</source>
-      <translation type="unfinished">Exported %1 covers out of %2 (%3 skipped)</translation>
+      <translation>Flutti út %1 umslög af %2 (%3 sleppt)</translation>
     </message>
     <message>
       <source>Could not save cover to file %1.</source>
-      <translation type="unfinished">Could not save cover to file %1.</translation>
+      <translation>Gat ekki vistað umslag í skrána %1.</translation>
     </message>
   </context>
   <context>
     <name>AlbumCoverSearcher</name>
     <message>
       <source>Cover Manager</source>
-      <translation type="unfinished">Cover Manager</translation>
+      <translation>Umslagastjóri</translation>
     </message>
     <message>
       <source>Artist</source>
-      <translation type="unfinished">Artist</translation>
+      <translation>Flytjandi</translation>
     </message>
     <message>
       <source>Album</source>
-      <translation type="unfinished">Album</translation>
+      <translation>Hljómplata</translation>
     </message>
     <message>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>Leita</translation>
     </message>
     <message>
       <source>Covers from %1</source>
-      <translation type="unfinished">Covers from %1</translation>
+      <translation>Umslög frá %1</translation>
     </message>
     <message>
       <source>Abort</source>
-      <translation type="unfinished">Abort</translation>
+      <translation>Hætta við</translation>
     </message>
   </context>
   <context>
     <name>AnalyzerContainer</name>
     <message>
       <source>Framerate</source>
-      <translation type="unfinished">Framerate</translation>
+      <translation>Rammahraði</translation>
     </message>
     <message>
       <source>Low (%1 fps)</source>
-      <translation type="unfinished">Low (%1 fps)</translation>
+      <translation>Lágur (%1 r/sek)</translation>
     </message>
     <message>
       <source>Medium (%1 fps)</source>
-      <translation type="unfinished">Medium (%1 fps)</translation>
+      <translation>Meðal (%1 r/sek)</translation>
     </message>
     <message>
       <source>High (%1 fps)</source>
-      <translation type="unfinished">High (%1 fps)</translation>
+      <translation>Hár (%1 r/sek)</translation>
     </message>
     <message>
       <source>Super high (%1 fps)</source>
-      <translation type="unfinished">Super high (%1 fps)</translation>
+      <translation>Mjög mikið (%1 r/sek)</translation>
     </message>
     <message>
       <source>No analyzer</source>
-      <translation type="unfinished">No analyzer</translation>
+      <translation>Engin greining</translation>
     </message>
     <message>
       <source>Block analyzer</source>
-      <translation type="unfinished">Block analyzer</translation>
+      <translation>Blokkagreining</translation>
     </message>
     <message>
       <source>Boom analyzer</source>
-      <translation type="unfinished">Boom analyzer</translation>
+      <translation>Tíðnigreining</translation>
     </message>
     <message>
       <source>Turbine</source>
-      <translation type="unfinished">Turbine</translation>
+      <translation>Túrbína</translation>
     </message>
     <message>
       <source>Sonogram</source>
-      <translation type="unfinished">Sonogram</translation>
+      <translation>Sonogram</translation>
     </message>
     <message>
       <source>WaveRubber</source>
-      <translation type="unfinished">WaveRubber</translation>
+      <translation>WaveRubber</translation>
     </message>
   </context>
   <context>
     <name>AppearanceSettingsPage</name>
     <message>
       <source>Appearance</source>
-      <translation type="unfinished">Appearance</translation>
+      <translation>Útlit</translation>
     </message>
     <message>
       <source>Style</source>
-      <translation type="unfinished">Style</translation>
+      <translation>Stíll</translation>
     </message>
     <message>
       <source>Use system theme icons</source>
@@ -378,7 +378,7 @@
     </message>
     <message>
       <source>Settings require restart.</source>
-      <translation type="unfinished">Settings require restart.</translation>
+      <translation>Breytingar á stillingum krefjast endurræsingar.</translation>
     </message>
     <message>
       <source>Tabbar colors</source>
@@ -386,11 +386,11 @@
     </message>
     <message>
       <source>&amp;Use the system default color</source>
-      <translation type="unfinished">&amp;Use the system default color</translation>
+      <translation>Nota sjálfgefinn lit &amp;kerfisins</translation>
     </message>
     <message>
       <source>Use custom color</source>
-      <translation type="unfinished">Use custom color</translation>
+      <translation>Nota sérsniðinn lit</translation>
     </message>
     <message>
       <source>Use gradient background</source>
@@ -402,59 +402,59 @@
     </message>
     <message>
       <source>Background image</source>
-      <translation type="unfinished">Background image</translation>
+      <translation>Bakgrunnsmynd</translation>
     </message>
     <message>
       <source>Default bac&amp;kground image</source>
-      <translation type="unfinished">Default bac&amp;kground image</translation>
+      <translation>Sjálfgefin ba&amp;kgrunnsmynd</translation>
     </message>
     <message>
       <source>&amp;No background image</source>
-      <translation type="unfinished">&amp;No background image</translation>
+      <translation>E&amp;ngin bakgrunnsmynd</translation>
     </message>
     <message>
       <source>The album cover of the currently playing song</source>
-      <translation type="unfinished">The album cover of the currently playing song</translation>
+      <translation>Umslagsmynd lagsins sem núna er í spilun</translation>
     </message>
     <message>
       <source>Albu&amp;m cover</source>
-      <translation type="unfinished">Albu&amp;m cover</translation>
+      <translation>Plötuu&amp;mslag</translation>
     </message>
     <message>
       <source>Custom image:</source>
-      <translation type="unfinished">Custom image:</translation>
+      <translation>Sérsniðin mynd</translation>
     </message>
     <message>
       <source>Browse...</source>
-      <translation type="unfinished">Browse...</translation>
+      <translation>Flakka...</translation>
     </message>
     <message>
       <source>Position</source>
-      <translation type="unfinished">Position</translation>
+      <translation>Staðsetning</translation>
     </message>
     <message>
       <source>Upper Left</source>
-      <translation type="unfinished">Upper Left</translation>
+      <translation>Efst til vinstri</translation>
     </message>
     <message>
       <source>Upper Right</source>
-      <translation type="unfinished">Upper Right</translation>
+      <translation>Eftst til hægri</translation>
     </message>
     <message>
       <source>Middle</source>
-      <translation type="unfinished">Middle</translation>
+      <translation>Miðja</translation>
     </message>
     <message>
       <source>Bottom Left</source>
-      <translation type="unfinished">Bottom Left</translation>
+      <translation>Neðst til vinstri</translation>
     </message>
     <message>
       <source>Bottom Right</source>
-      <translation type="unfinished">Bottom Right</translation>
+      <translation>Neðst til hægri</translation>
     </message>
     <message>
       <source>Max cover size</source>
-      <translation type="unfinished">Max cover size</translation>
+      <translation>Hámarksstærð plötuumslags</translation>
     </message>
     <message>
       <source>Stretch image to fill playlist</source>
@@ -462,35 +462,35 @@
     </message>
     <message>
       <source>Keep aspect ratio</source>
-      <translation type="unfinished">Keep aspect ratio</translation>
+      <translation>Halda stærðarhlutföllum</translation>
     </message>
     <message>
       <source>Do not cut image</source>
-      <translation type="unfinished">Do not cut image</translation>
+      <translation>Ekki skrifa yfir</translation>
     </message>
     <message>
       <source>Blur amount</source>
-      <translation type="unfinished">Blur amount</translation>
+      <translation>Styrkur móðunar</translation>
     </message>
     <message>
       <source>0px</source>
-      <translation type="unfinished">0px</translation>
+      <translation>0px</translation>
     </message>
     <message>
       <source>Opacity</source>
-      <translation type="unfinished">Opacity</translation>
+      <translation>Ógegnsæi</translation>
     </message>
     <message>
       <source>40%</source>
-      <translation type="unfinished">40%</translation>
+      <translation>40%</translation>
     </message>
     <message>
       <source>Icon sizes</source>
-      <translation type="unfinished">Icon sizes</translation>
+      <translation>Stærðir táknmynda</translation>
     </message>
     <message>
       <source>Playlist buttons</source>
-      <translation type="unfinished">Playlist buttons</translation>
+      <translation>Hnappar spilunarlista</translation>
     </message>
     <message>
       <source>Tabbar large mode</source>
@@ -498,11 +498,11 @@
     </message>
     <message>
       <source>Play control buttons</source>
-      <translation type="unfinished">Play control buttons</translation>
+      <translation>Stjórnhnappar spilunar</translation>
     </message>
     <message>
       <source>Configure buttons</source>
-      <translation type="unfinished">Configure buttons</translation>
+      <translation>Grunnstilla hnappa</translation>
     </message>
     <message>
       <source>Files, playlists and queue buttons</source>
@@ -518,11 +518,11 @@
     </message>
     <message>
       <source>System highlight color</source>
-      <translation type="unfinished">System highlight color</translation>
+      <translation>Áherslulitun kerfis</translation>
     </message>
     <message>
       <source>Custom color</source>
-      <translation type="unfinished">Custom color</translation>
+      <translation>Sérsniðinn litur</translation>
     </message>
     <message>
       <source>Select playlist playing song color:</source>
@@ -530,34 +530,34 @@
     </message>
     <message>
       <source>Select background image</source>
-      <translation type="unfinished">Select background image</translation>
+      <translation>Veldu bakgrunnsmynd</translation>
     </message>
   </context>
   <context>
     <name>BackendSettingsPage</name>
     <message>
       <source>Backend</source>
-      <translation type="unfinished">Backend</translation>
+      <translation>Bakendi</translation>
     </message>
     <message>
       <source>Audio output</source>
-      <translation type="unfinished">Audio output</translation>
+      <translation>Hljóðúttak</translation>
     </message>
     <message>
       <source>Device</source>
-      <translation type="unfinished">Device</translation>
+      <translation>Tæki</translation>
     </message>
     <message>
       <source>Output</source>
-      <translation type="unfinished">Output</translation>
+      <translation>Úttak</translation>
     </message>
     <message>
       <source>Engine</source>
-      <translation type="unfinished">Engine</translation>
+      <translation>Vél</translation>
     </message>
     <message>
       <source>ALSA plugin:</source>
-      <translation type="unfinished">ALSA plugin:</translation>
+      <translation>ALSA-viðbót:</translation>
     </message>
     <message>
       <source>hw</source>
@@ -569,7 +569,7 @@
     </message>
     <message>
       <source>pcm</source>
-      <translation type="unfinished">pcm</translation>
+      <translation>pcm</translation>
     </message>
     <message>
       <source>Exclusive mode (Experimental)</source>
@@ -577,11 +577,11 @@
     </message>
     <message>
       <source>Options</source>
-      <translation type="unfinished">Options</translation>
+      <translation>Valkostir</translation>
     </message>
     <message>
       <source>Enable volume control</source>
-      <translation type="unfinished">Enable volume control</translation>
+      <translation>Virkja hljóðstyrkstilli</translation>
     </message>
     <message>
       <source>Upmix / downmix to</source>
@@ -589,7 +589,7 @@
     </message>
     <message>
       <source>channels</source>
-      <translation type="unfinished">channels</translation>
+      <translation>rásir</translation>
     </message>
     <message>
       <source>Improve headphone listening of stereo audio records (bs2b)</source>
@@ -597,7 +597,7 @@
     </message>
     <message>
       <source>Enable HTTP/2 for streaming</source>
-      <translation type="unfinished">Enable HTTP/2 for streaming</translation>
+      <translation>Virkja HTTP/2 fyrir streymi</translation>
     </message>
     <message>
       <source>Use strict SSL mode</source>
@@ -605,15 +605,15 @@
     </message>
     <message>
       <source>Buffer</source>
-      <translation type="unfinished">Buffer</translation>
+      <translation>Biðminni</translation>
     </message>
     <message>
       <source> ms</source>
-      <translation type="unfinished"> ms</translation>
+      <translation> m/sek</translation>
     </message>
     <message>
       <source>Buffer duration</source>
-      <translation type="unfinished">Buffer duration</translation>
+      <translation>Tímalengd biðminnis</translation>
     </message>
     <message>
       <source>High watermark</source>
@@ -625,55 +625,55 @@
     </message>
     <message>
       <source>Defaults</source>
-      <translation type="unfinished">Defaults</translation>
+      <translation>Sjálfgefin gildi</translation>
     </message>
     <message>
       <source>Audio normalization</source>
-      <translation type="unfinished">Audio normalization</translation>
+      <translation>Hljóðstyrksstöðlun</translation>
     </message>
     <message>
       <source>No audio normalization</source>
-      <translation type="unfinished">No audio normalization</translation>
+      <translation>Engin hljóðstyrksstöðlun</translation>
     </message>
     <message>
       <source>Replay Gain</source>
-      <translation type="unfinished">Replay Gain</translation>
+      <translation>Mögnun endurspilunar</translation>
     </message>
     <message>
       <source>Use Replay Gain metadata if it is available</source>
-      <translation type="unfinished">Use Replay Gain metadata if it is available</translation>
+      <translation>Nota lýsigögn fyrir mögnun endurspilunar ef þau eru tiltæk</translation>
     </message>
     <message>
       <source>Replay Gain mode</source>
-      <translation type="unfinished">Replay Gain mode</translation>
+      <translation>Hamur fyrir mögnun endurspilunar</translation>
     </message>
     <message>
       <source>Radio (equal loudness for all tracks)</source>
-      <translation type="unfinished">Radio (equal loudness for all tracks)</translation>
+      <translation>Útvarp (jafn hljóðstyrkur fyrir öll lög)</translation>
     </message>
     <message>
       <source>Album (ideal loudness for all tracks)</source>
-      <translation type="unfinished">Album (ideal loudness for all tracks)</translation>
+      <translation>Hljómplata (kjörstyrkur hljóðs fyrir öll lög)</translation>
     </message>
     <message>
       <source>Pre-amp</source>
-      <translation type="unfinished">Pre-amp</translation>
+      <translation>Formögnun</translation>
     </message>
     <message>
       <source>Apply compression to prevent clipping</source>
-      <translation type="unfinished">Apply compression to prevent clipping</translation>
+      <translation>Virkja þjöppun til að koma í veg fyrir afklippingu</translation>
     </message>
     <message>
       <source>Fallback-gain</source>
-      <translation type="unfinished">Fallback-gain</translation>
+      <translation>Mögnun til vara</translation>
     </message>
     <message>
       <source>EBU R 128 Loudness Normalization</source>
-      <translation type="unfinished">EBU R 128 Loudness Normalization</translation>
+      <translation>EBU R 128 hljóðstyrksstöðlun</translation>
     </message>
     <message>
       <source>Perform track loudness normalization</source>
-      <translation type="unfinished">Perform track loudness normalization</translation>
+      <translation>Framkvæma hljóðstyrksstöðlun hljóðrásar</translation>
     </message>
     <message>
       <source>Target Level</source>
@@ -681,58 +681,58 @@
     </message>
     <message>
       <source>Fading</source>
-      <translation type="unfinished">Fading</translation>
+      <translation>Deyfing</translation>
     </message>
     <message>
       <source>Fade out when stopping a track</source>
-      <translation type="unfinished">Fade out when stopping a track</translation>
+      <translation>Deyfa út þegar lag er stöðvað</translation>
     </message>
     <message>
       <source>Cross-fade when changing tracks manually</source>
-      <translation type="unfinished">Cross-fade when changing tracks manually</translation>
+      <translation>Kross-deyfa þegar skipt er handvirkt milli laga</translation>
     </message>
     <message>
       <source>Cross-fade when changing tracks automatically</source>
-      <translation type="unfinished">Cross-fade when changing tracks automatically</translation>
+      <translation>Kross-deyfa þegar skipt er sjálfvirkt milli laga</translation>
     </message>
     <message>
       <source>Except between tracks on the same album or in the same CUE sheet</source>
-      <translation type="unfinished">Except between tracks on the same album or in the same CUE sheet</translation>
+      <translation>Nema milli laga á sömu hljómplötu eða á sama CUE-blaði</translation>
     </message>
     <message>
       <source>Fading duration</source>
-      <translation type="unfinished">Fading duration</translation>
+      <translation>Tímalengd dofnunar</translation>
     </message>
     <message>
       <source>Fade out on pause / fade in on resume</source>
-      <translation type="unfinished">Fade out on pause / fade in on resume</translation>
+      <translation>Deyfa út þegar sett er í bið / Afdeyfa þegar haldið er áfram</translation>
     </message>
   </context>
   <context>
     <name>BehaviourSettingsPage</name>
     <message>
       <source>Behavior</source>
-      <translation type="unfinished">Behavior</translation>
+      <translation>Hegðun</translation>
     </message>
     <message>
       <source>Show system tray icon</source>
-      <translation type="unfinished">Show system tray icon</translation>
+      <translation>Sýna táknmynd í kerfisbakka</translation>
     </message>
     <message>
       <source>Keep running in the background when the window is closed</source>
-      <translation type="unfinished">Keep running in the background when the window is closed</translation>
+      <translation>Halda opnu í bakgrunni þegar glugganum er lokað</translation>
     </message>
     <message>
       <source>Show song progress on system tray icon</source>
-      <translation type="unfinished">Show song progress on system tray icon</translation>
+      <translation>Sýna táknmynd á tákni í kerfisbakka</translation>
     </message>
     <message>
       <source>Show song progress on taskbar</source>
-      <translation type="unfinished">Show song progress on taskbar</translation>
+      <translation>Sýna framvindu lags í kerfisbakka</translation>
     </message>
     <message>
       <source>Resume playback on start</source>
-      <translation type="unfinished">Resume playback on start</translation>
+      <translation>Halda afspilun áfram við ræsingu</translation>
     </message>
     <message>
       <source>Show playing widget</source>
@@ -740,35 +740,35 @@
     </message>
     <message>
       <source>On startup</source>
-      <translation type="unfinished">On startup</translation>
+      <translation>Við ræsingu</translation>
     </message>
     <message>
       <source>Remember from &amp;last time</source>
-      <translation type="unfinished">Remember from &amp;last time</translation>
+      <translation>&amp;Muna frá því síðast</translation>
     </message>
     <message>
       <source>Show the main window</source>
-      <translation type="unfinished">Show the main window</translation>
+      <translation>Birta aðalgluggann</translation>
     </message>
     <message>
       <source>Hide the main window</source>
-      <translation type="unfinished">Hide the main window</translation>
+      <translation>Fela aðalgluggann</translation>
     </message>
     <message>
       <source>Show the main window maximized</source>
-      <translation type="unfinished">Show the main window maximized</translation>
+      <translation>Birta aðalgluggann hámarkaðann</translation>
     </message>
     <message>
       <source>Show the main window minimized</source>
-      <translation type="unfinished">Show the main window minimized</translation>
+      <translation>Birta aðalgluggann lágmarkaðann</translation>
     </message>
     <message>
       <source>Language</source>
-      <translation type="unfinished">Language</translation>
+      <translation>Tungumál</translation>
     </message>
     <message>
       <source>Use the system default</source>
-      <translation type="unfinished">Use the system default</translation>
+      <translation>Nota sjálfgefnar stillingar kerfisins</translation>
     </message>
     <message>
       <source>You will need to restart Strawberry if you change the language.</source>
@@ -776,71 +776,71 @@
     </message>
     <message>
       <source>Using the menu to add a song will...</source>
-      <translation type="unfinished">Using the menu to add a song will...</translation>
+      <translation>Ef notuð er valmynd til að bæta við lagi mun...</translation>
     </message>
     <message>
       <source>Never start playing</source>
-      <translation type="unfinished">Never start playing</translation>
+      <translation>Aldrei hefja spilun</translation>
     </message>
     <message>
       <source>Play if there is nothing already playing</source>
-      <translation type="unfinished">Play if there is nothing already playing</translation>
+      <translation>Spila ef ekkert er þegar í afspilun</translation>
     </message>
     <message>
       <source>Always start playing</source>
-      <translation type="unfinished">Always start playing</translation>
+      <translation>Alltaf hefja spilun</translation>
     </message>
     <message>
       <source>Pressing &quot;Previous&quot; in player will...</source>
-      <translation type="unfinished">Pressing &quot;Previous&quot; in player will...</translation>
+      <translation>Þegar ýtt er á &quot;Fyrra&quot; í spilaranum mun...</translation>
     </message>
     <message>
       <source>Jump to previous song right away</source>
-      <translation type="unfinished">Jump to previous song right away</translation>
+      <translation>Hoppa strax í fyrra lag</translation>
     </message>
     <message>
       <source>Restart song, then jump to previous if pressed again</source>
-      <translation type="unfinished">Restart song, then jump to previous if pressed again</translation>
+      <translation>Endurræsa lag, síðan hoppa í fyrra lag ef ýtt er aftur</translation>
     </message>
     <message>
       <source>Double clicking a song will...</source>
-      <translation type="unfinished">Double clicking a song will...</translation>
+      <translation>Tvísmellur á lag mun...</translation>
     </message>
     <message>
       <source>Append to the playlist</source>
-      <translation type="unfinished">Append to the playlist</translation>
+      <translation>Bæta við lagalistann</translation>
     </message>
     <message>
       <source>Replace the playlist</source>
-      <translation type="unfinished">Replace the playlist</translation>
+      <translation>Skipta út spilunarlistanum</translation>
     </message>
     <message>
       <source>Open in new playlist</source>
-      <translation type="unfinished">Open in new playlist</translation>
+      <translation>Opna í nýjum spilunarlista</translation>
     </message>
     <message>
       <source>Add to the queue</source>
-      <translation type="unfinished">Add to the queue</translation>
+      <translation>Bæta við biðröð</translation>
     </message>
     <message>
       <source>Double clicking a song in the playlist will...</source>
-      <translation type="unfinished">Double clicking a song in the playlist will...</translation>
+      <translation>Tvísmellur á lag í spilunarlistanum mun...</translation>
     </message>
     <message>
       <source>Change the currently playing song</source>
-      <translation type="unfinished">Change the currently playing song</translation>
+      <translation>Skipta um lag sem núna er í spilun</translation>
     </message>
     <message>
       <source>Seeking using a keyboard shortcut or mouse wheel</source>
-      <translation type="unfinished">Seeking using a keyboard shortcut or mouse wheel</translation>
+      <translation>Leita með flýtilykli eða músarhjóli</translation>
     </message>
     <message>
       <source>Time step</source>
-      <translation type="unfinished">Time step</translation>
+      <translation>Tímaþrepun</translation>
     </message>
     <message>
       <source> s</source>
-      <translation type="unfinished"> s</translation>
+      <translation> sek</translation>
     </message>
     <message>
       <source>Volume Increment</source>
@@ -851,15 +851,15 @@
     <name>CddaSongLoader</name>
     <message>
       <source>Error while setting CDDA device to ready state.</source>
-      <translation type="unfinished">Error while setting CDDA device to ready state.</translation>
+      <translation>Villa við að setja CDDA-tæki í tilbúið-stöðu.</translation>
     </message>
     <message>
       <source>Error while setting CDDA device to pause state.</source>
-      <translation type="unfinished">Error while setting CDDA device to pause state.</translation>
+      <translation>Villa við að setja CDDA-tæki í biðstöðu.</translation>
     </message>
     <message>
       <source>Error while querying CDDA tracks.</source>
-      <translation type="unfinished">Error while querying CDDA tracks.</translation>
+      <translation>Villa við að lesa CDDA-spor.</translation>
     </message>
   </context>
   <context>
@@ -870,22 +870,22 @@
     </message>
     <message>
       <source>Failed SQL query: %1</source>
-      <translation type="unfinished">Failed SQL query: %1</translation>
+      <translation>Mistekin SQL-fyrirspurn: %1</translation>
     </message>
     <message>
       <source>Updating %1 database.</source>
-      <translation type="unfinished">Updating %1 database.</translation>
+      <translation>Uppfæri %1 gagnagrunn.</translation>
     </message>
   </context>
   <context>
     <name>CollectionFilterWidget</name>
     <message>
       <source>Collection Filter</source>
-      <translation type="unfinished">Collection Filter</translation>
+      <translation>Sía safns</translation>
     </message>
     <message>
       <source>Enter search terms here</source>
-      <translation type="unfinished">Enter search terms here</translation>
+      <translation>Sláðu inn hér leitarorð</translation>
     </message>
     <message>
       <source>MenuPopupToolButton</source>
@@ -893,137 +893,137 @@
     </message>
     <message>
       <source>Entire collection</source>
-      <translation type="unfinished">Entire collection</translation>
+      <translation>Allt safnið</translation>
     </message>
     <message>
       <source>Added today</source>
-      <translation type="unfinished">Added today</translation>
+      <translation>Bætt við í dag</translation>
     </message>
     <message>
       <source>Added this week</source>
-      <translation type="unfinished">Added this week</translation>
+      <translation>Bætt við í þessari viku</translation>
     </message>
     <message>
       <source>Added within three months</source>
-      <translation type="unfinished">Added within three months</translation>
+      <translation>Bætt við innan síðustu þriggja mánaða</translation>
     </message>
     <message>
       <source>Added this year</source>
-      <translation type="unfinished">Added this year</translation>
+      <translation>Bætt við á þessu ári</translation>
     </message>
     <message>
       <source>Added this month</source>
-      <translation type="unfinished">Added this month</translation>
+      <translation>Bætt við í þessum mánuði</translation>
     </message>
     <message>
       <source>Save current grouping</source>
-      <translation type="unfinished">Save current grouping</translation>
+      <translation>Vista núverandi hópun</translation>
     </message>
     <message>
       <source>Manage saved groupings</source>
-      <translation type="unfinished">Manage saved groupings</translation>
+      <translation>Sýsla með vistaðar hópanir</translation>
     </message>
     <message>
       <source>Show</source>
-      <translation type="unfinished">Show</translation>
+      <translation>Birta</translation>
     </message>
     <message>
       <source>Group by</source>
-      <translation type="unfinished">Group by</translation>
+      <translation>Hópa eftir</translation>
     </message>
     <message>
       <source>Display options</source>
-      <translation type="unfinished">Display options</translation>
+      <translation>Skjástillingar</translation>
     </message>
     <message>
       <source>Group by Album artist/Album</source>
-      <translation type="unfinished">Group by Album artist/Album</translation>
+      <translation>Hópa eftir flytjendum á hljómplötu/hljómplötu</translation>
     </message>
     <message>
       <source>Group by Album artist/Album - Disc</source>
-      <translation type="unfinished">Group by Album artist/Album - Disc</translation>
+      <translation>Hópa eftir flytjendum á hljómplötu/hljómplötu - diski</translation>
     </message>
     <message>
       <source>Group by Album artist/Year - Album</source>
-      <translation type="unfinished">Group by Album artist/Year - Album</translation>
+      <translation>Hópa eftir flytjendum á hljómplötu/ári - hljómplötu</translation>
     </message>
     <message>
       <source>Group by Album artist/Year - Album - Disc</source>
-      <translation type="unfinished">Group by Album artist/Year - Album - Disc</translation>
+      <translation>Hópa eftir flytjendum á hljómplötu/ári - hljómplötu - diski</translation>
     </message>
     <message>
       <source>Group by Artist/Album</source>
-      <translation type="unfinished">Group by Artist/Album</translation>
+      <translation>Hópa eftir flytjendum/hljómplötum</translation>
     </message>
     <message>
       <source>Group by Artist/Album - Disc</source>
-      <translation type="unfinished">Group by Artist/Album - Disc</translation>
+      <translation>Hópa eftir flytjendum/hljómplötum - diski</translation>
     </message>
     <message>
       <source>Group by Artist/Year - Album</source>
-      <translation type="unfinished">Group by Artist/Year - Album</translation>
+      <translation>Hópa eftir flytjendum/ári - hljómplötu</translation>
     </message>
     <message>
       <source>Group by Artist/Year - Album - Disc</source>
-      <translation type="unfinished">Group by Artist/Year - Album - Disc</translation>
+      <translation>Hópa eftir flytjendum/ári - hljómplötu - diski</translation>
     </message>
     <message>
       <source>Group by Genre/Album artist/Album</source>
-      <translation type="unfinished">Group by Genre/Album artist/Album</translation>
+      <translation>Hópa eftir tónlistarstíl/flytjendum á hljómplötu/hljómplötu</translation>
     </message>
     <message>
       <source>Group by Genre/Artist/Album</source>
-      <translation type="unfinished">Group by Genre/Artist/Album</translation>
+      <translation>Hópa eftir tónlistarstíl/flytjendum/hljómplötu</translation>
     </message>
     <message>
       <source>Group by Album Artist</source>
-      <translation type="unfinished">Group by Album Artist</translation>
+      <translation>Hópa eftir flytjendum á hljómplötu</translation>
     </message>
     <message>
       <source>Group by Artist</source>
-      <translation type="unfinished">Group by Artist</translation>
+      <translation>Hópa eftir flytjendum</translation>
     </message>
     <message>
       <source>Group by Album</source>
-      <translation type="unfinished">Group by Album</translation>
+      <translation>Hópa eftir hljómplötum</translation>
     </message>
     <message>
       <source>Group by Genre/Album</source>
-      <translation type="unfinished">Group by Genre/Album</translation>
+      <translation>Hópa eftir tónlistarstíl/hljómplötu</translation>
     </message>
     <message>
       <source>Advanced grouping...</source>
-      <translation type="unfinished">Advanced grouping...</translation>
+      <translation>Þróuð flokkun</translation>
     </message>
     <message>
       <source>Grouping Name</source>
-      <translation type="unfinished">Grouping Name</translation>
+      <translation>Nafn hópunar</translation>
     </message>
     <message>
       <source>Grouping name:</source>
-      <translation type="unfinished">Grouping name:</translation>
+      <translation>Nafn hópunar:</translation>
     </message>
   </context>
   <context>
     <name>CollectionModel</name>
     <message>
       <source>Various artists</source>
-      <translation type="unfinished">Various artists</translation>
+      <translation>Ýmsir flytjendur</translation>
     </message>
     <message>
       <source>Loading...</source>
-      <translation type="unfinished">Loading...</translation>
+      <translation>Hleð inn...</translation>
     </message>
     <message>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>Óþekkt</translation>
     </message>
   </context>
   <context>
     <name>CollectionSettingsPage</name>
     <message>
       <source>Collection</source>
-      <translation type="unfinished">Collection</translation>
+      <translation>Safn</translation>
     </message>
     <message>
       <source>These folders will be scanned for music to make up your collection</source>
@@ -1031,23 +1031,23 @@
     </message>
     <message>
       <source>Add new folder...</source>
-      <translation type="unfinished">Add new folder...</translation>
+      <translation>Bæta við nýrri möppu...</translation>
     </message>
     <message>
       <source>Remove folder</source>
-      <translation type="unfinished">Remove folder</translation>
+      <translation>Fjarlægja möppu</translation>
     </message>
     <message>
       <source>Automatic updating</source>
-      <translation type="unfinished">Automatic updating</translation>
+      <translation>Sjálfvirk uppfærsla</translation>
     </message>
     <message>
       <source>Update the collection when Strawberry starts</source>
-      <translation type="unfinished">Update the collection when Strawberry starts</translation>
+      <translation>Uppfæra safn þegar Strawberry ræsist</translation>
     </message>
     <message>
       <source>Monitor the collection for changes</source>
-      <translation type="unfinished">Monitor the collection for changes</translation>
+      <translation>Fylgjast með breytingum á tónlistarsafni</translation>
     </message>
     <message>
       <source>Song fingerprinting and tracking</source>
@@ -1055,11 +1055,11 @@
     </message>
     <message>
       <source>Mark disappeared songs unavailable</source>
-      <translation type="unfinished">Mark disappeared songs unavailable</translation>
+      <translation>Merkja horfin lög sem ekki tiltæk</translation>
     </message>
     <message>
       <source>Perform song EBU R 128 analysis (required for EBU R 128 loudness normalization)</source>
-      <translation type="unfinished">Perform song EBU R 128 analysis (required for EBU R 128 loudness normalization)</translation>
+      <translation>Framkvæma EBU R 128 greiningu á lagi (nauðsynlegt fyrir EBU R 128 hljóðstyrksstöðlun)</translation>
     </message>
     <message>
       <source>Expire unavailable songs after</source>
@@ -1067,11 +1067,11 @@
     </message>
     <message>
       <source>days</source>
-      <translation type="unfinished">days</translation>
+      <translation>dagar</translation>
     </message>
     <message>
       <source>Preferred album art filenames (comma separated)</source>
-      <translation type="unfinished">Preferred album art filenames (comma separated)</translation>
+      <translation>Umbeðin skráarheiti umslagsmynda (aðgreind með kommu)</translation>
     </message>
     <message>
       <source>When looking for album art Strawberry will first look for picture files that contain one of these words.
@@ -1081,15 +1081,15 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Display options</source>
-      <translation type="unfinished">Display options</translation>
+      <translation>Skjástillingar</translation>
     </message>
     <message>
       <source>Automatically open single categories in the collection tree</source>
-      <translation type="unfinished">Automatically open single categories in the collection tree</translation>
+      <translation>Opna einstaka flokka sjálfvirkt í greinum safnsins</translation>
     </message>
     <message>
       <source>Show dividers</source>
-      <translation type="unfinished">Show dividers</translation>
+      <translation>Sýna aðgreina</translation>
     </message>
     <message>
       <source>Show album cover art in collection</source>
@@ -1105,27 +1105,27 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Album cover pixmap cache</source>
-      <translation type="unfinished">Album cover pixmap cache</translation>
+      <translation>Skyndiminni bitamynda plötuumslaga</translation>
     </message>
     <message>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Stærð</translation>
     </message>
     <message>
       <source>Enable Disk Cache</source>
-      <translation type="unfinished">Enable Disk Cache</translation>
+      <translation>Virkja diskminni</translation>
     </message>
     <message>
       <source>Disk Cache Size</source>
-      <translation type="unfinished">Disk Cache Size</translation>
+      <translation>Stærð diskskyndiminnis</translation>
     </message>
     <message>
       <source>Current disk cache in use:</source>
-      <translation type="unfinished">Current disk cache in use:</translation>
+      <translation>Fyrirliggjandi diskskyndiminni í notkun:</translation>
     </message>
     <message>
       <source>Clear Disk Cache</source>
-      <translation type="unfinished">Clear Disk Cache</translation>
+      <translation>Hreinsa diskskyndiminni</translation>
     </message>
     <message>
       <source>Song playcounts and ratings</source>
@@ -1141,11 +1141,11 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Overwrite database playcount when songs are re-read from disk</source>
-      <translation type="unfinished">Overwrite database playcount when songs are re-read from disk</translation>
+      <translation>Yfirskrifa spilunarfjölda í gagnagrunni þegar lög eru endurlesin af diski</translation>
     </message>
     <message>
       <source>Overwrite database rating when songs are re-read from disk</source>
-      <translation type="unfinished">Overwrite database rating when songs are re-read from disk</translation>
+      <translation>Yfirskrifa einkunn í gagnagrunni þegar lög eru endurlesin af diski</translation>
     </message>
     <message>
       <source>Save playcounts and ratings to files now</source>
@@ -1153,11 +1153,11 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Enable delete files in the right click context menu</source>
-      <translation type="unfinished">Enable delete files in the right click context menu</translation>
+      <translation>Virkja að eyða skrám í hægrismells-samhengisvalmynd</translation>
     </message>
     <message>
       <source>Add directory...</source>
-      <translation type="unfinished">Add directory...</translation>
+      <translation>Bæta við möppu...</translation>
     </message>
     <message>
       <source>Write all playcounts and ratings to files</source>
@@ -1172,75 +1172,75 @@ If there are no matches then it will use the largest image in the directory.</tr
     <name>CollectionView</name>
     <message>
       <source>Your collection is empty!</source>
-      <translation type="unfinished">Your collection is empty!</translation>
+      <translation>Safnið þitt er tómt!</translation>
     </message>
     <message>
       <source>Click here to add some music</source>
-      <translation type="unfinished">Click here to add some music</translation>
+      <translation>Smelltu hér til að bæta við tónlist</translation>
     </message>
     <message>
       <source>Append to current playlist</source>
-      <translation type="unfinished">Append to current playlist</translation>
+      <translation>Bæta við fyrirliggjandi lagalista</translation>
     </message>
     <message>
       <source>Replace current playlist</source>
-      <translation type="unfinished">Replace current playlist</translation>
+      <translation>Skipta út fyrirliggjandi spilunarlista</translation>
     </message>
     <message>
       <source>Open in new playlist</source>
-      <translation type="unfinished">Open in new playlist</translation>
+      <translation>Opna í nýjum spilunarlista</translation>
     </message>
     <message>
       <source>Queue track</source>
-      <translation type="unfinished">Queue track</translation>
+      <translation>Setja lag í biðröð</translation>
     </message>
     <message>
       <source>Queue to play next</source>
-      <translation type="unfinished">Queue to play next</translation>
+      <translation>Setja í biðröð til að spila næst</translation>
     </message>
     <message>
       <source>Search for this</source>
-      <translation type="unfinished">Search for this</translation>
+      <translation>Leita að þessu</translation>
     </message>
     <message>
       <source>Organize files...</source>
-      <translation type="unfinished">Organize files...</translation>
+      <translation>Skipuleggja skrár...</translation>
     </message>
     <message>
       <source>Copy to device...</source>
-      <translation type="unfinished">Copy to device...</translation>
+      <translation>Afrita á tæki...</translation>
     </message>
     <message>
       <source>Delete from disk...</source>
-      <translation type="unfinished">Delete from disk...</translation>
+      <translation>Eyða af diski...</translation>
     </message>
     <message>
       <source>Edit track information...</source>
-      <translation type="unfinished">Edit track information...</translation>
+      <translation>Breyta upplýsingum um lag...</translation>
     </message>
     <message>
       <source>Edit tracks information...</source>
-      <translation type="unfinished">Edit tracks information...</translation>
+      <translation>Breyta upplýsingum um lög...</translation>
     </message>
     <message>
       <source>Show in file browser...</source>
-      <translation type="unfinished">Show in file browser...</translation>
+      <translation>Sýna í skráavafra...</translation>
     </message>
     <message>
       <source>Rescan song(s)</source>
-      <translation type="unfinished">Rescan song(s)</translation>
+      <translation>Endurskanna lag/lög</translation>
     </message>
     <message>
       <source>Show in various artists</source>
-      <translation type="unfinished">Show in various artists</translation>
+      <translation>Birta undir ýmsum flytjendum</translation>
     </message>
     <message>
       <source>Don&apos;t show in various artists</source>
-      <translation type="unfinished">Don&apos;t show in various artists</translation>
+      <translation>Ekki birta undir ýmsum flytjendum</translation>
     </message>
     <message>
       <source>There are other songs in this album</source>
-      <translation type="unfinished">There are other songs in this album</translation>
+      <translation>Það eru önnur lög á þessari hljómplötu</translation>
     </message>
     <message>
       <source>Would you like to move the other songs on this album to Various Artists as well?</source>
@@ -1248,51 +1248,51 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>Villa</translation>
     </message>
     <message>
       <source>None of the selected songs were suitable for copying to a device</source>
-      <translation type="unfinished">None of the selected songs were suitable for copying to a device</translation>
+      <translation>Ekkert af völdu lögunum henta til að afrita yfir á tæki</translation>
     </message>
   </context>
   <context>
     <name>CollectionViewContainer</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
   </context>
   <context>
     <name>CollectionWatcher</name>
     <message>
       <source>Updating collection</source>
-      <translation type="unfinished">Updating collection</translation>
+      <translation>Uppfæri safn</translation>
     </message>
     <message>
       <source>Updating %1</source>
-      <translation type="unfinished">Updating %1</translation>
+      <translation>Uppfæri %1</translation>
     </message>
   </context>
   <context>
     <name>Console</name>
     <message>
       <source>Console</source>
-      <translation type="unfinished">Console</translation>
+      <translation>Stjórnskjár</translation>
     </message>
     <message>
       <source>Run</source>
-      <translation type="unfinished">Run</translation>
+      <translation>Keyra</translation>
     </message>
   </context>
   <context>
     <name>ContextSettingsPage</name>
     <message>
       <source>Context</source>
-      <translation type="unfinished">Context</translation>
+      <translation>Samhengi</translation>
     </message>
     <message>
       <source>Custom text settings</source>
-      <translation type="unfinished">Custom text settings</translation>
+      <translation>Sérsniðnar stillingar texta</translation>
     </message>
     <message>
       <source>MenuPopupToolButton</source>
@@ -1300,119 +1300,119 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Title</source>
-      <translation type="unfinished">Title</translation>
+      <translation>Titill</translation>
     </message>
     <message>
       <source>Summary</source>
-      <translation type="unfinished">Summary</translation>
+      <translation>Samantekt</translation>
     </message>
     <message>
       <source>Enable Items</source>
-      <translation type="unfinished">Enable Items</translation>
+      <translation>Virkja atriði</translation>
     </message>
     <message>
       <source>Album</source>
-      <translation type="unfinished">Album</translation>
+      <translation>Hljómplata</translation>
     </message>
     <message>
       <source>Technical Data</source>
-      <translation type="unfinished">Technical Data</translation>
+      <translation>Tæknileg gögn</translation>
     </message>
     <message>
       <source>Song Lyrics</source>
-      <translation type="unfinished">Song Lyrics</translation>
+      <translation>Lagatextar</translation>
     </message>
     <message>
       <source>Automatically search for album cover</source>
-      <translation type="unfinished">Automatically search for album cover</translation>
+      <translation>Leita sjálfkrafa að plötuumslagi</translation>
     </message>
     <message>
       <source>Automatically search for song lyrics</source>
-      <translation type="unfinished">Automatically search for song lyrics</translation>
+      <translation>Leita sjálfkrafa að lagatextum</translation>
     </message>
     <message>
       <source>Font for headline</source>
-      <translation type="unfinished">Font for headline</translation>
+      <translation>Letur á fyrirsögn</translation>
     </message>
     <message>
       <source>Font</source>
-      <translation type="unfinished">Font</translation>
+      <translation>Letur</translation>
     </message>
     <message>
       <source>Font size</source>
-      <translation type="unfinished">Font size</translation>
+      <translation>Leturstærð</translation>
     </message>
     <message>
       <source> pt</source>
-      <translation type="unfinished"> pt</translation>
+      <translation> pt</translation>
     </message>
     <message>
       <source>Preview</source>
-      <translation type="unfinished">Preview</translation>
+      <translation>Forskoðun</translation>
     </message>
     <message>
       <source>Font for data and lyrics</source>
-      <translation type="unfinished">Font for data and lyrics</translation>
+      <translation>Letur fyrir gögn og lagatexta</translation>
     </message>
     <message>
       <source>Add song artist tag</source>
-      <translation type="unfinished">Add song artist tag</translation>
+      <translation>Bæta við merki með flytjanda lags</translation>
     </message>
     <message>
       <source>Add song album tag</source>
-      <translation type="unfinished">Add song album tag</translation>
+      <translation>Bæta við merki með hljómplötu lags</translation>
     </message>
     <message>
       <source>Add song title tag</source>
-      <translation type="unfinished">Add song title tag</translation>
+      <translation>Bæta við merki með titli lags</translation>
     </message>
     <message>
       <source>Add song albumartist tag</source>
-      <translation type="unfinished">Add song albumartist tag</translation>
+      <translation>Bæta við merki með flytjanda hljómplötu</translation>
     </message>
     <message>
       <source>Add song year tag</source>
-      <translation type="unfinished">Add song year tag</translation>
+      <translation>Bæta við merki með ártali lags</translation>
     </message>
     <message>
       <source>Add song composer tag</source>
-      <translation type="unfinished">Add song composer tag</translation>
+      <translation>Bæta við merki með höfundi lags</translation>
     </message>
     <message>
       <source>Add song performer tag</source>
-      <translation type="unfinished">Add song performer tag</translation>
+      <translation>Bæta við merki með flytjanda lags</translation>
     </message>
     <message>
       <source>Add song grouping tag</source>
-      <translation type="unfinished">Add song grouping tag</translation>
+      <translation>Bæta við merki með hópun lags</translation>
     </message>
     <message>
       <source>Add song disc tag</source>
-      <translation type="unfinished">Add song disc tag</translation>
+      <translation>Bæta við merki með diski lags</translation>
     </message>
     <message>
       <source>Add song track tag</source>
-      <translation type="unfinished">Add song track tag</translation>
+      <translation>Bæta við merki með spori lags</translation>
     </message>
     <message>
       <source>Add song genre tag</source>
-      <translation type="unfinished">Add song genre tag</translation>
+      <translation>Bæta við merki með tónlistarstíl</translation>
     </message>
     <message>
       <source>Add song length tag</source>
-      <translation type="unfinished">Add song length tag</translation>
+      <translation>Bæta við merki með lengd lags</translation>
     </message>
     <message>
       <source>Add song play count</source>
-      <translation type="unfinished">Add song play count</translation>
+      <translation>Bæta við fjölda spilana lags</translation>
     </message>
     <message>
       <source>Add song skip count</source>
-      <translation type="unfinished">Add song skip count</translation>
+      <translation>Bæta við fjölda sem lagi hefur verið sleppt</translation>
     </message>
     <message>
       <source>Add a new line if supported by the notification type</source>
-      <translation type="unfinished">Add a new line if supported by the notification type</translation>
+      <translation>Bætir við nýrri línu ef það er stutt af viðkomandi gerð tilkynninga</translation>
     </message>
     <message>
       <source>%filename%</source>
@@ -1420,7 +1420,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Add song filename</source>
-      <translation type="unfinished">Add song filename</translation>
+      <translation>Bæta við skráarheiti lags</translation>
     </message>
     <message>
       <source>%url%</source>
@@ -1428,136 +1428,136 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Add song URL</source>
-      <translation type="unfinished">Add song URL</translation>
+      <translation>Bæta við slóð lags</translation>
     </message>
     <message>
       <source>%rating%</source>
-      <translation type="unfinished">%rating%</translation>
+      <translation>%einkunn%</translation>
     </message>
     <message>
       <source>Add song rating</source>
-      <translation type="unfinished">Add song rating</translation>
+      <translation>Bæta við einkunn lags</translation>
     </message>
     <message>
       <source>%originalyear%</source>
-      <translation type="unfinished">%originalyear%</translation>
+      <translation>%upprunaár%</translation>
     </message>
     <message>
       <source>Add song original year tag</source>
-      <translation type="unfinished">Add song original year tag</translation>
+      <translation>Bæta við merki með upprunaári lags</translation>
     </message>
   </context>
   <context>
     <name>ContextView</name>
     <message>
       <source>Filetype</source>
-      <translation type="unfinished">Filetype</translation>
+      <translation>Skráartegund</translation>
     </message>
     <message>
       <source>Length</source>
-      <translation type="unfinished">Length</translation>
+      <translation>Lengd</translation>
     </message>
     <message>
       <source>Samplerate</source>
-      <translation type="unfinished">Samplerate</translation>
+      <translation>Safntíðni</translation>
     </message>
     <message>
       <source>Bit depth</source>
-      <translation type="unfinished">Bit depth</translation>
+      <translation>Bitadýpt</translation>
     </message>
     <message>
       <source>Bitrate</source>
-      <translation type="unfinished">Bitrate</translation>
+      <translation>Bitahraði</translation>
     </message>
     <message>
       <source>EBU R 128 Integrated Loudness</source>
-      <translation type="unfinished">EBU R 128 Integrated Loudness</translation>
+      <translation>EBU R 128 innbyggður hljóðstyrkur</translation>
     </message>
     <message>
       <source>EBU R 128 Loudness Range</source>
-      <translation type="unfinished">EBU R 128 Loudness Range</translation>
+      <translation>EBU R 128 hljóðstyrkssvið</translation>
     </message>
     <message>
       <source>Show album cover</source>
-      <translation type="unfinished">Show album cover</translation>
+      <translation>Birta plötuumslag</translation>
     </message>
     <message>
       <source>Show song technical data</source>
-      <translation type="unfinished">Show song technical data</translation>
+      <translation>Birta tæknileg gögn lags</translation>
     </message>
     <message>
       <source>Show song lyrics</source>
-      <translation type="unfinished">Show song lyrics</translation>
+      <translation>Birta lagatexta</translation>
     </message>
     <message>
       <source>Automatically search for song lyrics</source>
-      <translation type="unfinished">Automatically search for song lyrics</translation>
+      <translation>Leita sjálfkrafa að lagatextum</translation>
     </message>
     <message>
       <source>No song playing</source>
-      <translation type="unfinished">No song playing</translation>
+      <translation>Ekkert lag í spilun</translation>
     </message>
     <message>
       <source>%1 song</source>
-      <translation type="unfinished">%1 song</translation>
+      <translation>%1 lag</translation>
     </message>
     <message>
       <source>%1 songs</source>
-      <translation type="unfinished">%1 songs</translation>
+      <translation>%1 lög</translation>
     </message>
     <message>
       <source>%1 artist</source>
-      <translation type="unfinished">%1 artist</translation>
+      <translation>%1 flytjandi</translation>
     </message>
     <message>
       <source>%1 artists</source>
-      <translation type="unfinished">%1 artists</translation>
+      <translation>%1 flytjendur</translation>
     </message>
     <message>
       <source>%1 album</source>
-      <translation type="unfinished">%1 album</translation>
+      <translation>%1 hljómplata</translation>
     </message>
     <message>
       <source>%1 albums</source>
-      <translation type="unfinished">%1 albums</translation>
+      <translation>%1 hljómplötur</translation>
     </message>
     <message>
       <source>kbps</source>
-      <translation type="unfinished">kbps</translation>
+      <translation>kb/sek</translation>
     </message>
   </context>
   <context>
     <name>CoverFromURLDialog</name>
     <message>
       <source>Load cover from URL</source>
-      <translation type="unfinished">Load cover from URL</translation>
+      <translation>Hlaða umslagi af vefslóð</translation>
     </message>
     <message>
       <source>Enter a URL to download a cover from the Internet:</source>
-      <translation type="unfinished">Enter a URL to download a cover from the Internet:</translation>
+      <translation>Settu inn slóð til að ná í umslag af internetinu:</translation>
     </message>
     <message>
       <source>Fetching cover error</source>
-      <translation type="unfinished">Fetching cover error</translation>
+      <translation>Villa við að ná í umslag</translation>
     </message>
     <message>
       <source>The site you requested does not exist!</source>
-      <translation type="unfinished">The site you requested does not exist!</translation>
+      <translation>Slóðin sem þú baðst um er ekki til!</translation>
     </message>
     <message>
       <source>The site you requested is not an image!</source>
-      <translation type="unfinished">The site you requested is not an image!</translation>
+      <translation>Slóðin sem þú baðst um vísar ekki á mynd!</translation>
     </message>
   </context>
   <context>
     <name>CoverManager</name>
     <message>
       <source>Cover Manager</source>
-      <translation type="unfinished">Cover Manager</translation>
+      <translation>Umslagsstjóri</translation>
     </message>
     <message>
       <source>Enter search terms here</source>
-      <translation type="unfinished">Enter search terms here</translation>
+      <translation>Sláðu inn hér leitarorð</translation>
     </message>
     <message>
       <source>MenuPopupToolButton</source>
@@ -1565,15 +1565,15 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>View</source>
-      <translation type="unfinished">View</translation>
+      <translation>Skoða</translation>
     </message>
     <message>
       <source>Total albums:</source>
-      <translation type="unfinished">Total albums:</translation>
+      <translation>Hljómplötur alls:</translation>
     </message>
     <message>
       <source>Without cover:</source>
-      <translation type="unfinished">Without cover:</translation>
+      <translation>Án umslags:</translation>
     </message>
     <message>
       <source>0</source>
@@ -1581,85 +1581,85 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Fetch Missing Covers</source>
-      <translation type="unfinished">Fetch Missing Covers</translation>
+      <translation>Sækja umslög sem vantar</translation>
     </message>
     <message>
       <source>Export Covers</source>
-      <translation type="unfinished">Export Covers</translation>
+      <translation>Flytja út umslög</translation>
     </message>
     <message>
       <source>Fetch automatically</source>
-      <translation type="unfinished">Fetch automatically</translation>
+      <translation>Sækja sjálfvirkt</translation>
     </message>
     <message>
       <source>Load</source>
-      <translation type="unfinished">Load</translation>
+      <translation>Hlaða</translation>
     </message>
     <message>
       <source>Add to playlist</source>
-      <translation type="unfinished">Add to playlist</translation>
+      <translation>Bæta við lagalista</translation>
     </message>
   </context>
   <context>
     <name>CoverSearchStatisticsDialog</name>
     <message>
       <source>Fetch completed</source>
-      <translation type="unfinished">Fetch completed</translation>
+      <translation>Lokið að sækja</translation>
     </message>
     <message>
       <source>Got %1 covers out of %2 (%3 failed)</source>
-      <translation type="unfinished">Got %1 covers out of %2 (%3 failed)</translation>
+      <translation>Náði í %1 umslag af %2 (%3 mistókust)</translation>
     </message>
     <message>
       <source>Covers from %1</source>
-      <translation type="unfinished">Covers from %1</translation>
+      <translation>Umslög frá %1</translation>
     </message>
     <message>
       <source>Total network requests made</source>
-      <translation type="unfinished">Total network requests made</translation>
+      <translation>Heildarfjöldi netfyrirspurna</translation>
     </message>
     <message>
       <source>Average image size</source>
-      <translation type="unfinished">Average image size</translation>
+      <translation>Meðalstærð mynda</translation>
     </message>
     <message>
       <source>Total bytes transferred</source>
-      <translation type="unfinished">Total bytes transferred</translation>
+      <translation>Heildarfjöldi fluttra bæta</translation>
     </message>
   </context>
   <context>
     <name>CoversSettingsPage</name>
     <message>
       <source>Covers</source>
-      <translation type="unfinished">Covers</translation>
+      <translation>Umslög</translation>
     </message>
     <message>
       <source>Cover providers</source>
-      <translation type="unfinished">Cover providers</translation>
+      <translation>Umslagaveitur</translation>
     </message>
     <message>
       <source>Choose the providers you want to use when searching for covers.</source>
-      <translation type="unfinished">Choose the providers you want to use when searching for covers.</translation>
+      <translation>Veldu þær þjónustur sem þú vilt nota við að leita að plötuumslögum.</translation>
     </message>
     <message>
       <source>Move up</source>
-      <translation type="unfinished">Move up</translation>
+      <translation>Færa upp</translation>
     </message>
     <message>
       <source>Move down</source>
-      <translation type="unfinished">Move down</translation>
+      <translation>Færa niður</translation>
     </message>
     <message>
       <source>Authentication</source>
-      <translation type="unfinished">Authentication</translation>
+      <translation>Auðkenning</translation>
     </message>
     <message>
       <source>Login</source>
-      <translation type="unfinished">Login</translation>
+      <translation>Innskráning</translation>
     </message>
     <message>
       <source>Album cover types</source>
-      <translation type="unfinished">Album cover types</translation>
+      <translation>Tegundir plötuumslaga</translation>
     </message>
     <message>
       <source>Saving album covers</source>
@@ -1679,27 +1679,27 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Filename:</source>
-      <translation type="unfinished">Filename:</translation>
+      <translation>Skráarheiti:</translation>
     </message>
     <message>
       <source>Pattern</source>
-      <translation type="unfinished">Pattern</translation>
+      <translation>Mynstur</translation>
     </message>
     <message>
       <source>Random</source>
-      <translation type="unfinished">Random</translation>
+      <translation>Handahófskennt</translation>
     </message>
     <message>
       <source>Overwrite existing file</source>
-      <translation type="unfinished">Overwrite existing file</translation>
+      <translation>Yfirskrifa fyrirliggjandi skrá</translation>
     </message>
     <message>
       <source>Lowercase filename</source>
-      <translation type="unfinished">Lowercase filename</translation>
+      <translation>Skráarheiti í lágstöfum</translation>
     </message>
     <message>
       <source>Replace spaces with dashes</source>
-      <translation type="unfinished">Replace spaces with dashes</translation>
+      <translation>Skipta bilum út fyrir bandstrik</translation>
     </message>
     <message>
       <source>Use Tidal settings to authenticate.</source>
@@ -1715,23 +1715,23 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>%1 needs authentication.</source>
-      <translation type="unfinished">%1 needs authentication.</translation>
+      <translation>%1 krefst auðkenningar.</translation>
     </message>
     <message>
       <source>%1 does not need authentication.</source>
-      <translation type="unfinished">%1 does not need authentication.</translation>
+      <translation>%1 krefst ekki auðkenningar.</translation>
     </message>
     <message>
       <source>No provider selected.</source>
-      <translation type="unfinished">No provider selected.</translation>
+      <translation>Enginn þjónustuaðili valinn.</translation>
     </message>
     <message>
       <source>Authentication failed</source>
-      <translation type="unfinished">Authentication failed</translation>
+      <translation>Auðkenning mistókst</translation>
     </message>
     <message>
       <source>Manually unset (%1)</source>
-      <translation type="unfinished">Manually unset (%1)</translation>
+      <translation>Aftengt handvirkt (%1)</translation>
     </message>
     <message>
       <source>Set through album cover search (%1)</source>
@@ -1739,11 +1739,11 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Automatically picked up from album directory (%1)</source>
-      <translation type="unfinished">Automatically picked up from album directory (%1)</translation>
+      <translation>Sótt sjálfkrafa í möppu hljómplötu (%1)</translation>
     </message>
     <message>
       <source>Embedded album cover art (%1)</source>
-      <translation type="unfinished">Embedded album cover art (%1)</translation>
+      <translation>Ívafin myndskreyting umslags (%1)</translation>
     </message>
   </context>
   <context>
@@ -1761,26 +1761,26 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Failed SQL query: %1</source>
-      <translation type="unfinished">Failed SQL query: %1</translation>
+      <translation>Mistekin SQL-fyrirspurn: %1</translation>
     </message>
     <message>
       <source>Integrity check</source>
-      <translation type="unfinished">Integrity check</translation>
+      <translation>Athugun á áreiðanleika</translation>
     </message>
     <message>
       <source>Database corruption detected.</source>
-      <translation type="unfinished">Database corruption detected.</translation>
+      <translation>Skemmd fannst í gagnagrunni.</translation>
     </message>
     <message>
       <source>Backing up database</source>
-      <translation type="unfinished">Backing up database</translation>
+      <translation>Tek öryggisafrit af gagnagrunni</translation>
     </message>
   </context>
   <context>
     <name>DeleteConfirmationDialog</name>
     <message>
       <source>Delete files</source>
-      <translation type="unfinished">Delete files</translation>
+      <translation>Eyða skrám</translation>
     </message>
     <message>
       <source>The following files will be deleted from disk:</source>
@@ -1788,44 +1788,44 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Are you sure you want to continue?</source>
-      <translation type="unfinished">Are you sure you want to continue?</translation>
+      <translation>Ertu viss um að þú viljir halda áfram?</translation>
     </message>
   </context>
   <context>
     <name>DeleteFiles</name>
     <message>
       <source>Deleting files</source>
-      <translation type="unfinished">Deleting files</translation>
+      <translation>Eyði gögnum</translation>
     </message>
   </context>
   <context>
     <name>DeviceItemDelegate</name>
     <message>
       <source>Updating %1%...</source>
-      <translation type="unfinished">Updating %1%...</translation>
+      <translation>Uppfæri %1%...</translation>
     </message>
     <message>
       <source>Not connected</source>
-      <translation type="unfinished">Not connected</translation>
+      <translation>Ekki tengt</translation>
     </message>
     <message>
       <source>Not mounted - double click to mount</source>
-      <translation type="unfinished">Not mounted - double click to mount</translation>
+      <translation>Ekki tengt í skráakerfi - tvísmelltu til að tengja</translation>
     </message>
     <message>
       <source>Double click to open</source>
-      <translation type="unfinished">Double click to open</translation>
+      <translation>Tvísmella til að opna</translation>
     </message>
     <message>
       <source>%1 song%2</source>
-      <translation type="unfinished">%1 song%2</translation>
+      <translation>%1 lag%2</translation>
     </message>
   </context>
   <context>
     <name>DeviceManager</name>
     <message>
       <source>Connect device</source>
-      <translation type="unfinished">Connect device</translation>
+      <translation>Tengja tæki</translation>
     </message>
     <message>
       <source>This is the first time you have connected this device.  Strawberry will now scan the device to find music files - this may take some time.</source>
@@ -1833,7 +1833,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>This device will not work properly</source>
-      <translation type="unfinished">This device will not work properly</translation>
+      <translation>Þetta tæki mun ekki virka eðlilega</translation>
     </message>
     <message>
       <source>This is an MTP device, but you compiled Strawberry without libmtp support.</source>
@@ -1841,7 +1841,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>If you continue, this device will work slowly and songs copied to it may not work.</source>
-      <translation type="unfinished">If you continue, this device will work slowly and songs copied to it may not work.</translation>
+      <translation>Ef þú heldur áfram, mun þetta tæki ekki virka eðlilega og lögin sem afrituð eru yfir á það gætu ekki virkað.</translation>
     </message>
     <message>
       <source>This is an iPod, but you compiled Strawberry without libgpod support.</source>
@@ -1849,46 +1849,46 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>This type of device is not supported: %1</source>
-      <translation type="unfinished">This type of device is not supported: %1</translation>
+      <translation>Þessi gerð tækis er ekki studd: %1</translation>
     </message>
   </context>
   <context>
     <name>DeviceProperties</name>
     <message>
       <source>Device Properties</source>
-      <translation type="unfinished">Device Properties</translation>
+      <translation>Eiginleikar tækis</translation>
     </message>
     <message>
       <source>Information</source>
-      <translation type="unfinished">Information</translation>
+      <translation>Upplýsingar</translation>
     </message>
     <message>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nafn</translation>
     </message>
     <message>
       <source>Icon</source>
-      <translation type="unfinished">Icon</translation>
+      <translation>Táknmynd</translation>
     </message>
     <message>
       <source>Hardware information</source>
-      <translation type="unfinished">Hardware information</translation>
+      <translation>Upplýsingar um vélbúnað</translation>
     </message>
     <message>
       <source>Hardware information is only available while the device is connected.</source>
-      <translation type="unfinished">Hardware information is only available while the device is connected.</translation>
+      <translation>Upplýsingar um vélbúnað eru einungis tiltækar á meðan tækið er tengt.</translation>
     </message>
     <message>
       <source>File formats</source>
-      <translation type="unfinished">File formats</translation>
+      <translation>Skráasnið</translation>
     </message>
     <message>
       <source>Supported formats</source>
-      <translation type="unfinished">Supported formats</translation>
+      <translation>Studd snið</translation>
     </message>
     <message>
       <source>This device supports the following file formats:</source>
-      <translation type="unfinished">This device supports the following file formats:</translation>
+      <translation>Þetta tæki styður eftirfarandi skráasnið:</translation>
     </message>
     <message>
       <source>Strawberry can automatically convert the music you copy to this device into a format that it can play.</source>
@@ -1896,19 +1896,19 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Do not convert any music</source>
-      <translation type="unfinished">Do not convert any music</translation>
+      <translation>Ekki umbreyta neinni tónlist</translation>
     </message>
     <message>
       <source>Convert any music that the device can&apos;t play</source>
-      <translation type="unfinished">Convert any music that the device can&apos;t play</translation>
+      <translation>Umbreyta allri tónlist sem tækið getur ekki spilað</translation>
     </message>
     <message>
       <source>Convert all music</source>
-      <translation type="unfinished">Convert all music</translation>
+      <translation>Umbreyta allri tónlist</translation>
     </message>
     <message>
       <source>Preferred format</source>
-      <translation type="unfinished">Preferred format</translation>
+      <translation>Umbeðið snið</translation>
     </message>
     <message>
       <source>This device must be connected and opened before Strawberry can see what file formats it supports.</source>
@@ -1916,192 +1916,192 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Open device</source>
-      <translation type="unfinished">Open device</translation>
+      <translation>Opna tæki</translation>
     </message>
     <message>
       <source>Querying device...</source>
-      <translation type="unfinished">Querying device...</translation>
+      <translation>Skoða tæki...</translation>
     </message>
     <message>
       <source>Model</source>
-      <translation type="unfinished">Model</translation>
+      <translation>Gerð</translation>
     </message>
     <message>
       <source>Manufacturer</source>
-      <translation type="unfinished">Manufacturer</translation>
+      <translation>Framleiðandi</translation>
     </message>
   </context>
   <context>
     <name>DeviceView</name>
     <message>
       <source>Safely remove device</source>
-      <translation type="unfinished">Safely remove device</translation>
+      <translation>Fjarlægja tækið örugglega</translation>
     </message>
     <message>
       <source>Forget device</source>
-      <translation type="unfinished">Forget device</translation>
+      <translation>Gleyma tæki</translation>
     </message>
     <message>
       <source>Device properties...</source>
-      <translation type="unfinished">Device properties...</translation>
+      <translation>Eiginleikar tækis...</translation>
     </message>
     <message>
       <source>Append to current playlist</source>
-      <translation type="unfinished">Append to current playlist</translation>
+      <translation>Bæta við fyrirliggjandi lagalista</translation>
     </message>
     <message>
       <source>Replace current playlist</source>
-      <translation type="unfinished">Replace current playlist</translation>
+      <translation>Skipta út fyrirliggjandi spilunarlista</translation>
     </message>
     <message>
       <source>Open in new playlist</source>
-      <translation type="unfinished">Open in new playlist</translation>
+      <translation>Opna í nýjum spilunarlista</translation>
     </message>
     <message>
       <source>Copy to collection...</source>
-      <translation type="unfinished">Copy to collection...</translation>
+      <translation>Afrita í safn...</translation>
     </message>
     <message>
       <source>Delete from device...</source>
-      <translation type="unfinished">Delete from device...</translation>
+      <translation>Eyða af tæki...</translation>
     </message>
     <message>
       <source>Forgetting a device will remove it from this list and Strawberry will have to rescan all the songs again next time you connect it.</source>
-      <translation type="unfinished">Forgetting a device will remove it from this list and Strawberry will have to rescan all the songs again next time you connect it.</translation>
+      <translation>Að gleyma tæki þýðir að það er tekið af þessum lista og þarf Strawberry skanna öll lög á því næst þegar það er tengt.</translation>
     </message>
     <message>
       <source>Delete files</source>
-      <translation type="unfinished">Delete files</translation>
+      <translation>Eyða skrám</translation>
     </message>
     <message>
       <source>These files will be deleted from the device, are you sure you want to continue?</source>
-      <translation type="unfinished">These files will be deleted from the device, are you sure you want to continue?</translation>
+      <translation>Þessum skrám verður eytt af tækinu, ertu viss um að þú viljir halda áfram?</translation>
     </message>
   </context>
   <context>
     <name>DeviceViewContainer</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
   </context>
   <context>
     <name>DynamicPlaylistControls</name>
     <message>
       <source>Dynamic mode is on</source>
-      <translation type="unfinished">Dynamic mode is on</translation>
+      <translation>Kveikt er á breytilegum ham</translation>
     </message>
     <message>
       <source>New tracks will be added automatically.</source>
-      <translation type="unfinished">New tracks will be added automatically.</translation>
+      <translation>Nýjum lögum verður sjálfvirkt bætt við.</translation>
     </message>
     <message>
       <source>Expand</source>
-      <translation type="unfinished">Expand</translation>
+      <translation>Fletta út</translation>
     </message>
     <message>
       <source>Repopulate</source>
-      <translation type="unfinished">Repopulate</translation>
+      <translation>Endurfylla</translation>
     </message>
     <message>
       <source>Turn off</source>
-      <translation type="unfinished">Turn off</translation>
+      <translation>Slökkva</translation>
     </message>
   </context>
   <context>
     <name>EditTagDialog</name>
     <message>
       <source>Edit track information</source>
-      <translation type="unfinished">Edit track information</translation>
+      <translation>Breyta upplýsingum um lag</translation>
     </message>
     <message>
       <source>Summary</source>
-      <translation type="unfinished">Summary</translation>
+      <translation>Samantekt</translation>
     </message>
     <message>
       <source>Date created</source>
-      <translation type="unfinished">Date created</translation>
+      <translation>Búið til þann</translation>
     </message>
     <message>
       <source>Art Automatic</source>
-      <translation type="unfinished">Art Automatic</translation>
+      <translation>Sjálfvirk myndskreyting</translation>
     </message>
     <message>
       <source>Date modified</source>
-      <translation type="unfinished">Date modified</translation>
+      <translation>Breytt þann</translation>
     </message>
     <message>
       <source>Art Embedded</source>
-      <translation type="unfinished">Art Embedded</translation>
+      <translation>ívafin myndskreyting</translation>
     </message>
     <message>
       <source>Last played</source>
       <comment>A playlist&apos;s tag.</comment>
-      <translation type="unfinished">Last played</translation>
+      <translation>Síðast spilað</translation>
     </message>
     <message>
       <source>File type</source>
-      <translation type="unfinished">File type</translation>
+      <translation>Skráartegund</translation>
     </message>
     <message>
       <source>Length</source>
-      <translation type="unfinished">Length</translation>
+      <translation>Lengd</translation>
     </message>
     <message>
       <source>Play count</source>
-      <translation type="unfinished">Play count</translation>
+      <translation>Hversu oft spilað</translation>
     </message>
     <message>
       <source>Bit depth</source>
-      <translation type="unfinished">Bit depth</translation>
+      <translation>Bitadýpt</translation>
     </message>
     <message>
       <source>EBU R 128 integrated loudness</source>
-      <translation type="unfinished">EBU R 128 integrated loudness</translation>
+      <translation>EBU R 128 innbyggður hljóðstyrkur</translation>
     </message>
     <message>
       <source>Bit rate</source>
-      <translation type="unfinished">Bit rate</translation>
+      <translation>Bitahraði</translation>
     </message>
     <message>
       <source>Skip count</source>
-      <translation type="unfinished">Skip count</translation>
+      <translation>Sleppa talningu</translation>
     </message>
     <message>
       <source>Sample rate</source>
-      <translation type="unfinished">Sample rate</translation>
+      <translation>Safntíðni</translation>
     </message>
     <message>
       <source>Path</source>
-      <translation type="unfinished">Path</translation>
+      <translation>Slóð</translation>
     </message>
     <message>
       <source>Filename</source>
-      <translation type="unfinished">Filename</translation>
+      <translation>Skráarheiti</translation>
     </message>
     <message>
       <source>Art Unset</source>
-      <translation type="unfinished">Art Unset</translation>
+      <translation>Umslagsmynd aftengd</translation>
     </message>
     <message>
       <source>File size</source>
-      <translation type="unfinished">File size</translation>
+      <translation>Stærð skráar</translation>
     </message>
     <message>
       <source>Art Manual</source>
-      <translation type="unfinished">Art Manual</translation>
+      <translation>Handvirk myndskreyting</translation>
     </message>
     <message>
       <source>EBU R 128 loudness range</source>
-      <translation type="unfinished">EBU R 128 loudness range</translation>
+      <translation>EBU R 128 hljóðstyrkssvið</translation>
     </message>
     <message>
       <source>Reset play counts</source>
-      <translation type="unfinished">Reset play counts</translation>
+      <translation>Núllstilla spilunarfjölda</translation>
     </message>
     <message>
       <source>Tags</source>
-      <translation type="unfinished">Tags</translation>
+      <translation>Merki</translation>
     </message>
     <message>
       <source>MenuPopupToolButton</source>
@@ -2109,143 +2109,143 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Change art</source>
-      <translation type="unfinished">Change art</translation>
+      <translation>Skipta um myndefni</translation>
     </message>
     <message>
       <source>Embedded cover</source>
-      <translation type="unfinished">Embedded cover</translation>
+      <translation>ívafið umslag</translation>
     </message>
     <message>
       <source>Disc</source>
-      <translation type="unfinished">Disc</translation>
+      <translation>Diskur</translation>
     </message>
     <message>
       <source>Grouping</source>
-      <translation type="unfinished">Grouping</translation>
+      <translation>Hópun</translation>
     </message>
     <message>
       <source>Album artist</source>
-      <translation type="unfinished">Album artist</translation>
+      <translation>Flytjandi hljómplötu</translation>
     </message>
     <message>
       <source>Album</source>
-      <translation type="unfinished">Album</translation>
+      <translation>Hljómplata</translation>
     </message>
     <message>
       <source>Year</source>
-      <translation type="unfinished">Year</translation>
+      <translation>Ár</translation>
     </message>
     <message>
       <source>Title</source>
-      <translation type="unfinished">Title</translation>
+      <translation>Titill</translation>
     </message>
     <message>
       <source>Artist</source>
-      <translation type="unfinished">Artist</translation>
+      <translation>Flytjandi</translation>
     </message>
     <message>
       <source>Composer</source>
-      <translation type="unfinished">Composer</translation>
+      <translation>Tónskáld</translation>
     </message>
     <message>
       <source>Complete tags automatically</source>
-      <translation type="unfinished">Complete tags automatically</translation>
+      <translation>Ljúka merkjum sjálfkrafa</translation>
     </message>
     <message>
       <source>Genre</source>
-      <translation type="unfinished">Genre</translation>
+      <translation>Tónlistarstíll</translation>
     </message>
     <message>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Athugasemd</translation>
     </message>
     <message>
       <source>Performer</source>
-      <translation type="unfinished">Performer</translation>
+      <translation>Flytjandi</translation>
     </message>
     <message>
       <source>Compilation</source>
-      <translation type="unfinished">Compilation</translation>
+      <translation>Safndiskur</translation>
     </message>
     <message>
       <source>Track</source>
-      <translation type="unfinished">Track</translation>
+      <translation>Lag</translation>
     </message>
     <message>
       <source>Rating</source>
-      <translation type="unfinished">Rating</translation>
+      <translation>Einkunn</translation>
     </message>
     <message>
       <source>Lyrics</source>
-      <translation type="unfinished">Lyrics</translation>
+      <translation>Lagatextar</translation>
     </message>
     <message>
       <source>Complete lyrics automatically</source>
-      <translation type="unfinished">Complete lyrics automatically</translation>
+      <translation>Klára lagatexta sjálfkrafa</translation>
     </message>
     <message>
       <source>(different across multiple songs)</source>
-      <translation type="unfinished">(different across multiple songs)</translation>
+      <translation>(breytilegt yfir mörg lög)</translation>
     </message>
     <message>
       <source>Different art across multiple songs.</source>
-      <translation type="unfinished">Different art across multiple songs.</translation>
+      <translation>Breytilegt myndefni yfir mörg lög.</translation>
     </message>
     <message>
       <source>Previous</source>
-      <translation type="unfinished">Previous</translation>
+      <translation>Fyrra</translation>
     </message>
     <message>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Næsta</translation>
     </message>
     <message>
       <source>Saving tracks</source>
-      <translation type="unfinished">Saving tracks</translation>
+      <translation>Vista lög</translation>
     </message>
     <message>
       <source>Loading tracks</source>
-      <translation type="unfinished">Loading tracks</translation>
+      <translation>Hleð inn lögum</translation>
     </message>
     <message>
       <source>%1 songs selected.</source>
-      <translation type="unfinished">%1 songs selected.</translation>
+      <translation>%1 lög valin.</translation>
     </message>
     <message>
       <source>kbps</source>
-      <translation type="unfinished">kbps</translation>
+      <translation>kb/sek</translation>
     </message>
     <message>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>Óþekkt</translation>
     </message>
     <message>
       <source>Yes</source>
-      <translation type="unfinished">Yes</translation>
+      <translation>Já</translation>
     </message>
     <message>
       <source>No</source>
-      <translation type="unfinished">No</translation>
+      <translation>Nei</translation>
     </message>
     <message>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Ekkert</translation>
     </message>
     <message>
       <source>Cover is unset.</source>
-      <translation type="unfinished">Cover is unset.</translation>
+      <translation>Umslagsmynd er aftengd.</translation>
     </message>
     <message>
       <source>Cover from embedded image.</source>
-      <translation type="unfinished">Cover from embedded image.</translation>
+      <translation>Umslagsmynd úr ívafinni mynd.</translation>
     </message>
     <message>
       <source>Cover from %1</source>
-      <translation type="unfinished">Cover from %1</translation>
+      <translation>Umslag frá %1</translation>
     </message>
     <message>
       <source>Cover art not set</source>
-      <translation type="unfinished">Cover art not set</translation>
+      <translation>Umslagsmynd ekki sett</translation>
     </message>
     <message>
       <source>Album cover editing is only available for collection songs.</source>
@@ -2253,328 +2253,328 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Cover changed: Will be cleared when saved.</source>
-      <translation type="unfinished">Cover changed: Will be cleared when saved.</translation>
+      <translation>Umslag breyttist: verður hreinsað við vistun.</translation>
     </message>
     <message>
       <source>Cover changed: Will be unset when saved.</source>
-      <translation type="unfinished">Cover changed: Will be unset when saved.</translation>
+      <translation>Umslag breyttist: verður aftengt við vistun.</translation>
     </message>
     <message>
       <source>Cover changed: Will be deleted when saved.</source>
-      <translation type="unfinished">Cover changed: Will be deleted when saved.</translation>
+      <translation>Umslag breyttist: verður eytt við vistun.</translation>
     </message>
     <message>
       <source>Cover changed: Will set new when saved.</source>
-      <translation type="unfinished">Cover changed: Will set new when saved.</translation>
+      <translation>Umslag breyttist: verður sett sem nýtt við vistun.</translation>
     </message>
     <message>
       <source>Never</source>
-      <translation type="unfinished">Never</translation>
+      <translation>Aldrei</translation>
     </message>
     <message>
       <source>Reset song play statistics</source>
-      <translation type="unfinished">Reset song play statistics</translation>
+      <translation>Núllstilla tölfræði spilunar lags</translation>
     </message>
     <message>
       <source>Are you sure you want to reset this song&apos;s play statistics?</source>
-      <translation type="unfinished">Are you sure you want to reset this song&apos;s play statistics?</translation>
+      <translation>Ertu viss að þú viljir núllstilla tölfræði spilunar þessa lags?</translation>
     </message>
     <message>
       <source>loading...</source>
-      <translation type="unfinished">loading...</translation>
+      <translation>hleð inn...</translation>
     </message>
     <message>
       <source>Not found.</source>
-      <translation type="unfinished">Not found.</translation>
+      <translation>Fannst ekki.</translation>
     </message>
     <message>
       <source>Could not write metadata to %1</source>
-      <translation type="unfinished">Could not write metadata to %1</translation>
+      <translation>Ekki tókst að skrifa lýsigögn í %1</translation>
     </message>
     <message>
       <source>Could not write metadata to %1: %2</source>
-      <translation type="unfinished">Could not write metadata to %1: %2</translation>
+      <translation>Ekki tókst að skrifa lýsigögn í %1: %2</translation>
     </message>
   </context>
   <context>
     <name>Equalizer</name>
     <message>
       <source>Equalizer</source>
-      <translation type="unfinished">Equalizer</translation>
+      <translation>Tónjafnari</translation>
     </message>
     <message>
       <source>Preset:</source>
-      <translation type="unfinished">Preset:</translation>
+      <translation>Forstilling:</translation>
     </message>
     <message>
       <source>Save preset</source>
-      <translation type="unfinished">Save preset</translation>
+      <translation>Vista forstillingu</translation>
     </message>
     <message>
       <source>Delete preset</source>
-      <translation type="unfinished">Delete preset</translation>
+      <translation>Eyða forstillingu</translation>
     </message>
     <message>
       <source>Enable equalizer</source>
-      <translation type="unfinished">Enable equalizer</translation>
+      <translation>Virkja tónjafnara</translation>
     </message>
     <message>
       <source>Enable stereo balancer</source>
-      <translation type="unfinished">Enable stereo balancer</translation>
+      <translation>Virkja víðóma hljóðjafnvægi</translation>
     </message>
     <message>
       <source>Left</source>
-      <translation type="unfinished">Left</translation>
+      <translation>Vinstri</translation>
     </message>
     <message>
       <source>Balance</source>
-      <translation type="unfinished">Balance</translation>
+      <translation>Jafnvægi</translation>
     </message>
     <message>
       <source>Right</source>
-      <translation type="unfinished">Right</translation>
+      <translation>Hægri</translation>
     </message>
     <message>
       <source>Pre-amp</source>
-      <translation type="unfinished">Pre-amp</translation>
+      <translation>Formögnun</translation>
     </message>
     <message>
       <source>Custom</source>
-      <translation type="unfinished">Custom</translation>
+      <translation>Sérsniðið</translation>
     </message>
     <message>
       <source>Classical</source>
-      <translation type="unfinished">Classical</translation>
+      <translation>Klassískt</translation>
     </message>
     <message>
       <source>Club</source>
-      <translation type="unfinished">Club</translation>
+      <translation>Klúbb</translation>
     </message>
     <message>
       <source>Dance</source>
-      <translation type="unfinished">Dance</translation>
+      <translation>Dans</translation>
     </message>
     <message>
       <source>Full Bass</source>
-      <translation type="unfinished">Full Bass</translation>
+      <translation>Fullan bassa</translation>
     </message>
     <message>
       <source>Full Treble</source>
-      <translation type="unfinished">Full Treble</translation>
+      <translation>Þéttur diskant</translation>
     </message>
     <message>
       <source>Full Bass + Treble</source>
-      <translation type="unfinished">Full Bass + Treble</translation>
+      <translation>Þéttur bassi + diskantur</translation>
     </message>
     <message>
       <source>Laptop/Headphones</source>
-      <translation type="unfinished">Laptop/Headphones</translation>
+      <translation>Fartölva/Heyrnartól</translation>
     </message>
     <message>
       <source>Large Hall</source>
-      <translation type="unfinished">Large Hall</translation>
+      <translation>Stór salur</translation>
     </message>
     <message>
       <source>Live</source>
-      <translation type="unfinished">Live</translation>
+      <translation>Lifandi</translation>
     </message>
     <message>
       <source>Party</source>
-      <translation type="unfinished">Party</translation>
+      <translation>Partý</translation>
     </message>
     <message>
       <source>Pop</source>
-      <translation type="unfinished">Pop</translation>
+      <translation>Popp</translation>
     </message>
     <message>
       <source>Reggae</source>
-      <translation type="unfinished">Reggae</translation>
+      <translation>Reggí</translation>
     </message>
     <message>
       <source>Rock</source>
-      <translation type="unfinished">Rock</translation>
+      <translation>Rokk</translation>
     </message>
     <message>
       <source>Soft</source>
-      <translation type="unfinished">Soft</translation>
+      <translation>Mjúkt</translation>
     </message>
     <message>
       <source>Ska</source>
-      <translation type="unfinished">Ska</translation>
+      <translation>Ska</translation>
     </message>
     <message>
       <source>Soft Rock</source>
-      <translation type="unfinished">Soft Rock</translation>
+      <translation>Mjúkt rokk</translation>
     </message>
     <message>
       <source>Techno</source>
-      <translation type="unfinished">Techno</translation>
+      <translation>Teknó</translation>
     </message>
     <message>
       <source>Zero</source>
-      <translation type="unfinished">Zero</translation>
+      <translation>Núll</translation>
     </message>
     <message>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nafn</translation>
     </message>
     <message>
       <source>Are you sure you want to delete the &quot;%1&quot; preset?</source>
-      <translation type="unfinished">Are you sure you want to delete the &quot;%1&quot; preset?</translation>
+      <translation>Ertu viss um að þú viljir eyða &quot;%1&quot; forstillingunni?</translation>
     </message>
   </context>
   <context>
     <name>EqualizerSlider</name>
     <message>
       <source>Equalizer</source>
-      <translation type="unfinished">Equalizer</translation>
+      <translation>Tónjafnari</translation>
     </message>
     <message>
       <source>%1 dB</source>
-      <translation type="unfinished">%1 dB</translation>
+      <translation>%1 dB</translation>
     </message>
   </context>
   <context>
     <name>ErrorDialog</name>
     <message>
       <source>Strawberry Error</source>
-      <translation type="unfinished">Strawberry Error</translation>
+      <translation>Villa í Strawberry</translation>
     </message>
   </context>
   <context>
     <name>FancyTabWidget</name>
     <message>
       <source>Large sidebar</source>
-      <translation type="unfinished">Large sidebar</translation>
+      <translation>Stórt hliðarspjald</translation>
     </message>
     <message>
       <source>Icons sidebar</source>
-      <translation type="unfinished">Icons sidebar</translation>
+      <translation>Hliðarspjald táknmynda</translation>
     </message>
     <message>
       <source>Small sidebar</source>
-      <translation type="unfinished">Small sidebar</translation>
+      <translation>Lítið hliðarspjald</translation>
     </message>
     <message>
       <source>Plain sidebar</source>
-      <translation type="unfinished">Plain sidebar</translation>
+      <translation>Einfalt hliðarspjald</translation>
     </message>
     <message>
       <source>Tabs on top</source>
-      <translation type="unfinished">Tabs on top</translation>
+      <translation>Flipar efst</translation>
     </message>
     <message>
       <source>Icons on top</source>
-      <translation type="unfinished">Icons on top</translation>
+      <translation>Táknmyndir efst</translation>
     </message>
   </context>
   <context>
     <name>FileTypeItemDelegate</name>
     <message>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>Óþekkt</translation>
     </message>
   </context>
   <context>
     <name>FileView</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
   </context>
   <context>
     <name>FileViewList</name>
     <message>
       <source>Append to current playlist</source>
-      <translation type="unfinished">Append to current playlist</translation>
+      <translation>Bæta við fyrirliggjandi lagalista</translation>
     </message>
     <message>
       <source>Replace current playlist</source>
-      <translation type="unfinished">Replace current playlist</translation>
+      <translation>Skipta út fyrirliggjandi spilunarlista</translation>
     </message>
     <message>
       <source>Open in new playlist</source>
-      <translation type="unfinished">Open in new playlist</translation>
+      <translation>Opna í nýjum spilunarlista</translation>
     </message>
     <message>
       <source>Copy to collection...</source>
-      <translation type="unfinished">Copy to collection...</translation>
+      <translation>Afrita í safn...</translation>
     </message>
     <message>
       <source>Move to collection...</source>
-      <translation type="unfinished">Move to collection...</translation>
+      <translation>Færa í safn...</translation>
     </message>
     <message>
       <source>Copy to device...</source>
-      <translation type="unfinished">Copy to device...</translation>
+      <translation>Afrita á tæki...</translation>
     </message>
     <message>
       <source>Delete from disk...</source>
-      <translation type="unfinished">Delete from disk...</translation>
+      <translation>Eyða af diski...</translation>
     </message>
     <message>
       <source>Edit track information...</source>
-      <translation type="unfinished">Edit track information...</translation>
+      <translation>Breyta upplýsingum um lag...</translation>
     </message>
     <message>
       <source>Show in file browser...</source>
-      <translation type="unfinished">Show in file browser...</translation>
+      <translation>Sýna í skráavafra...</translation>
     </message>
   </context>
   <context>
     <name>FreeSpaceBar</name>
     <message>
       <source>Available</source>
-      <translation type="unfinished">Available</translation>
+      <translation>Tiltækt</translation>
     </message>
     <message>
       <source>New songs</source>
-      <translation type="unfinished">New songs</translation>
+      <translation>Ný lög</translation>
     </message>
     <message>
       <source>Exceeded by</source>
-      <translation type="unfinished">Exceeded by</translation>
+      <translation>Farið fram úr um</translation>
     </message>
     <message>
       <source>Used</source>
-      <translation type="unfinished">Used</translation>
+      <translation>Notað</translation>
     </message>
   </context>
   <context>
     <name>GPodDevice</name>
     <message>
       <source>Could not copy %1 to %2: %3</source>
-      <translation type="unfinished">Could not copy %1 to %2: %3</translation>
+      <translation>Mistókst að afrita %1 í %2: %3</translation>
     </message>
     <message>
       <source>Writing database failed: %1</source>
-      <translation type="unfinished">Writing database failed: %1</translation>
+      <translation>Mistókst að skrifa í gagnagrunn: %1</translation>
     </message>
     <message>
       <source>Writing database failed.</source>
-      <translation type="unfinished">Writing database failed.</translation>
+      <translation>Mistókst að skrifa í gagnagrunn.</translation>
     </message>
   </context>
   <context>
     <name>GPodLoader</name>
     <message>
       <source>Loading iPod database</source>
-      <translation type="unfinished">Loading iPod database</translation>
+      <translation>Hleð inn iPod-gagnagrunni</translation>
     </message>
     <message>
       <source>An error occurred loading the iTunes database</source>
-      <translation type="unfinished">An error occurred loading the iTunes database</translation>
+      <translation>Villa kom upp við hleðslu iTunes gagnagrunns</translation>
     </message>
   </context>
   <context>
     <name>GeniusLyricsProvider</name>
     <message>
       <source>Genius Authentication</source>
-      <translation type="unfinished">Genius Authentication</translation>
+      <translation>Auðkenning á Genius</translation>
     </message>
     <message>
       <source>Please open this URL in your browser</source>
-      <translation type="unfinished">Please open this URL in your browser</translation>
+      <translation>Opnaðu þessa slóð í vafranum þínum</translation>
     </message>
     <message>
       <source>Redirect missing token code!</source>
@@ -2582,7 +2582,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Received invalid reply from web browser.</source>
-      <translation type="unfinished">Received invalid reply from web browser.</translation>
+      <translation>Fékk ógilt svar frá vafra.</translation>
     </message>
     <message>
       <source>Redirect from Genius is missing query items code or state.</source>
@@ -2593,57 +2593,57 @@ If there are no matches then it will use the largest image in the directory.</tr
     <name>GioLister</name>
     <message>
       <source>Mount point</source>
-      <translation type="unfinished">Mount point</translation>
+      <translation>Tengipunktur</translation>
     </message>
     <message>
       <source>Device</source>
-      <translation type="unfinished">Device</translation>
+      <translation>Tæki</translation>
     </message>
     <message>
       <source>URI</source>
-      <translation type="unfinished">URI</translation>
+      <translation>Slóð (URI)</translation>
     </message>
   </context>
   <context>
     <name>GlobalShortcutGrabber</name>
     <message>
       <source>Press a key</source>
-      <translation type="unfinished">Press a key</translation>
+      <translation>Ýttu á lykil</translation>
     </message>
     <message>
       <source>Press a key combination to use for %1...</source>
-      <translation type="unfinished">Press a key combination to use for %1...</translation>
+      <translation>Ýttu á lyklasamsetningu til að nota fyrir %1...</translation>
     </message>
   </context>
   <context>
     <name>GlobalShortcutsManager</name>
     <message>
       <source>Play</source>
-      <translation type="unfinished">Play</translation>
+      <translation>Spila</translation>
     </message>
     <message>
       <source>Pause</source>
-      <translation type="unfinished">Pause</translation>
+      <translation>Í bið</translation>
     </message>
     <message>
       <source>Play/Pause</source>
-      <translation type="unfinished">Play/Pause</translation>
+      <translation>Spila/bíða</translation>
     </message>
     <message>
       <source>Stop</source>
-      <translation type="unfinished">Stop</translation>
+      <translation>Stöðva</translation>
     </message>
     <message>
       <source>Stop playing after current track</source>
-      <translation type="unfinished">Stop playing after current track</translation>
+      <translation>Stöðva afspilun eftir núverandi lag</translation>
     </message>
     <message>
       <source>Next track</source>
-      <translation type="unfinished">Next track</translation>
+      <translation>Næsta lag</translation>
     </message>
     <message>
       <source>Previous track</source>
-      <translation type="unfinished">Previous track</translation>
+      <translation>Fyrra lag</translation>
     </message>
     <message>
       <source>Restart or previous track</source>
@@ -2651,58 +2651,58 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Increase volume</source>
-      <translation type="unfinished">Increase volume</translation>
+      <translation>Auka hljóðstyrk</translation>
     </message>
     <message>
       <source>Decrease volume</source>
-      <translation type="unfinished">Decrease volume</translation>
+      <translation>Minnka hljóðstyrk</translation>
     </message>
     <message>
       <source>Mute</source>
-      <translation type="unfinished">Mute</translation>
+      <translation>Þagga</translation>
     </message>
     <message>
       <source>Seek forward</source>
-      <translation type="unfinished">Seek forward</translation>
+      <translation>Leita áfram</translation>
     </message>
     <message>
       <source>Seek backward</source>
-      <translation type="unfinished">Seek backward</translation>
+      <translation>Leita afturábak</translation>
     </message>
     <message>
       <source>Show/Hide</source>
-      <translation type="unfinished">Show/Hide</translation>
+      <translation>Birta/Fela</translation>
     </message>
     <message>
       <source>Show OSD</source>
-      <translation type="unfinished">Show OSD</translation>
+      <translation>Birta OSD-stjórntexta á skjá</translation>
     </message>
     <message>
       <source>Toggle Pretty OSD</source>
-      <translation type="unfinished">Toggle Pretty OSD</translation>
+      <translation>Víxla af/á fegruðum OSD-stjórntexta</translation>
     </message>
     <message>
       <source>Change shuffle mode</source>
-      <translation type="unfinished">Change shuffle mode</translation>
+      <translation>Breyta stokkunarham</translation>
     </message>
     <message>
       <source>Change repeat mode</source>
-      <translation type="unfinished">Change repeat mode</translation>
+      <translation>Breyta endurtekningarham</translation>
     </message>
     <message>
       <source>Enable/disable scrobbling</source>
-      <translation type="unfinished">Enable/disable scrobbling</translation>
+      <translation>Gera virka/óvirka skráningu á hlustunarvenjum (scrobbling)</translation>
     </message>
     <message>
       <source>Love</source>
-      <translation type="unfinished">Love</translation>
+      <translation>Líkar þetta</translation>
     </message>
   </context>
   <context>
     <name>GlobalShortcutsSettingsPage</name>
     <message>
       <source>Global Shortcuts</source>
-      <translation type="unfinished">Global Shortcuts</translation>
+      <translation>Altækir flýtilyklar</translation>
     </message>
     <message>
       <source>Use Gnome (GSD) shortcuts when available</source>
@@ -2710,7 +2710,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Open...</source>
-      <translation type="unfinished">Open...</translation>
+      <translation>Opna...</translation>
     </message>
     <message>
       <source>Use MATE shortcuts when available</source>
@@ -2731,35 +2731,35 @@ If there are no matches then it will use the largest image in the directory.</tr
     <message>
       <source>Action</source>
       <comment>Category label</comment>
-      <translation type="unfinished">Action</translation>
+      <translation>Aðgerð</translation>
     </message>
     <message>
       <source>Shortcut</source>
-      <translation type="unfinished">Shortcut</translation>
+      <translation>Flýtilykill</translation>
     </message>
     <message>
       <source>Shortcut for %1</source>
-      <translation type="unfinished">Shortcut for %1</translation>
+      <translation>Flýtilykill fyrir %1</translation>
     </message>
     <message>
       <source>&amp;None</source>
-      <translation type="unfinished">&amp;None</translation>
+      <translation>&amp;Ekkert</translation>
     </message>
     <message>
       <source>&amp;Default</source>
-      <translation type="unfinished">&amp;Default</translation>
+      <translation>Sjálf&amp;gefið</translation>
     </message>
     <message>
       <source>&amp;Custom</source>
-      <translation type="unfinished">&amp;Custom</translation>
+      <translation>&amp;Sérsnið</translation>
     </message>
     <message>
       <source>Change shortcut...</source>
-      <translation type="unfinished">Change shortcut...</translation>
+      <translation>Skipta um flýtilykil...</translation>
     </message>
     <message>
       <source>The &quot;%1&quot; command could not be started.</source>
-      <translation type="unfinished">The &quot;%1&quot; command could not be started.</translation>
+      <translation>Tókst ekki að ræsa &apos;%1&apos; skipunina.</translation>
     </message>
     <message>
       <source>Using X11 shortcuts on %1 is not recommended and can cause keyboard to become unresponsive!</source>
@@ -2767,126 +2767,126 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source> Shortcuts on %1 are usually used through MPRIS and KGlobalAccel.</source>
-      <translation type="unfinished"> Shortcuts on %1 are usually used through MPRIS and KGlobalAccel.</translation>
+      <translation> Flýtileiðir í %1 eru venjulega notaðar í gegnum MPRIS og KGlobalAccel.</translation>
     </message>
     <message>
       <source> Shortcuts on %1 are usually used through Gnome Settings Daemon and should be configured in gnome-settings-daemon instead.</source>
-      <translation type="unfinished"> Shortcuts on %1 are usually used through Gnome Settings Daemon and should be configured in gnome-settings-daemon instead.</translation>
+      <translation> Flýtileiðir í %1 eru venjulega notaðar í gegnum Gnome-stillingavaktarann (Settings Daemon) og ætti því frekar að stilla í gnome-settings-daemon forritinu.</translation>
     </message>
     <message>
       <source> Shortcuts on %1 are usually used through Gnome Settings Daemon and should be configured in cinnamon-settings-daemon instead.</source>
-      <translation type="unfinished"> Shortcuts on %1 are usually used through Gnome Settings Daemon and should be configured in cinnamon-settings-daemon instead.</translation>
+      <translation> Flýtileiðir í %1 eru venjulega notaðar í gegnum Gnome-stillingavaktarann (Settings Daemon) og ætti því frekar að stilla í cinnamon-settings-daemon forritinu.</translation>
     </message>
     <message>
       <source> Shortcuts on %1 are usually used through MATE Settings Daemon and should be configured there instead.</source>
-      <translation type="unfinished"> Shortcuts on %1 are usually used through MATE Settings Daemon and should be configured there instead.</translation>
+      <translation> Flýtileiðir í %1 eru venjulega notaðar í gegnum MATE-stillingavaktarann (Settings Daemon) og ætti því frekar að stilla þar.</translation>
     </message>
   </context>
   <context>
     <name>GroupByDialog</name>
     <message>
       <source>Collection advanced grouping</source>
-      <translation type="unfinished">Collection advanced grouping</translation>
+      <translation>Ítarleg hópun safns</translation>
     </message>
     <message>
       <source>You can change the way the songs in the collection are organized.</source>
-      <translation type="unfinished">You can change the way the songs in the collection are organized.</translation>
+      <translation>Þú getur breytt því hvernig lögin eru skipulögð í tónlistarsafninu.</translation>
     </message>
     <message>
       <source>Group Collection by...</source>
-      <translation type="unfinished">Group Collection by...</translation>
+      <translation>Hópa safn eftir...</translation>
     </message>
     <message>
       <source>First level</source>
-      <translation type="unfinished">First level</translation>
+      <translation>Fyrsta stig</translation>
     </message>
     <message>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Ekkert</translation>
     </message>
     <message>
       <source>Artist</source>
-      <translation type="unfinished">Artist</translation>
+      <translation>Flytjandi</translation>
     </message>
     <message>
       <source>Album artist</source>
-      <translation type="unfinished">Album artist</translation>
+      <translation>Flytjandi hljómplötu</translation>
     </message>
     <message>
       <source>Album</source>
-      <translation type="unfinished">Album</translation>
+      <translation>Hljómplata</translation>
     </message>
     <message>
       <source>Album - Disc</source>
-      <translation type="unfinished">Album - Disc</translation>
+      <translation>Hljómplata - Diskur</translation>
     </message>
     <message>
       <source>Disc</source>
-      <translation type="unfinished">Disc</translation>
+      <translation>Diskur</translation>
     </message>
     <message>
       <source>Format</source>
-      <translation type="unfinished">Format</translation>
+      <translation>Snið</translation>
     </message>
     <message>
       <source>Genre</source>
-      <translation type="unfinished">Genre</translation>
+      <translation>Tónlistarstíll</translation>
     </message>
     <message>
       <source>Year</source>
-      <translation type="unfinished">Year</translation>
+      <translation>Ár</translation>
     </message>
     <message>
       <source>Year - Album</source>
-      <translation type="unfinished">Year - Album</translation>
+      <translation>Ár - Hljómplata</translation>
     </message>
     <message>
       <source>Year - Album - Disc</source>
-      <translation type="unfinished">Year - Album - Disc</translation>
+      <translation>Ár - Hljómplata - Diskur</translation>
     </message>
     <message>
       <source>Original year</source>
-      <translation type="unfinished">Original year</translation>
+      <translation>Upprunaár</translation>
     </message>
     <message>
       <source>Original year - Album</source>
-      <translation type="unfinished">Original year - Album</translation>
+      <translation>Upprunaár - Hljómplata</translation>
     </message>
     <message>
       <source>Composer</source>
-      <translation type="unfinished">Composer</translation>
+      <translation>Tónskáld</translation>
     </message>
     <message>
       <source>Performer</source>
-      <translation type="unfinished">Performer</translation>
+      <translation>Flytjandi</translation>
     </message>
     <message>
       <source>Grouping</source>
-      <translation type="unfinished">Grouping</translation>
+      <translation>Hópun</translation>
     </message>
     <message>
       <source>File type</source>
-      <translation type="unfinished">File type</translation>
+      <translation>Skráartegund</translation>
     </message>
     <message>
       <source>Sample rate</source>
-      <translation type="unfinished">Sample rate</translation>
+      <translation>Safntíðni</translation>
     </message>
     <message>
       <source>Bit depth</source>
-      <translation type="unfinished">Bit depth</translation>
+      <translation>Bitadýpt</translation>
     </message>
     <message>
       <source>Bitrate</source>
-      <translation type="unfinished">Bitrate</translation>
+      <translation>Bitahraði</translation>
     </message>
     <message>
       <source>Second level</source>
-      <translation type="unfinished">Second level</translation>
+      <translation>Annað stig</translation>
     </message>
     <message>
       <source>Third level</source>
-      <translation type="unfinished">Third level</translation>
+      <translation>Þriðja stig</translation>
     </message>
     <message>
       <source>Separate albums by grouping tag</source>
@@ -2897,33 +2897,33 @@ If there are no matches then it will use the largest image in the directory.</tr
     <name>GstEngine</name>
     <message>
       <source>Buffering</source>
-      <translation type="unfinished">Buffering</translation>
+      <translation>Hleð í biðminni</translation>
     </message>
   </context>
   <context>
     <name>LastFMImport</name>
     <message>
       <source>Missing username, please login to last.fm first!</source>
-      <translation type="unfinished">Missing username, please login to last.fm first!</translation>
+      <translation>Vantar notandanafn, skráðu þig fyrst inn á last.fm!</translation>
     </message>
   </context>
   <context>
     <name>LastFMImportDialog</name>
     <message>
       <source>Import data from last.fm</source>
-      <translation type="unfinished">Import data from last.fm</translation>
+      <translation>Flytja inn gögn frá last.fm</translation>
     </message>
     <message>
       <source>Choose data to import from last.fm</source>
-      <translation type="unfinished">Choose data to import from last.fm</translation>
+      <translation>Veldu gögn sem á að flytja inn frá last.fm</translation>
     </message>
     <message>
       <source>Last played</source>
-      <translation type="unfinished">Last played</translation>
+      <translation>Síðast spilað</translation>
     </message>
     <message>
       <source>Play counts</source>
-      <translation type="unfinished">Play counts</translation>
+      <translation>Fjöldi spilana</translation>
     </message>
     <message>
       <source>Warning: Play counts and last played from last.fm will completely replace the same data for the matched songs. Play counts will replace the data based on artist and song title for the same albums! Please backup your database before you start.</source>
@@ -2931,15 +2931,15 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Go!</source>
-      <translation type="unfinished">Go!</translation>
+      <translation>Fara!</translation>
     </message>
     <message>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>Loka</translation>
     </message>
     <message>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Hætta við</translation>
     </message>
     <message>
       <source>Receiving initial data from last.fm...</source>
@@ -2955,44 +2955,44 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Receiving playcounts for %1 songs.</source>
-      <translation type="unfinished">Receiving playcounts for %1 songs.</translation>
+      <translation>Næ í spilunarfjölda fyrir %1 lög...</translation>
     </message>
     <message>
       <source>Playcounts for %1 songs and last played for %2 songs received.</source>
-      <translation type="unfinished">Playcounts for %1 songs and last played for %2 songs received.</translation>
+      <translation>Náð í spilanafjölda fyrir %1 lög og síðast spilað fyrir %2 lög.</translation>
     </message>
     <message>
       <source>Last played for %1 songs received.</source>
-      <translation type="unfinished">Last played for %1 songs received.</translation>
+      <translation>Náð í síðast spilað fyrir %1 lög.</translation>
     </message>
     <message>
       <source>Playcounts for %1 songs received.</source>
-      <translation type="unfinished">Playcounts for %1 songs received.</translation>
+      <translation>Náð í spilanafjölda fyrir %1 lög.</translation>
     </message>
   </context>
   <context>
     <name>LastPlayedItemDelegate</name>
     <message>
       <source>Never</source>
-      <translation type="unfinished">Never</translation>
+      <translation>Aldrei</translation>
     </message>
   </context>
   <context>
     <name>Library</name>
     <message>
       <source>Least favourite tracks</source>
-      <translation type="unfinished">Least favourite tracks</translation>
+      <translation>Minnst vinsælu lögin</translation>
     </message>
   </context>
   <context>
     <name>ListenBrainzScrobbler</name>
     <message>
       <source>ListenBrainz Authentication</source>
-      <translation type="unfinished">ListenBrainz Authentication</translation>
+      <translation>Auðkenning á ListenBrainz</translation>
     </message>
     <message>
       <source>Please open this URL in your browser</source>
-      <translation type="unfinished">Please open this URL in your browser</translation>
+      <translation>Opnaðu þessa slóð í vafranum þínum</translation>
     </message>
     <message>
       <source>Redirect missing token code!</source>
@@ -3000,96 +3000,96 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Received invalid reply from web browser.</source>
-      <translation type="unfinished">Received invalid reply from web browser.</translation>
+      <translation>Fékk ógilt svar frá vafra.</translation>
     </message>
     <message>
       <source>Unable to scrobble %1 - %2 because of error: %3</source>
-      <translation type="unfinished">Unable to scrobble %1 - %2 because of error: %3</translation>
+      <translation>Tekst ekki að skrá hlustunarvenjur %1 - %2 vegna villu: %3</translation>
     </message>
     <message>
       <source>Missing MusicBrainz recording ID for %1 %2 %3</source>
-      <translation type="unfinished">Missing MusicBrainz recording ID for %1 %2 %3</translation>
+      <translation>Vantar MusicBrainz-upptökuauðkenni fyrir %1 %2 %3</translation>
     </message>
     <message>
       <source>ListenBrainz error: %1</source>
-      <translation type="unfinished">ListenBrainz error: %1</translation>
+      <translation>ListenBrainz-villa: %1</translation>
     </message>
   </context>
   <context>
     <name>LoginStateWidget</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
     <message>
       <source>You are not signed in.</source>
-      <translation type="unfinished">You are not signed in.</translation>
+      <translation>Þú ert ekki skráð(ur) inn.</translation>
     </message>
     <message>
       <source>Sign out</source>
-      <translation type="unfinished">Sign out</translation>
+      <translation>Skrá út</translation>
     </message>
     <message>
       <source>Signing in...</source>
-      <translation type="unfinished">Signing in...</translation>
+      <translation>Skrái inn...</translation>
     </message>
     <message>
       <source>You are signed in.</source>
-      <translation type="unfinished">You are signed in.</translation>
+      <translation>Þú ert skráð(ur) inn.</translation>
     </message>
     <message>
       <source>You are signed in as %1.</source>
-      <translation type="unfinished">You are signed in as %1.</translation>
+      <translation>Þú ert skráð(ur) inn sem %1.</translation>
     </message>
     <message>
       <source>Expires on %1</source>
-      <translation type="unfinished">Expires on %1</translation>
+      <translation>Rennur út þann %1</translation>
     </message>
   </context>
   <context>
     <name>LyricsSettingsPage</name>
     <message>
       <source>Lyrics</source>
-      <translation type="unfinished">Lyrics</translation>
+      <translation>Lagatextar</translation>
     </message>
     <message>
       <source>Lyrics providers</source>
-      <translation type="unfinished">Lyrics providers</translation>
+      <translation>Þjónustuveitur lagatexta</translation>
     </message>
     <message>
       <source>Choose the providers you want to use when searching for lyrics.</source>
-      <translation type="unfinished">Choose the providers you want to use when searching for lyrics.</translation>
+      <translation>Veldu þær þjónustur sem þú vilt nota við að leita að lagatextum.</translation>
     </message>
     <message>
       <source>Move up</source>
-      <translation type="unfinished">Move up</translation>
+      <translation>Færa upp</translation>
     </message>
     <message>
       <source>Move down</source>
-      <translation type="unfinished">Move down</translation>
+      <translation>Færa niður</translation>
     </message>
     <message>
       <source>Authentication</source>
-      <translation type="unfinished">Authentication</translation>
+      <translation>Auðkenning</translation>
     </message>
     <message>
       <source>Login</source>
-      <translation type="unfinished">Login</translation>
+      <translation>Innskráning</translation>
     </message>
     <message>
       <source>No provider selected.</source>
-      <translation type="unfinished">No provider selected.</translation>
+      <translation>Enginn þjónustuaðili valinn.</translation>
     </message>
     <message>
       <source>Authentication failed</source>
-      <translation type="unfinished">Authentication failed</translation>
+      <translation>Auðkenning mistókst</translation>
     </message>
   </context>
   <context>
     <name>MainWindow</name>
     <message>
       <source>Strawberry Music Player</source>
-      <translation type="unfinished">Strawberry Music Player</translation>
+      <translation>Strawberry tónlistarspilari</translation>
     </message>
     <message>
       <source>MenuPopupToolButton</source>
@@ -3097,203 +3097,203 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>&amp;Music</source>
-      <translation type="unfinished">&amp;Music</translation>
+      <translation>&amp;Tónlist</translation>
     </message>
     <message>
       <source>P&amp;laylist</source>
-      <translation type="unfinished">P&amp;laylist</translation>
+      <translation>Spi&amp;lunarlisti</translation>
     </message>
     <message>
       <source>Help</source>
-      <translation type="unfinished">Help</translation>
+      <translation>Hjálp</translation>
     </message>
     <message>
       <source>&amp;Tools</source>
-      <translation type="unfinished">&amp;Tools</translation>
+      <translation>&amp;Verkfæri</translation>
     </message>
     <message>
       <source>Previous track</source>
-      <translation type="unfinished">Previous track</translation>
+      <translation>Fyrra lag</translation>
     </message>
     <message>
       <source>F5</source>
-      <translation type="unfinished">F5</translation>
+      <translation>F5</translation>
     </message>
     <message>
       <source>&amp;Play</source>
-      <translation type="unfinished">&amp;Play</translation>
+      <translation>S&amp;pila</translation>
     </message>
     <message>
       <source>F6</source>
-      <translation type="unfinished">F6</translation>
+      <translation>F6</translation>
     </message>
     <message>
       <source>&amp;Stop</source>
-      <translation type="unfinished">&amp;Stop</translation>
+      <translation>&amp;Stöðva</translation>
     </message>
     <message>
       <source>F7</source>
-      <translation type="unfinished">F7</translation>
+      <translation>F7</translation>
     </message>
     <message>
       <source>&amp;Next track</source>
-      <translation type="unfinished">&amp;Next track</translation>
+      <translation>&amp;Næsta lag</translation>
     </message>
     <message>
       <source>F8</source>
-      <translation type="unfinished">F8</translation>
+      <translation>F8</translation>
     </message>
     <message>
       <source>&amp;Quit</source>
-      <translation type="unfinished">&amp;Quit</translation>
+      <translation>&amp;Hætta</translation>
     </message>
     <message>
       <source>Ctrl+Q</source>
-      <translation type="unfinished">Ctrl+Q</translation>
+      <translation>Ctrl+Q</translation>
     </message>
     <message>
       <source>Stop after this track</source>
-      <translation type="unfinished">Stop after this track</translation>
+      <translation>Stoppa eftir þetta lag</translation>
     </message>
     <message>
       <source>Ctrl+Alt+V</source>
-      <translation type="unfinished">Ctrl+Alt+V</translation>
+      <translation>Ctrl+Alt+V</translation>
     </message>
     <message>
       <source>Love</source>
-      <translation type="unfinished">Love</translation>
+      <translation>Líkar þetta</translation>
     </message>
     <message>
       <source>&amp;Clear playlist</source>
-      <translation type="unfinished">&amp;Clear playlist</translation>
+      <translation>&amp;Hreinsa spilunarlista</translation>
     </message>
     <message>
       <source>Clear playlist</source>
-      <translation type="unfinished">Clear playlist</translation>
+      <translation>Hreinsa lagalista</translation>
     </message>
     <message>
       <source>Ctrl+K</source>
-      <translation type="unfinished">Ctrl+K</translation>
+      <translation>Ctrl+K</translation>
     </message>
     <message>
       <source>Edit track information...</source>
-      <translation type="unfinished">Edit track information...</translation>
+      <translation>Breyta upplýsingum um lag...</translation>
     </message>
     <message>
       <source>Ctrl+E</source>
-      <translation type="unfinished">Ctrl+E</translation>
+      <translation>Ctrl+E</translation>
     </message>
     <message>
       <source>Renumber tracks in this order...</source>
-      <translation type="unfinished">Renumber tracks in this order...</translation>
+      <translation>Endurnúmera lög í þessari röð...</translation>
     </message>
     <message>
       <source>Set value for all selected tracks...</source>
-      <translation type="unfinished">Set value for all selected tracks...</translation>
+      <translation>Setja gildi fyrir öll valin lög...</translation>
     </message>
     <message>
       <source>Edit tag...</source>
-      <translation type="unfinished">Edit tag...</translation>
+      <translation>Breyta merki...</translation>
     </message>
     <message>
       <source>&amp;Settings...</source>
-      <translation type="unfinished">&amp;Settings...</translation>
+      <translation>&amp;Stillingar...</translation>
     </message>
     <message>
       <source>Ctrl+P</source>
-      <translation type="unfinished">Ctrl+P</translation>
+      <translation>Ctrl+P</translation>
     </message>
     <message>
       <source>&amp;About Strawberry</source>
-      <translation type="unfinished">&amp;About Strawberry</translation>
+      <translation>&amp;Um Strawberry</translation>
     </message>
     <message>
       <source>F1</source>
-      <translation type="unfinished">F1</translation>
+      <translation>F1</translation>
     </message>
     <message>
       <source>S&amp;huffle playlist</source>
-      <translation type="unfinished">S&amp;huffle playlist</translation>
+      <translation>Sto&amp;kka spilunarlista</translation>
     </message>
     <message>
       <source>Ctrl+H</source>
-      <translation type="unfinished">Ctrl+H</translation>
+      <translation>Ctrl+H</translation>
     </message>
     <message>
       <source>&amp;Add file...</source>
-      <translation type="unfinished">&amp;Add file...</translation>
+      <translation>Bæt&amp;a við skrá...</translation>
     </message>
     <message>
       <source>Ctrl+Shift+A</source>
-      <translation type="unfinished">Ctrl+Shift+A</translation>
+      <translation>Ctrl+Shift+A</translation>
     </message>
     <message>
       <source>&amp;Open file...</source>
-      <translation type="unfinished">&amp;Open file...</translation>
+      <translation>&amp;Opna skrá...</translation>
     </message>
     <message>
       <source>Open audio &amp;CD...</source>
-      <translation type="unfinished">Open audio &amp;CD...</translation>
+      <translation>Opna &amp;CD-hljóðdisk...</translation>
     </message>
     <message>
       <source>&amp;Cover Manager</source>
-      <translation type="unfinished">&amp;Cover Manager</translation>
+      <translation>&amp;Umslagastjóri</translation>
     </message>
     <message>
       <source>C&amp;onsole</source>
-      <translation type="unfinished">C&amp;onsole</translation>
+      <translation>Stjórnskjár</translation>
     </message>
     <message>
       <source>&amp;Shuffle mode</source>
-      <translation type="unfinished">&amp;Shuffle mode</translation>
+      <translation>&amp;Stokkun</translation>
     </message>
     <message>
       <source>&amp;Repeat mode</source>
-      <translation type="unfinished">&amp;Repeat mode</translation>
+      <translation>&amp;Endurtekning</translation>
     </message>
     <message>
       <source>Remove from playlist</source>
-      <translation type="unfinished">Remove from playlist</translation>
+      <translation>Fjarlægja af spilunarlistanum</translation>
     </message>
     <message>
       <source>&amp;Equalizer</source>
-      <translation type="unfinished">&amp;Equalizer</translation>
+      <translation>Tón&amp;jafnari</translation>
     </message>
     <message>
       <source>&amp;Transcode Music</source>
-      <translation type="unfinished">&amp;Transcode Music</translation>
+      <translation>Umkóða &amp;tónlist</translation>
     </message>
     <message>
       <source>Add &amp;folder...</source>
-      <translation type="unfinished">Add &amp;folder...</translation>
+      <translation>&amp;Bæta við möppu...</translation>
     </message>
     <message>
       <source>&amp;Jump to the currently playing track</source>
-      <translation type="unfinished">&amp;Jump to the currently playing track</translation>
+      <translation>Ho&amp;ppa í lagið sem nú er í spilun</translation>
     </message>
     <message>
       <source>Ctrl+J</source>
-      <translation type="unfinished">Ctrl+J</translation>
+      <translation>Ctrl+J</translation>
     </message>
     <message>
       <source>&amp;New playlist</source>
-      <translation type="unfinished">&amp;New playlist</translation>
+      <translation>&amp;Nýr spilunarlisti</translation>
     </message>
     <message>
       <source>Ctrl+N</source>
-      <translation type="unfinished">Ctrl+N</translation>
+      <translation>Ctrl+N</translation>
     </message>
     <message>
       <source>Save &amp;playlist...</source>
-      <translation type="unfinished">Save &amp;playlist...</translation>
+      <translation>Vista s&amp;pilunarlista...</translation>
     </message>
     <message>
       <source>Ctrl+S</source>
-      <translation type="unfinished">Ctrl+S</translation>
+      <translation>Ctrl+S</translation>
     </message>
     <message>
       <source>&amp;Load playlist...</source>
-      <translation type="unfinished">&amp;Load playlist...</translation>
+      <translation>H&amp;laða inn spilunarlista...</translation>
     </message>
     <message>
       <source>Ctrl+Shift+O</source>
@@ -3301,27 +3301,27 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>&amp;Save all playlists...</source>
-      <translation type="unfinished">&amp;Save all playlists...</translation>
+      <translation>Vi&amp;sta alla spilunarlista...</translation>
     </message>
     <message>
       <source>Go to next playlist tab</source>
-      <translation type="unfinished">Go to next playlist tab</translation>
+      <translation>Fara á næsta spilunarlistaflipa</translation>
     </message>
     <message>
       <source>Go to previous playlist tab</source>
-      <translation type="unfinished">Go to previous playlist tab</translation>
+      <translation>Fara á fyrri spilunarlistaflipa</translation>
     </message>
     <message>
       <source>&amp;Update changed collection folders</source>
-      <translation type="unfinished">&amp;Update changed collection folders</translation>
+      <translation>&amp;Uppfæra breyttar möppur í safni</translation>
     </message>
     <message>
       <source>About &amp;Qt</source>
-      <translation type="unfinished">About &amp;Qt</translation>
+      <translation>Um &amp;Qt</translation>
     </message>
     <message>
       <source>&amp;Mute</source>
-      <translation type="unfinished">&amp;Mute</translation>
+      <translation>Þa&amp;gga</translation>
     </message>
     <message>
       <source>Ctrl+M</source>
@@ -3329,15 +3329,15 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>&amp;Do a full collection rescan</source>
-      <translation type="unfinished">&amp;Do a full collection rescan</translation>
+      <translation>S&amp;kanna allt safnið</translation>
     </message>
     <message>
       <source>Stop collection scan</source>
-      <translation type="unfinished">Stop collection scan</translation>
+      <translation>Stöðva skönnun safns</translation>
     </message>
     <message>
       <source>Complete tags automatically...</source>
-      <translation type="unfinished">Complete tags automatically...</translation>
+      <translation>Ljúka merkjum sjálfkrafa...</translation>
     </message>
     <message>
       <source>Ctrl+T</source>
@@ -3345,71 +3345,71 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Toggle scrobbling</source>
-      <translation type="unfinished">Toggle scrobbling</translation>
+      <translation>Víxla af/á skráningu á hlustunarvenjum (scrobbling)</translation>
     </message>
     <message>
       <source>Remove &amp;duplicates from playlist</source>
-      <translation type="unfinished">Remove &amp;duplicates from playlist</translation>
+      <translation>F&amp;jarlægja tvítekningar úr spilunarlista</translation>
     </message>
     <message>
       <source>Remove &amp;unavailable tracks from playlist</source>
-      <translation type="unfinished">Remove &amp;unavailable tracks from playlist</translation>
+      <translation>Fjarlæ&amp;gja lög sem ekki eru tiltæk úr spilunarlista</translation>
     </message>
     <message>
       <source>Add file(s) to transcoder</source>
-      <translation type="unfinished">Add file(s) to transcoder</translation>
+      <translation>Bæta skrá(m) við umkóðara</translation>
     </message>
     <message>
       <source>Add file to transcoder</source>
-      <translation type="unfinished">Add file to transcoder</translation>
+      <translation>Bæta skrá við umkóðara</translation>
     </message>
     <message>
       <source>Add stream...</source>
-      <translation type="unfinished">Add stream...</translation>
+      <translation>Bæta við streymi...</translation>
     </message>
     <message>
       <source>Show sidebar</source>
-      <translation type="unfinished">Show sidebar</translation>
+      <translation>Birta hliðarspjald</translation>
     </message>
     <message>
       <source>Import data from last.fm...</source>
-      <translation type="unfinished">Import data from last.fm...</translation>
+      <translation>Flytja inn gögn frá last.fm</translation>
     </message>
     <message>
       <source>All Files (*)</source>
-      <translation type="unfinished">All Files (*)</translation>
+      <translation>Allar skrár (*)</translation>
     </message>
     <message>
       <source>Context</source>
-      <translation type="unfinished">Context</translation>
+      <translation>Samhengi</translation>
     </message>
     <message>
       <source>Collection</source>
-      <translation type="unfinished">Collection</translation>
+      <translation>Safn</translation>
     </message>
     <message>
       <source>Queue</source>
-      <translation type="unfinished">Queue</translation>
+      <translation>Biðröð</translation>
     </message>
     <message>
       <source>Playlists</source>
-      <translation type="unfinished">Playlists</translation>
+      <translation>Lagalisti</translation>
     </message>
     <message>
       <source>Smart playlists</source>
-      <translation type="unfinished">Smart playlists</translation>
+      <translation>Snjallir spilunarlistar</translation>
     </message>
     <message>
       <source>Files</source>
-      <translation type="unfinished">Files</translation>
+      <translation>Gögn</translation>
     </message>
     <message>
       <source>Radios</source>
-      <translation type="unfinished">Radios</translation>
+      <translation>Útvarpsstöðvar</translation>
     </message>
     <message>
       <source>Devices</source>
-      <translation type="unfinished">Devices</translation>
+      <translation>Tæki</translation>
     </message>
     <message>
       <source>Subsonic</source>
@@ -3429,31 +3429,31 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Show all songs</source>
-      <translation type="unfinished">Show all songs</translation>
+      <translation>Birta öll lög</translation>
     </message>
     <message>
       <source>Show only duplicates</source>
-      <translation type="unfinished">Show only duplicates</translation>
+      <translation>Aðeins birta tvítekningar</translation>
     </message>
     <message>
       <source>Show only untagged</source>
-      <translation type="unfinished">Show only untagged</translation>
+      <translation>Aðeins birta ómerkt</translation>
     </message>
     <message>
       <source>Configure collection...</source>
-      <translation type="unfinished">Configure collection...</translation>
+      <translation>Grunnstilla safn...</translation>
     </message>
     <message>
       <source>Play</source>
-      <translation type="unfinished">Play</translation>
+      <translation>Spila</translation>
     </message>
     <message>
       <source>Toggle queue status</source>
-      <translation type="unfinished">Toggle queue status</translation>
+      <translation>Víxla stöðu biðraðar</translation>
     </message>
     <message>
       <source>Queue selected tracks to play next</source>
-      <translation type="unfinished">Queue selected tracks to play next</translation>
+      <translation>Setja valin lög í biðröð til að spila næst</translation>
     </message>
     <message>
       <source>Toggle skip status</source>
@@ -3461,43 +3461,43 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Rescan song(s)...</source>
-      <translation type="unfinished">Rescan song(s)...</translation>
+      <translation>Endurskanna lag/lög...</translation>
     </message>
     <message>
       <source>Copy URL(s)...</source>
-      <translation type="unfinished">Copy URL(s)...</translation>
+      <translation>Afrita slóð(ir)...</translation>
     </message>
     <message>
       <source>Show in collection...</source>
-      <translation type="unfinished">Show in collection...</translation>
+      <translation>Sýna í safni...</translation>
     </message>
     <message>
       <source>Show in file browser...</source>
-      <translation type="unfinished">Show in file browser...</translation>
+      <translation>Sýna í skráavafra...</translation>
     </message>
     <message>
       <source>Organize files...</source>
-      <translation type="unfinished">Organize files...</translation>
+      <translation>Skipuleggja skrár...</translation>
     </message>
     <message>
       <source>Copy to collection...</source>
-      <translation type="unfinished">Copy to collection...</translation>
+      <translation>Afrita í safn...</translation>
     </message>
     <message>
       <source>Move to collection...</source>
-      <translation type="unfinished">Move to collection...</translation>
+      <translation>Færa í safn...</translation>
     </message>
     <message>
       <source>Copy to device...</source>
-      <translation type="unfinished">Copy to device...</translation>
+      <translation>Afrita á tæki...</translation>
     </message>
     <message>
       <source>Delete from disk...</source>
-      <translation type="unfinished">Delete from disk...</translation>
+      <translation>Eyða af diski...</translation>
     </message>
     <message>
       <source>Check for updates...</source>
-      <translation type="unfinished">Check for updates...</translation>
+      <translation>Athuga með uppfærslur...</translation>
     </message>
     <message>
       <source>Strawberry running under Rosetta</source>
@@ -3509,7 +3509,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Sponsoring Strawberry</source>
-      <translation type="unfinished">Sponsoring Strawberry</translation>
+      <translation>Styrkja Strawberry</translation>
     </message>
     <message>
       <source>Strawberry is free and open source software. If you like Strawberry, please consider sponsoring the project. For more information about sponsorship see our website %1</source>
@@ -3517,71 +3517,71 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Pause</source>
-      <translation type="unfinished">Pause</translation>
+      <translation>Í bið</translation>
     </message>
     <message>
       <source>Dequeue track</source>
-      <translation type="unfinished">Dequeue track</translation>
+      <translation>Taka lag úr biðröð</translation>
     </message>
     <message>
       <source>Dequeue selected tracks</source>
-      <translation type="unfinished">Dequeue selected tracks</translation>
+      <translation>Taka valin lög úr biðröð</translation>
     </message>
     <message>
       <source>Queue track</source>
-      <translation type="unfinished">Queue track</translation>
+      <translation>Setja lag í biðröð</translation>
     </message>
     <message>
       <source>Queue selected tracks</source>
-      <translation type="unfinished">Queue selected tracks</translation>
+      <translation>Setja valin lög í biðröð</translation>
     </message>
     <message>
       <source>Queue to play next</source>
-      <translation type="unfinished">Queue to play next</translation>
+      <translation>Setja í biðröð til að spila næst</translation>
     </message>
     <message>
       <source>Unskip track</source>
-      <translation type="unfinished">Unskip track</translation>
+      <translation>Hætta við að sleppa lagi</translation>
     </message>
     <message>
       <source>Unskip selected tracks</source>
-      <translation type="unfinished">Unskip selected tracks</translation>
+      <translation>Hætta við að sleppa völdum lögum</translation>
     </message>
     <message>
       <source>Skip track</source>
-      <translation type="unfinished">Skip track</translation>
+      <translation>Sleppa lagi</translation>
     </message>
     <message>
       <source>Skip selected tracks</source>
-      <translation type="unfinished">Skip selected tracks</translation>
+      <translation>Sleppa völdum lögum</translation>
     </message>
     <message>
       <source>Set %1 to &quot;%2&quot;...</source>
-      <translation type="unfinished">Set %1 to &quot;%2&quot;...</translation>
+      <translation>Setja %1 sem &quot;%2&quot;...</translation>
     </message>
     <message>
       <source>Edit tag &quot;%1&quot;...</source>
-      <translation type="unfinished">Edit tag &quot;%1&quot;...</translation>
+      <translation>Breyta merki &quot;%1&quot;...</translation>
     </message>
     <message>
       <source>Add to another playlist</source>
-      <translation type="unfinished">Add to another playlist</translation>
+      <translation>Bæta við öðrum spilunarlista</translation>
     </message>
     <message>
       <source>New playlist</source>
-      <translation type="unfinished">New playlist</translation>
+      <translation>Nýr lagalisti</translation>
     </message>
     <message>
       <source>Add file</source>
-      <translation type="unfinished">Add file</translation>
+      <translation>Bæta við skrá</translation>
     </message>
     <message>
       <source>Music</source>
-      <translation type="unfinished">Music</translation>
+      <translation>Tónlist</translation>
     </message>
     <message>
       <source>Add folder</source>
-      <translation type="unfinished">Add folder</translation>
+      <translation>Bæta við möppu</translation>
     </message>
     <message>
       <source>Playlist has %1 songs, too large to undo, are you sure you want to clear the playlist?</source>
@@ -3589,11 +3589,11 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>Villa</translation>
     </message>
     <message>
       <source>None of the selected songs were suitable for copying to a device</source>
-      <translation type="unfinished">None of the selected songs were suitable for copying to a device</translation>
+      <translation>Ekkert af völdu lögunum henta til að afrita yfir á tæki</translation>
     </message>
     <message>
       <source>The version of Strawberry you&apos;ve just updated to requires a full collection rescan because of the new features listed below:</source>
@@ -3601,55 +3601,55 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Would you like to run a full rescan right now?</source>
-      <translation type="unfinished">Would you like to run a full rescan right now?</translation>
+      <translation>Viltu láta endurskanna allt safnið núna?</translation>
     </message>
     <message>
       <source>Collection rescan notice</source>
-      <translation type="unfinished">Collection rescan notice</translation>
+      <translation>Tilkynning um skönnun á tónlistarsafni</translation>
     </message>
   </context>
   <context>
     <name>MessageDialog</name>
     <message>
       <source>Message Dialog</source>
-      <translation type="unfinished">Message Dialog</translation>
+      <translation>Skilaboðagluggi</translation>
     </message>
     <message>
       <source>Do not show this message again.</source>
-      <translation type="unfinished">Do not show this message again.</translation>
+      <translation>Ekki birta þessi skilaboð aftur.</translation>
     </message>
   </context>
   <context>
     <name>MimeData</name>
     <message>
       <source>Playlist</source>
-      <translation type="unfinished">Playlist</translation>
+      <translation>Spilunarlisti</translation>
     </message>
   </context>
   <context>
     <name>MoodbarProxyStyle</name>
     <message>
       <source>Show moodbar</source>
-      <translation type="unfinished">Show moodbar</translation>
+      <translation>Birta skapbrigðastiku</translation>
     </message>
     <message>
       <source>Moodbar style</source>
-      <translation type="unfinished">Moodbar style</translation>
+      <translation>Stíll skapbrigðastiku</translation>
     </message>
   </context>
   <context>
     <name>MoodbarSettingsPage</name>
     <message>
       <source>Moodbar</source>
-      <translation type="unfinished">Moodbar</translation>
+      <translation>Skapbrigðastika</translation>
     </message>
     <message>
       <source>Show a moodbar in the track progress bar</source>
-      <translation type="unfinished">Show a moodbar in the track progress bar</translation>
+      <translation>Birta skapbrigðastiku í framvindustiku lags</translation>
     </message>
     <message>
       <source>Moodbar style</source>
-      <translation type="unfinished">Moodbar style</translation>
+      <translation>Stíll skapbrigðastiku</translation>
     </message>
     <message>
       <source>Save the .mood files directly in the songs folders</source>
@@ -3657,84 +3657,84 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>Virkt</translation>
     </message>
   </context>
   <context>
     <name>MtpConnection</name>
     <message>
       <source>Invalid MTP device: %1</source>
-      <translation type="unfinished">Invalid MTP device: %1</translation>
+      <translation>Ógilt MTP-tæki: %1</translation>
     </message>
     <message>
       <source>Could not open MTP device.</source>
-      <translation type="unfinished">Could not open MTP device.</translation>
+      <translation>Gat ekki opnað MTP-tækið.</translation>
     </message>
     <message>
       <source>MTP error: %1</source>
-      <translation type="unfinished">MTP error: %1</translation>
+      <translation>MTP-villa: %1</translation>
     </message>
     <message>
       <source>MTP device not found.</source>
-      <translation type="unfinished">MTP device not found.</translation>
+      <translation>MTP-tæki fannst ekki.</translation>
     </message>
   </context>
   <context>
     <name>MtpLoader</name>
     <message>
       <source>Loading MTP device</source>
-      <translation type="unfinished">Loading MTP device</translation>
+      <translation>Hleð inn MTP tæki</translation>
     </message>
     <message>
       <source>Error connecting MTP device %1</source>
-      <translation type="unfinished">Error connecting MTP device %1</translation>
+      <translation>Villa við að tengja MTP-tæki %1</translation>
     </message>
     <message>
       <source>Error connecting MTP device %1: %2</source>
-      <translation type="unfinished">Error connecting MTP device %1: %2</translation>
+      <translation>Villa við að tengja MTP-tæki %1: %2</translation>
     </message>
   </context>
   <context>
     <name>NetworkProxySettingsPage</name>
     <message>
       <source>Network Proxy</source>
-      <translation type="unfinished">Network Proxy</translation>
+      <translation>Milliþjónn á netkerfi</translation>
     </message>
     <message>
       <source>&amp;Use the system proxy settings</source>
-      <translation type="unfinished">&amp;Use the system proxy settings</translation>
+      <translation>Nota stillingar kerfis fyrir &amp;milliþjón (proxy)</translation>
     </message>
     <message>
       <source>Direct internet connection</source>
-      <translation type="unfinished">Direct internet connection</translation>
+      <translation>Bein internettenging</translation>
     </message>
     <message>
       <source>&amp;Manual proxy configuration</source>
-      <translation type="unfinished">&amp;Manual proxy configuration</translation>
+      <translation>Handvirk stilling &amp;milliþjóns</translation>
     </message>
     <message>
       <source>HTTP proxy</source>
-      <translation type="unfinished">HTTP proxy</translation>
+      <translation>HTTP milliþjónn</translation>
     </message>
     <message>
       <source>SOCKS proxy</source>
-      <translation type="unfinished">SOCKS proxy</translation>
+      <translation>SOCKS milliþjónn</translation>
     </message>
     <message>
       <source>Port</source>
-      <translation type="unfinished">Port</translation>
+      <translation>Gátt</translation>
     </message>
     <message>
       <source>Use authentication</source>
-      <translation type="unfinished">Use authentication</translation>
+      <translation>Nota auðkenningu</translation>
     </message>
     <message>
       <source>Username</source>
-      <translation type="unfinished">Username</translation>
+      <translation>Notandanafn</translation>
     </message>
     <message>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Lykilorð</translation>
     </message>
     <message>
       <source>Use proxy settings for streaming</source>
@@ -3745,7 +3745,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     <name>NotificationsSettingsPage</name>
     <message>
       <source>Notifications</source>
-      <translation type="unfinished">Notifications</translation>
+      <translation>Tilkynningar</translation>
     </message>
     <message>
       <source>Strawberry can show a message when the track changes.</source>
@@ -3753,12 +3753,12 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Notification type</source>
-      <translation type="unfinished">Notification type</translation>
+      <translation>Gerð tilkynninga</translation>
     </message>
     <message>
       <source>Disabled</source>
       <comment>Refers to a disabled notification type in Notification settings.</comment>
-      <translation type="unfinished">Disabled</translation>
+      <translation>Óvirkt</translation>
     </message>
     <message>
       <source>Show a &amp;native desktop notification</source>
@@ -3766,7 +3766,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Show a pretty OSD</source>
-      <translation type="unfinished">Show a pretty OSD</translation>
+      <translation>Birta fegraðan OSD-stjórntexta</translation>
     </message>
     <message>
       <source>Show a popup fro&amp;m the system tray</source>
@@ -3774,51 +3774,51 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>General settings</source>
-      <translation type="unfinished">General settings</translation>
+      <translation>Almennar stillingar</translation>
     </message>
     <message>
       <source>Popup duration</source>
-      <translation type="unfinished">Popup duration</translation>
+      <translation>Tímalengd sprettglugga</translation>
     </message>
     <message>
       <source> seconds</source>
-      <translation type="unfinished"> seconds</translation>
+      <translation> sekúndur</translation>
     </message>
     <message>
       <source>Disable duration</source>
-      <translation type="unfinished">Disable duration</translation>
+      <translation>Gera tímalengd óvirka</translation>
     </message>
     <message>
       <source>Show a notification when I change the volume</source>
-      <translation type="unfinished">Show a notification when I change the volume</translation>
+      <translation>Birta tilkynningu þegar ég breyti hljóðstyrk</translation>
     </message>
     <message>
       <source>Show a notification when I change the repeat/shuffle mode</source>
-      <translation type="unfinished">Show a notification when I change the repeat/shuffle mode</translation>
+      <translation>Birta tilkynningu þegar ég breyti ham endurtekningar/stokkun</translation>
     </message>
     <message>
       <source>Show a notification when I pause playback</source>
-      <translation type="unfinished">Show a notification when I pause playback</translation>
+      <translation>Birta tilkynningu þegar ég geri hlé á afspilun</translation>
     </message>
     <message>
       <source>Show a notification when I resume playback</source>
-      <translation type="unfinished">Show a notification when I resume playback</translation>
+      <translation>Birta tilkynningu þegar ég held afspilun áfram</translation>
     </message>
     <message>
       <source>Include album art in the notification</source>
-      <translation type="unfinished">Include album art in the notification</translation>
+      <translation>Hafa með umslagsmynd í tilkynningunni</translation>
     </message>
     <message>
       <source>Custom message settings</source>
-      <translation type="unfinished">Custom message settings</translation>
+      <translation>Sérsniðnar stillingar skilaboða</translation>
     </message>
     <message>
       <source>Use a custom message for notifications</source>
-      <translation type="unfinished">Use a custom message for notifications</translation>
+      <translation>Nota sérsniðnar tilkynningar</translation>
     </message>
     <message>
       <source>Preview</source>
-      <translation type="unfinished">Preview</translation>
+      <translation>Forskoðun</translation>
     </message>
     <message>
       <source>MenuPopupToolButton</source>
@@ -3826,39 +3826,39 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Summary</source>
-      <translation type="unfinished">Summary</translation>
+      <translation>Samantekt</translation>
     </message>
     <message>
       <source>Body</source>
-      <translation type="unfinished">Body</translation>
+      <translation>Meginmál</translation>
     </message>
     <message>
       <source>Pretty OSD options</source>
-      <translation type="unfinished">Pretty OSD options</translation>
+      <translation>Valkostir fyrir fegraðan OSD-stjórntexta</translation>
     </message>
     <message>
       <source>Background color</source>
-      <translation type="unfinished">Background color</translation>
+      <translation>Bakgrunnslitur</translation>
     </message>
     <message>
       <source>Text options</source>
-      <translation type="unfinished">Text options</translation>
+      <translation>Textastillingar</translation>
     </message>
     <message>
       <source>Choose font...</source>
-      <translation type="unfinished">Choose font...</translation>
+      <translation>Velja letur...</translation>
     </message>
     <message>
       <source>Choose color...</source>
-      <translation type="unfinished">Choose color...</translation>
+      <translation>Veldu lit...</translation>
     </message>
     <message>
       <source>Background opacity</source>
-      <translation type="unfinished">Background opacity</translation>
+      <translation>Gegnsæi bakgrunns</translation>
     </message>
     <message>
       <source>Basic Blue</source>
-      <translation type="unfinished">Basic Blue</translation>
+      <translation>Einfalt-blátt</translation>
     </message>
     <message>
       <source>Strawberry Red</source>
@@ -3866,232 +3866,232 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Custom...</source>
-      <translation type="unfinished">Custom...</translation>
+      <translation>Sérsniðið...</translation>
     </message>
     <message>
       <source>Enable fading</source>
-      <translation type="unfinished">Enable fading</translation>
+      <translation>Virkja dofnun</translation>
     </message>
     <message>
       <source>Add song artist tag</source>
-      <translation type="unfinished">Add song artist tag</translation>
+      <translation>Bæta við merki með listamanni lags</translation>
     </message>
     <message>
       <source>Add song album tag</source>
-      <translation type="unfinished">Add song album tag</translation>
+      <translation>Bæta við merki með hljómplötu lags</translation>
     </message>
     <message>
       <source>Add song title tag</source>
-      <translation type="unfinished">Add song title tag</translation>
+      <translation>Bæta við merki með titli lags</translation>
     </message>
     <message>
       <source>Add song albumartist tag</source>
-      <translation type="unfinished">Add song albumartist tag</translation>
+      <translation>Bæta við merki með flytjanda hljómplötu</translation>
     </message>
     <message>
       <source>Add song year tag</source>
-      <translation type="unfinished">Add song year tag</translation>
+      <translation>Bæta við merki með ártali lags</translation>
     </message>
     <message>
       <source>Add song composer tag</source>
-      <translation type="unfinished">Add song composer tag</translation>
+      <translation>Bæta við merki með höfundi lags</translation>
     </message>
     <message>
       <source>Add song performer tag</source>
-      <translation type="unfinished">Add song performer tag</translation>
+      <translation>Bæta við merki með flytjanda lags</translation>
     </message>
     <message>
       <source>Add song grouping tag</source>
-      <translation type="unfinished">Add song grouping tag</translation>
+      <translation>Bæta við merki með hópun lags</translation>
     </message>
     <message>
       <source>Add song disc tag</source>
-      <translation type="unfinished">Add song disc tag</translation>
+      <translation>Bæta við merki með diski lags</translation>
     </message>
     <message>
       <source>Add song track tag</source>
-      <translation type="unfinished">Add song track tag</translation>
+      <translation>Bæta við merki með spori lags</translation>
     </message>
     <message>
       <source>Add song genre tag</source>
-      <translation type="unfinished">Add song genre tag</translation>
+      <translation>Bæta við merki með tónlistarstíl</translation>
     </message>
     <message>
       <source>Add song length tag</source>
-      <translation type="unfinished">Add song length tag</translation>
+      <translation>Bæta við merki með lengd lags</translation>
     </message>
     <message>
       <source>Add song play count</source>
-      <translation type="unfinished">Add song play count</translation>
+      <translation>Bæta við fjölda spilana lags</translation>
     </message>
     <message>
       <source>Add song skip count</source>
-      <translation type="unfinished">Add song skip count</translation>
+      <translation>Bæta við fjölda sem lagi hefur verið sleppt</translation>
     </message>
     <message>
       <source>Add song rating</source>
-      <translation type="unfinished">Add song rating</translation>
+      <translation>Bæta við einkunn lags</translation>
     </message>
     <message>
       <source>Add a new line if supported by the notification type</source>
-      <translation type="unfinished">Add a new line if supported by the notification type</translation>
+      <translation>Bætir við nýrri línu ef það er stutt af viðkomandi gerð tilkynninga</translation>
     </message>
     <message>
       <source>%filename%</source>
-      <translation type="unfinished">%filename%</translation>
+      <translation>%skráarheiti%</translation>
     </message>
     <message>
       <source>Add song filename</source>
-      <translation type="unfinished">Add song filename</translation>
+      <translation>Bæta við skráarheiti lags</translation>
     </message>
     <message>
       <source>%url%</source>
-      <translation type="unfinished">%url%</translation>
+      <translation>%url%</translation>
     </message>
     <message>
       <source>Add song URL</source>
-      <translation type="unfinished">Add song URL</translation>
+      <translation>Bæta við slóð lags</translation>
     </message>
     <message>
       <source>%originalyear%</source>
-      <translation type="unfinished">%originalyear%</translation>
+      <translation>%upprunaár%</translation>
     </message>
     <message>
       <source>Add song original year tag</source>
-      <translation type="unfinished">Add song original year tag</translation>
+      <translation>Bæta við merki með upprunaári lags</translation>
     </message>
     <message>
       <source>OSD Preview</source>
-      <translation type="unfinished">OSD Preview</translation>
+      <translation>Forskoðun OSD-stjórntexta</translation>
     </message>
     <message>
       <source>Drag to reposition</source>
-      <translation type="unfinished">Drag to reposition</translation>
+      <translation>Dragðu til að endurstaðsetja</translation>
     </message>
   </context>
   <context>
     <name>OSDBase</name>
     <message>
       <source>disc %1</source>
-      <translation type="unfinished">disc %1</translation>
+      <translation>diskur %1</translation>
     </message>
     <message>
       <source>track %1</source>
-      <translation type="unfinished">track %1</translation>
+      <translation>lag %1</translation>
     </message>
     <message>
       <source>Paused</source>
-      <translation type="unfinished">Paused</translation>
+      <translation>Í bið</translation>
     </message>
     <message>
       <source>Stopped</source>
-      <translation type="unfinished">Stopped</translation>
+      <translation>Stöðvað</translation>
     </message>
     <message>
       <source>Stop playing after track: %1</source>
-      <translation type="unfinished">Stop playing after track: %1</translation>
+      <translation>Stöðva afspilun eftir lagið: %1</translation>
     </message>
     <message>
       <source>On</source>
-      <translation type="unfinished">On</translation>
+      <translation>Á</translation>
     </message>
     <message>
       <source>Off</source>
-      <translation type="unfinished">Off</translation>
+      <translation>Af</translation>
     </message>
     <message>
       <source>Playlist finished</source>
-      <translation type="unfinished">Playlist finished</translation>
+      <translation>Spilunarlista lokið</translation>
     </message>
     <message>
       <source>Volume %1%</source>
-      <translation type="unfinished">Volume %1%</translation>
+      <translation>Hljóðstyrkur %1%</translation>
     </message>
     <message>
       <source>Don&apos;t shuffle</source>
-      <translation type="unfinished">Don&apos;t shuffle</translation>
+      <translation>Ekki stokka</translation>
     </message>
     <message>
       <source>Shuffle all</source>
-      <translation type="unfinished">Shuffle all</translation>
+      <translation>Stokka allt</translation>
     </message>
     <message>
       <source>Shuffle tracks in this album</source>
-      <translation type="unfinished">Shuffle tracks in this album</translation>
+      <translation>Stokka lögunum á þessari hljómplötu</translation>
     </message>
     <message>
       <source>Shuffle albums</source>
-      <translation type="unfinished">Shuffle albums</translation>
+      <translation>Stokka hljómplötur</translation>
     </message>
     <message>
       <source>Don&apos;t repeat</source>
-      <translation type="unfinished">Don&apos;t repeat</translation>
+      <translation>Ekki endurtaka</translation>
     </message>
     <message>
       <source>Repeat track</source>
-      <translation type="unfinished">Repeat track</translation>
+      <translation>Endurtaka lag</translation>
     </message>
     <message>
       <source>Repeat album</source>
-      <translation type="unfinished">Repeat album</translation>
+      <translation>Endurtaka hljómplötu</translation>
     </message>
     <message>
       <source>Repeat playlist</source>
-      <translation type="unfinished">Repeat playlist</translation>
+      <translation>Endurtaka spilunarlista</translation>
     </message>
     <message>
       <source>Stop after every track</source>
-      <translation type="unfinished">Stop after every track</translation>
+      <translation>Stoppa eftir öll lög</translation>
     </message>
     <message>
       <source>Intro tracks</source>
-      <translation type="unfinished">Intro tracks</translation>
+      <translation>Kynningarlög</translation>
     </message>
   </context>
   <context>
     <name>Organize</name>
     <message>
       <source>Organizing files</source>
-      <translation type="unfinished">Organizing files</translation>
+      <translation>Skipulagning skráa</translation>
     </message>
   </context>
   <context>
     <name>OrganizeDialog</name>
     <message>
       <source>Organize Files</source>
-      <translation type="unfinished">Organize Files</translation>
+      <translation>Skipuleggja skrár</translation>
     </message>
     <message>
       <source>Destination</source>
-      <translation type="unfinished">Destination</translation>
+      <translation>Áfangastaður</translation>
     </message>
     <message>
       <source>After copying...</source>
-      <translation type="unfinished">After copying...</translation>
+      <translation>Eftir afritun...</translation>
     </message>
     <message>
       <source>Keep the original files</source>
-      <translation type="unfinished">Keep the original files</translation>
+      <translation>Halda upprunalegum skrám</translation>
     </message>
     <message>
       <source>Delete the original files</source>
-      <translation type="unfinished">Delete the original files</translation>
+      <translation>Eyða upprunalegum skrám</translation>
     </message>
     <message>
       <source>Naming options</source>
-      <translation type="unfinished">Naming options</translation>
+      <translation>Valkostir við nafngiftir</translation>
     </message>
     <message>
       <source>&lt;p&gt;Tokens start with %, for example: %artist %album %title &lt;/p&gt;
 
 &lt;p&gt;If you surround sections of text that contain a token with curly-braces, that section will be hidden if the token is empty.&lt;/p&gt;</source>
-      <translation type="unfinished">&lt;p&gt;Tokens start with %, for example: %artist %album %title &lt;/p&gt;
+      <translation>&lt;p&gt;Breytur byrja á %, til dæmis: %artist %album %title &lt;/p&gt;
 
-&lt;p&gt;If you surround sections of text that contain a token with curly-braces, that section will be hidden if the token is empty.&lt;/p&gt;</translation>
+&lt;p&gt;Ef þú setur slaufusviga { } í kringum hluta textans sem inniheldur breytuna verður sá hluti falinn ef stakið er ekki til.&lt;/p&gt;</translation>
     </message>
     <message>
       <source>Insert...</source>
-      <translation type="unfinished">Insert...</translation>
+      <translation>Setja inn...</translation>
     </message>
     <message>
       <source>Remove problematic characters from filenames</source>
@@ -4107,590 +4107,590 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Allow extended ASCII characters</source>
-      <translation type="unfinished">Allow extended ASCII characters</translation>
+      <translation>Leyfa viðaukna ASCII-stafi</translation>
     </message>
     <message>
       <source>Replace spaces with underscores</source>
-      <translation type="unfinished">Replace spaces with underscores</translation>
+      <translation>Skipta bilum út fyrir undirstrik</translation>
     </message>
     <message>
       <source>Overwrite existing files</source>
-      <translation type="unfinished">Overwrite existing files</translation>
+      <translation>Yfirskrifa fyrirliggjandi skrár</translation>
     </message>
     <message>
       <source>Copy album cover artwork</source>
-      <translation type="unfinished">Copy album cover artwork</translation>
+      <translation>Afrita myndefni plötuumslags</translation>
     </message>
     <message>
       <source>Preview</source>
-      <translation type="unfinished">Preview</translation>
+      <translation>Forskoðun</translation>
     </message>
     <message>
       <source>Loading...</source>
-      <translation type="unfinished">Loading...</translation>
+      <translation>Hleð inn...</translation>
     </message>
     <message>
       <source>Safely remove the device after copying</source>
-      <translation type="unfinished">Safely remove the device after copying</translation>
+      <translation>Fjarlægja tækið á öruggan máta eftir afritun</translation>
     </message>
     <message>
       <source>Title</source>
-      <translation type="unfinished">Title</translation>
+      <translation>Titill</translation>
     </message>
     <message>
       <source>Album</source>
-      <translation type="unfinished">Album</translation>
+      <translation>Hljómplata</translation>
     </message>
     <message>
       <source>Artist</source>
-      <translation type="unfinished">Artist</translation>
+      <translation>Flytjandi</translation>
     </message>
     <message>
       <source>Artist&apos;s initial</source>
-      <translation type="unfinished">Artist&apos;s initial</translation>
+      <translation>Upphafsstafir flytjanda</translation>
     </message>
     <message>
       <source>Album artist</source>
-      <translation type="unfinished">Album artist</translation>
+      <translation>Flytjandi hljómplötu</translation>
     </message>
     <message>
       <source>Composer</source>
-      <translation type="unfinished">Composer</translation>
+      <translation>Tónskáld</translation>
     </message>
     <message>
       <source>Performer</source>
-      <translation type="unfinished">Performer</translation>
+      <translation>Flytjandi</translation>
     </message>
     <message>
       <source>Grouping</source>
-      <translation type="unfinished">Grouping</translation>
+      <translation>Hópun</translation>
     </message>
     <message>
       <source>Track</source>
-      <translation type="unfinished">Track</translation>
+      <translation>Lag</translation>
     </message>
     <message>
       <source>Disc</source>
-      <translation type="unfinished">Disc</translation>
+      <translation>Diskur</translation>
     </message>
     <message>
       <source>Year</source>
-      <translation type="unfinished">Year</translation>
+      <translation>Ár</translation>
     </message>
     <message>
       <source>Original year</source>
-      <translation type="unfinished">Original year</translation>
+      <translation>Upprunaár</translation>
     </message>
     <message>
       <source>Genre</source>
-      <translation type="unfinished">Genre</translation>
+      <translation>Tónlistarstíll</translation>
     </message>
     <message>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Athugasemd</translation>
     </message>
     <message>
       <source>Length</source>
-      <translation type="unfinished">Length</translation>
+      <translation>Lengd</translation>
     </message>
     <message>
       <source>Bitrate</source>
       <comment>Refers to bitrate in file organize dialog.</comment>
-      <translation type="unfinished">Bitrate</translation>
+      <translation>Bitahraði</translation>
     </message>
     <message>
       <source>Sample rate</source>
-      <translation type="unfinished">Sample rate</translation>
+      <translation>Safntíðni</translation>
     </message>
     <message>
       <source>Bit depth</source>
-      <translation type="unfinished">Bit depth</translation>
+      <translation>Bitadýpt</translation>
     </message>
     <message>
       <source>File extension</source>
-      <translation type="unfinished">File extension</translation>
+      <translation>Skráarending</translation>
     </message>
   </context>
   <context>
     <name>OrganizeErrorDialog</name>
     <message>
       <source>Error copying songs</source>
-      <translation type="unfinished">Error copying songs</translation>
+      <translation>Villa við afritun laga</translation>
     </message>
     <message>
       <source>There were problems copying some songs.  The following files could not be copied:</source>
-      <translation type="unfinished">There were problems copying some songs.  The following files could not be copied:</translation>
+      <translation>Vandamál kom upp við að afrita einhver lög. Eftirfarandi skrár var ekki hægt að afrita:</translation>
     </message>
     <message>
       <source>Error deleting songs</source>
-      <translation type="unfinished">Error deleting songs</translation>
+      <translation>Villa við eyðingu laga</translation>
     </message>
     <message>
       <source>There were problems deleting some songs.  The following files could not be deleted:</source>
-      <translation type="unfinished">There were problems deleting some songs.  The following files could not be deleted:</translation>
+      <translation>Vandamál kom upp við að eyða einhverjum lögum. Eftirfarandi skrám var ekki hægt að eyða:</translation>
     </message>
   </context>
   <context>
     <name>ParserBase</name>
     <message>
       <source>Don&apos;t know how to handle %1</source>
-      <translation type="unfinished">Don&apos;t know how to handle %1</translation>
+      <translation>Veit ekki hvernig á að meðhöndla %1</translation>
     </message>
   </context>
   <context>
     <name>PlayingWidget</name>
     <message>
       <source>Small album cover</source>
-      <translation type="unfinished">Small album cover</translation>
+      <translation>Lítið plötuumslag</translation>
     </message>
     <message>
       <source>Large album cover</source>
-      <translation type="unfinished">Large album cover</translation>
+      <translation>Stórt plötuumslag</translation>
     </message>
     <message>
       <source>Fit cover to width</source>
-      <translation type="unfinished">Fit cover to width</translation>
+      <translation>Laga umslag að breidd</translation>
     </message>
     <message>
       <source>Show above status bar</source>
-      <translation type="unfinished">Show above status bar</translation>
+      <translation>Birta fyrir ofan stöðustiku</translation>
     </message>
   </context>
   <context>
     <name>Playlist</name>
     <message>
       <source>Could not write metadata to %1</source>
-      <translation type="unfinished">Could not write metadata to %1</translation>
+      <translation>Ekki tókst að skrifa lýsigögn í %1</translation>
     </message>
     <message>
       <source>Could not write metadata to %1: %2</source>
-      <translation type="unfinished">Could not write metadata to %1: %2</translation>
+      <translation>Ekki tókst að skrifa lýsigögn í %1: %2</translation>
     </message>
     <message>
       <source>Title</source>
-      <translation type="unfinished">Title</translation>
+      <translation>Titill</translation>
     </message>
     <message>
       <source>Artist</source>
-      <translation type="unfinished">Artist</translation>
+      <translation>Flytjandi</translation>
     </message>
     <message>
       <source>Album</source>
-      <translation type="unfinished">Album</translation>
+      <translation>Hljómplata</translation>
     </message>
     <message>
       <source>Track</source>
-      <translation type="unfinished">Track</translation>
+      <translation>Lag</translation>
     </message>
     <message>
       <source>Disc</source>
-      <translation type="unfinished">Disc</translation>
+      <translation>Diskur</translation>
     </message>
     <message>
       <source>Length</source>
-      <translation type="unfinished">Length</translation>
+      <translation>Lengd</translation>
     </message>
     <message>
       <source>Year</source>
-      <translation type="unfinished">Year</translation>
+      <translation>Ár</translation>
     </message>
     <message>
       <source>Original Year</source>
-      <translation type="unfinished">Original Year</translation>
+      <translation>Upprunaár</translation>
     </message>
     <message>
       <source>Genre</source>
-      <translation type="unfinished">Genre</translation>
+      <translation>Tónlistarstíll</translation>
     </message>
     <message>
       <source>Album Artist</source>
-      <translation type="unfinished">Album Artist</translation>
+      <translation>Flytjandi hljómplötu</translation>
     </message>
     <message>
       <source>Composer</source>
-      <translation type="unfinished">Composer</translation>
+      <translation>Tónskáld</translation>
     </message>
     <message>
       <source>Performer</source>
-      <translation type="unfinished">Performer</translation>
+      <translation>Flytjandi</translation>
     </message>
     <message>
       <source>Grouping</source>
-      <translation type="unfinished">Grouping</translation>
+      <translation>Hópun</translation>
     </message>
     <message>
       <source>Play Count</source>
-      <translation type="unfinished">Play Count</translation>
+      <translation>Fjöldi spilana</translation>
     </message>
     <message>
       <source>Skip Count</source>
-      <translation type="unfinished">Skip Count</translation>
+      <translation>Sleppa talningu</translation>
     </message>
     <message>
       <source>Last Played</source>
-      <translation type="unfinished">Last Played</translation>
+      <translation>Síðast spilað</translation>
     </message>
     <message>
       <source>Sample Rate</source>
-      <translation type="unfinished">Sample Rate</translation>
+      <translation>Safntíðni</translation>
     </message>
     <message>
       <source>Bit Depth</source>
-      <translation type="unfinished">Bit Depth</translation>
+      <translation>Bitadýpt</translation>
     </message>
     <message>
       <source>Bitrate</source>
-      <translation type="unfinished">Bitrate</translation>
+      <translation>Bitahraði</translation>
     </message>
     <message>
       <source>File Name</source>
-      <translation type="unfinished">File Name</translation>
+      <translation>Skráarheiti</translation>
     </message>
     <message>
       <source>File Name (without path)</source>
-      <translation type="unfinished">File Name (without path)</translation>
+      <translation>Skráarheiti (án slóðar)</translation>
     </message>
     <message>
       <source>File Size</source>
-      <translation type="unfinished">File Size</translation>
+      <translation>Skráarstærð</translation>
     </message>
     <message>
       <source>File Type</source>
-      <translation type="unfinished">File Type</translation>
+      <translation>Skráartegund</translation>
     </message>
     <message>
       <source>Date Modified</source>
-      <translation type="unfinished">Date Modified</translation>
+      <translation>Breytt þann</translation>
     </message>
     <message>
       <source>Date Created</source>
-      <translation type="unfinished">Date Created</translation>
+      <translation>Búið til þann</translation>
     </message>
     <message>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Athugasemd</translation>
     </message>
     <message>
       <source>Source</source>
-      <translation type="unfinished">Source</translation>
+      <translation>Upptök</translation>
     </message>
     <message>
       <source>Mood</source>
-      <translation type="unfinished">Mood</translation>
+      <translation>Skapbrigði</translation>
     </message>
     <message>
       <source>Rating</source>
-      <translation type="unfinished">Rating</translation>
+      <translation>Einkunn</translation>
     </message>
     <message>
       <source>CUE</source>
-      <translation type="unfinished">CUE</translation>
+      <translation>CUE</translation>
     </message>
     <message>
       <source>Integrated Loudness</source>
-      <translation type="unfinished">Integrated Loudness</translation>
+      <translation>Innbyggður hljóðstyrkur</translation>
     </message>
     <message>
       <source>Loudness Range</source>
-      <translation type="unfinished">Loudness Range</translation>
+      <translation>Hljóðstyrkssvið</translation>
     </message>
   </context>
   <context>
     <name>PlaylistContainer</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
     <message>
       <source>Undo</source>
-      <translation type="unfinished">Undo</translation>
+      <translation>Afturkalla</translation>
     </message>
     <message>
       <source>Redo</source>
-      <translation type="unfinished">Redo</translation>
+      <translation>Endurgera</translation>
     </message>
     <message>
       <source>Playlist</source>
-      <translation type="unfinished">Playlist</translation>
+      <translation>Spilunarlisti</translation>
     </message>
     <message>
       <source>Load playlist</source>
-      <translation type="unfinished">Load playlist</translation>
+      <translation>Hlaða inn spilunarlista</translation>
     </message>
     <message>
       <source>No matches found.  Clear the search box to show the whole playlist again.</source>
-      <translation type="unfinished">No matches found.  Clear the search box to show the whole playlist again.</translation>
+      <translation>Engar samsvaranir fundust. Hreinsaðu leitarreitinn til að birta allt safnið aftur.</translation>
     </message>
   </context>
   <context>
     <name>PlaylistDelegateBase</name>
     <message>
       <source>stop</source>
-      <translation type="unfinished">stop</translation>
+      <translation>stöðva</translation>
     </message>
   </context>
   <context>
     <name>PlaylistGeneratorInserter</name>
     <message>
       <source>Loading smart playlist</source>
-      <translation type="unfinished">Loading smart playlist</translation>
+      <translation>Hleð inn snjöllum spilunarlista</translation>
     </message>
   </context>
   <context>
     <name>PlaylistHeader</name>
     <message>
       <source>&amp;Hide...</source>
-      <translation type="unfinished">&amp;Hide...</translation>
+      <translation>&amp;Fela...</translation>
     </message>
     <message>
       <source>&amp;Stretch columns to fit window</source>
-      <translation type="unfinished">&amp;Stretch columns to fit window</translation>
+      <translation>&amp;Teygja á dálkum til að koma glugga fyrir</translation>
     </message>
     <message>
       <source>&amp;Reset columns to default</source>
-      <translation type="unfinished">&amp;Reset columns to default</translation>
+      <translation>F&amp;rumstilla dálka á sjálfgefin gildi</translation>
     </message>
     <message>
       <source>&amp;Lock rating</source>
-      <translation type="unfinished">&amp;Lock rating</translation>
+      <translation>&amp;Læsa einkunn</translation>
     </message>
     <message>
       <source>&amp;Align text</source>
-      <translation type="unfinished">&amp;Align text</translation>
+      <translation>&amp;Jafna texta</translation>
     </message>
     <message>
       <source>&amp;Left</source>
-      <translation type="unfinished">&amp;Left</translation>
+      <translation>&amp;Vinstri</translation>
     </message>
     <message>
       <source>&amp;Center</source>
-      <translation type="unfinished">&amp;Center</translation>
+      <translation>&amp;Miðjað</translation>
     </message>
     <message>
       <source>&amp;Right</source>
-      <translation type="unfinished">&amp;Right</translation>
+      <translation>&amp;Hægri</translation>
     </message>
     <message>
       <source>&amp;Hide %1</source>
-      <translation type="unfinished">&amp;Hide %1</translation>
+      <translation>&amp;Fela %1</translation>
     </message>
   </context>
   <context>
     <name>PlaylistListContainer</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
     <message>
       <source>New folder</source>
-      <translation type="unfinished">New folder</translation>
+      <translation>Ný mappa</translation>
     </message>
     <message>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>Eyða</translation>
     </message>
     <message>
       <source>Save playlist</source>
       <comment>Save playlist menu action.</comment>
-      <translation type="unfinished">Save playlist</translation>
+      <translation>Vista spilunarlista</translation>
     </message>
     <message>
       <source>Copy to device...</source>
-      <translation type="unfinished">Copy to device...</translation>
+      <translation>Afrita á tæki...</translation>
     </message>
     <message>
       <source>Enter the name of the folder</source>
-      <translation type="unfinished">Enter the name of the folder</translation>
+      <translation>Settu inn nafnið á möppunni</translation>
     </message>
     <message>
       <source>Playlist</source>
-      <translation type="unfinished">Playlist</translation>
+      <translation>Spilunarlisti</translation>
     </message>
     <message>
       <source>Copy to device</source>
-      <translation type="unfinished">Copy to device</translation>
+      <translation>Afrita á tæki</translation>
     </message>
     <message>
       <source>Playlist must be open first.</source>
-      <translation type="unfinished">Playlist must be open first.</translation>
+      <translation>Fyrst þarf að opna spilunarlista.</translation>
     </message>
     <message>
       <source>Remove playlists</source>
-      <translation type="unfinished">Remove playlists</translation>
+      <translation>Fjarlægja spilunarlista</translation>
     </message>
     <message>
       <source>You are about to remove %1 playlists from your favorites, are you sure?</source>
-      <translation type="unfinished">You are about to remove %1 playlists from your favorites, are you sure?</translation>
+      <translation>Þú ert í þann mund að fjarlægja %1 spilunarlista úr eftirlætum, ertu viss um að þú viljir gera það?</translation>
     </message>
   </context>
   <context>
     <name>PlaylistListView</name>
     <message>
       <source>You can favorite playlists by clicking the star icon next to a playlist name</source>
-      <translation type="unfinished">You can favorite playlists by clicking the star icon next to a playlist name</translation>
+      <translation>Þú getur sett spilunarlista í eftirlæti með því að smella á stjörnuna næst heiti spilunarlistans</translation>
     </message>
     <message>
       <source>Favorited playlists will be saved here</source>
-      <translation type="unfinished">Favorited playlists will be saved here</translation>
+      <translation>Eftirlætis-spilunarlistar verða vistaðir hér</translation>
     </message>
   </context>
   <context>
     <name>PlaylistManager</name>
     <message>
       <source>Playlist</source>
-      <translation type="unfinished">Playlist</translation>
+      <translation>Spilunarlisti</translation>
     </message>
     <message>
       <source>Couldn&apos;t create playlist</source>
-      <translation type="unfinished">Couldn&apos;t create playlist</translation>
+      <translation>Gat ekki búið til spilunarlista</translation>
     </message>
     <message>
       <source>Save playlist</source>
       <comment>Title of the playlist save dialog.</comment>
-      <translation type="unfinished">Save playlist</translation>
+      <translation>Vista spilunarlista</translation>
     </message>
     <message>
       <source>Unknown playlist extension</source>
-      <translation type="unfinished">Unknown playlist extension</translation>
+      <translation>Óþekkt skráarending spilunarlista</translation>
     </message>
     <message>
       <source>Unknown file extension for playlist.</source>
-      <translation type="unfinished">Unknown file extension for playlist.</translation>
+      <translation>Óþekkt skráarending fyrir spilunarlista.</translation>
     </message>
     <message>
       <source>%1 selected of</source>
-      <translation type="unfinished">%1 selected of</translation>
+      <translation>%1 valið af</translation>
     </message>
     <message numerus="yes">
       <source>%n track(s)</source>
-      <translation type="unfinished">
-        <numerusform>%n track(s)</numerusform>
-        <numerusform>%n track(s)</numerusform>
+      <translation>
+        <numerusform>%n lag</numerusform>
+        <numerusform>%n lög</numerusform>
       </translation>
     </message>
     <message>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>Óþekkt</translation>
     </message>
     <message>
       <source>Various artists</source>
-      <translation type="unfinished">Various artists</translation>
+      <translation>Ýmsir flytjendur</translation>
     </message>
   </context>
   <context>
     <name>PlaylistParser</name>
     <message>
       <source>All playlists (%1)</source>
-      <translation type="unfinished">All playlists (%1)</translation>
+      <translation>Allir lagalistar (%1)</translation>
     </message>
     <message>
       <source>%1 playlists (%2)</source>
-      <translation type="unfinished">%1 playlists (%2)</translation>
+      <translation>%1 lagalistar (%2)</translation>
     </message>
     <message>
       <source>Unknown filetype: %1</source>
-      <translation type="unfinished">Unknown filetype: %1</translation>
+      <translation>Óþekkt skráategund: %1</translation>
     </message>
     <message>
       <source>Could not open file %1</source>
-      <translation type="unfinished">Could not open file %1</translation>
+      <translation>Gat ekki opnað skrá %1</translation>
     </message>
     <message>
       <source>Directory %1 does not exist.</source>
-      <translation type="unfinished">Directory %1 does not exist.</translation>
+      <translation>%1 mappan er ekki til.</translation>
     </message>
     <message>
       <source>Failed to open %1 for writing.</source>
-      <translation type="unfinished">Failed to open %1 for writing.</translation>
+      <translation>Mistókst að opna %1 til skrifunar.</translation>
     </message>
   </context>
   <context>
     <name>PlaylistSaveOptionsDialog</name>
     <message>
       <source>Playlist options</source>
-      <translation type="unfinished">Playlist options</translation>
+      <translation>Valkostir spilunarlista</translation>
     </message>
     <message>
       <source>File paths</source>
-      <translation type="unfinished">File paths</translation>
+      <translation>Skráaslóðir</translation>
     </message>
     <message>
       <source>This can be changed later through the preferences</source>
-      <translation type="unfinished">This can be changed later through the preferences</translation>
+      <translation>Þessum valkosti er hægt að breyta síðar í kjörstillingunum</translation>
     </message>
     <message>
       <source>Remember my choice</source>
-      <translation type="unfinished">Remember my choice</translation>
+      <translation>Muna valið mitt</translation>
     </message>
     <message>
       <source>Automatic</source>
-      <translation type="unfinished">Automatic</translation>
+      <translation>Sjálfvirkt</translation>
     </message>
     <message>
       <source>Relative</source>
-      <translation type="unfinished">Relative</translation>
+      <translation>Afstæðar</translation>
     </message>
     <message>
       <source>Absolute</source>
-      <translation type="unfinished">Absolute</translation>
+      <translation>Algildar</translation>
     </message>
   </context>
   <context>
     <name>PlaylistSequence</name>
     <message>
       <source>Repeat</source>
-      <translation type="unfinished">Repeat</translation>
+      <translation>Endurtaka</translation>
     </message>
     <message>
       <source>Shuffle</source>
-      <translation type="unfinished">Shuffle</translation>
+      <translation>Stokka</translation>
     </message>
     <message>
       <source>Don&apos;t repeat</source>
-      <translation type="unfinished">Don&apos;t repeat</translation>
+      <translation>Ekki endurtaka</translation>
     </message>
     <message>
       <source>Repeat track</source>
-      <translation type="unfinished">Repeat track</translation>
+      <translation>Endurtaka lag</translation>
     </message>
     <message>
       <source>Repeat album</source>
-      <translation type="unfinished">Repeat album</translation>
+      <translation>Endurtaka hljómplötu</translation>
     </message>
     <message>
       <source>Repeat playlist</source>
-      <translation type="unfinished">Repeat playlist</translation>
+      <translation>Endurtaka spilunarlista</translation>
     </message>
     <message>
       <source>Stop after each track</source>
-      <translation type="unfinished">Stop after each track</translation>
+      <translation>Stoppa eftir hvert lag</translation>
     </message>
     <message>
       <source>Intro tracks</source>
-      <translation type="unfinished">Intro tracks</translation>
+      <translation>Kynningarlög</translation>
     </message>
     <message>
       <source>Don&apos;t shuffle</source>
-      <translation type="unfinished">Don&apos;t shuffle</translation>
+      <translation>Ekki stokka</translation>
     </message>
     <message>
       <source>Shuffle tracks in this album</source>
-      <translation type="unfinished">Shuffle tracks in this album</translation>
+      <translation>Stokka lögunum á þessari hljómplötu</translation>
     </message>
     <message>
       <source>Shuffle all</source>
-      <translation type="unfinished">Shuffle all</translation>
+      <translation>Stokka allt</translation>
     </message>
     <message>
       <source>Shuffle albums</source>
-      <translation type="unfinished">Shuffle albums</translation>
+      <translation>Stokka hljómplötur</translation>
     </message>
   </context>
   <context>
     <name>PlaylistSettingsPage</name>
     <message>
       <source>Playlist</source>
-      <translation type="unfinished">Playlist</translation>
+      <translation>Spilunarlisti</translation>
     </message>
     <message>
       <source>Use alternating row colors</source>
@@ -4706,75 +4706,75 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Warn me when closing a playlist tab</source>
-      <translation type="unfinished">Warn me when closing a playlist tab</translation>
+      <translation>Vara mig við þegar spilunarlistaflipa er lokað</translation>
     </message>
     <message>
       <source>Continue to the next item in the playlist if a song is unavailable</source>
-      <translation type="unfinished">Continue to the next item in the playlist if a song is unavailable</translation>
+      <translation>Hoppa í næsta atriði á spilunarlistanum ef lag er ekki tiltækt</translation>
     </message>
     <message>
       <source>Grey out unavailable songs in playlists on playback</source>
-      <translation type="unfinished">Grey out unavailable songs in playlists on playback</translation>
+      <translation>Við afspilun skal gráma lög í spilunarlistum sem ekki eru tiltæk</translation>
     </message>
     <message>
       <source>Grey out unavailable songs in playlists on startup</source>
-      <translation type="unfinished">Grey out unavailable songs in playlists on startup</translation>
+      <translation>Við ræsingu skal gráma lög í spilunarlistum sem ekki eru tiltæk</translation>
     </message>
     <message>
       <source>Automatically select current playing track</source>
-      <translation type="unfinished">Automatically select current playing track</translation>
+      <translation>Velja sjálfkrafa lagið sem er í spilun</translation>
     </message>
     <message>
       <source>Enable playlist toolbar</source>
-      <translation type="unfinished">Enable playlist toolbar</translation>
+      <translation>Virkja verkfærastiku spilunarlista</translation>
     </message>
     <message>
       <source>Enable playlist clear button</source>
-      <translation type="unfinished">Enable playlist clear button</translation>
+      <translation>Virkja hreinsa-hnapp spilunarlista</translation>
     </message>
     <message>
       <source>Enable delete files in the right click context menu</source>
-      <translation type="unfinished">Enable delete files in the right click context menu</translation>
+      <translation>Virkja að eyða skrám í hægrismells-samhengisvalmynd</translation>
     </message>
     <message>
       <source>Automatically sort playlist when inserting songs</source>
-      <translation type="unfinished">Automatically sort playlist when inserting songs</translation>
+      <translation>Raða spilunarlista sjálfkrafa þegar lögum er bætt inn</translation>
     </message>
     <message>
       <source>When saving a playlist, file paths should be</source>
-      <translation type="unfinished">When saving a playlist, file paths should be</translation>
+      <translation>Þegar spilunarlisti er vistaður, ættu skráaslóðir að vera</translation>
     </message>
     <message>
       <source>A&amp;utomatic</source>
-      <translation type="unfinished">A&amp;utomatic</translation>
+      <translation>Sjálf&amp;virkt</translation>
     </message>
     <message>
       <source>Absolu&amp;te</source>
-      <translation type="unfinished">Absolu&amp;te</translation>
+      <translation>Algildar</translation>
     </message>
     <message>
       <source>Re&amp;lative</source>
-      <translation type="unfinished">Re&amp;lative</translation>
+      <translation>A&amp;fstætt</translation>
     </message>
     <message>
       <source>As&amp;k when saving</source>
-      <translation type="unfinished">As&amp;k when saving</translation>
+      <translation>S&amp;pyrja við vistun</translation>
     </message>
     <message>
       <source>Metadata</source>
-      <translation type="unfinished">Metadata</translation>
+      <translation>Lýsigögn</translation>
     </message>
     <message>
       <source>If activated, clicking a selected song in the playlist view will let you edit the tag value directly</source>
-      <translation type="unfinished">If activated, clicking a selected song in the playlist view will let you edit the tag value directly</translation>
+      <translation>Ef þetta er virkt, mun smellur á valið lag í spilunarlistanum gera þér kleift að breyta beint gilfi merkisins</translation>
     </message>
     <message>
       <source>Enable song metadata inline edition with click</source>
-      <translation type="unfinished">Enable song metadata inline edition with click</translation>
+      <translation>Virkja innfelldar breytingar á lýsigögnum lags með smelli</translation>
     </message>
     <message>
       <source>Write metadata when saving playlists</source>
-      <translation type="unfinished">Write metadata when saving playlists</translation>
+      <translation>Skrifa lýsigögn þegar spilunarlistar eru vistaðir</translation>
     </message>
   </context>
   <context>
@@ -4785,58 +4785,58 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Close playlist</source>
-      <translation type="unfinished">Close playlist</translation>
+      <translation>Loka lagalista</translation>
     </message>
     <message>
       <source>Rename playlist...</source>
-      <translation type="unfinished">Rename playlist...</translation>
+      <translation>Gefa spilunarlistanum nýtt nafn...</translation>
     </message>
     <message>
       <source>Save playlist...</source>
-      <translation type="unfinished">Save playlist...</translation>
+      <translation>Vista spilunarlista...</translation>
     </message>
     <message>
       <source>Rename playlist</source>
-      <translation type="unfinished">Rename playlist</translation>
+      <translation>Gefa spilunarlistanum nýtt nafn</translation>
     </message>
     <message>
       <source>Enter a new name for this playlist</source>
-      <translation type="unfinished">Enter a new name for this playlist</translation>
+      <translation>Settu inn nýtt nafn á þennan lagalista</translation>
     </message>
     <message>
       <source>Remove playlist</source>
-      <translation type="unfinished">Remove playlist</translation>
+      <translation>Fjarlægja lagalista</translation>
     </message>
     <message>
       <source>You are about to remove a playlist which is not part of your favorite playlists: the playlist will be deleted (this action cannot be undone). 
 Are you sure you want to continue?</source>
-      <translation type="unfinished">You are about to remove a playlist which is not part of your favorite playlists: the playlist will be deleted (this action cannot be undone). 
-Are you sure you want to continue?</translation>
+      <translation>Þú ert í þann mund að fjarlægja spilunarlista sem ekki er hluti af eftirlætum: listanum verður eytt (ekki er hægt að afturkalla aðgerðina). 
+Ertu viss um að þú viljir halda áfram?</translation>
     </message>
     <message>
       <source>Warn me when closing a playlist tab</source>
-      <translation type="unfinished">Warn me when closing a playlist tab</translation>
+      <translation>Vara mig við þegar spilunarlistaflipa er lokað</translation>
     </message>
     <message>
       <source>This option can be changed in the &quot;Behavior&quot; preferences</source>
-      <translation type="unfinished">This option can be changed in the &quot;Behavior&quot; preferences</translation>
+      <translation>Þessum valkosti er hægt að breyta í &quot;Hegðun&quot; kjörstillingunum</translation>
     </message>
     <message>
       <source>Double-click here to favorite this playlist so it will be saved and remain accessible through the &quot;Playlists&quot; panel on the left side bar</source>
-      <translation type="unfinished">Double-click here to favorite this playlist so it will be saved and remain accessible through the &quot;Playlists&quot; panel on the left side bar</translation>
+      <translation>Tvísmelltu hér til að setja þennan spilunarlista í eftirlæti, þannig að hann verði vistaður og haldist aðgengilegur í gegnum &quot;Spilunarlistar&quot;-spjaldið vinstra megin</translation>
     </message>
     <message>
       <source>Playlist</source>
-      <translation type="unfinished">Playlist</translation>
+      <translation>Lagalisti</translation>
     </message>
   </context>
   <context>
     <name>PlaylistUndoCommands::InsertItems</name>
     <message numerus="yes">
       <source>add %n songs</source>
-      <translation type="unfinished">
-        <numerusform>add %n songs</numerusform>
-        <numerusform>add %n songs</numerusform>
+      <translation>
+        <numerusform>bæta við %n lögum</numerusform>
+        <numerusform>bæta við %n lögum</numerusform>
       </translation>
     </message>
   </context>
@@ -4844,9 +4844,9 @@ Are you sure you want to continue?</translation>
     <name>PlaylistUndoCommands::MoveItems</name>
     <message numerus="yes">
       <source>move %n songs</source>
-      <translation type="unfinished">
-        <numerusform>move %n songs</numerusform>
-        <numerusform>move %n songs</numerusform>
+      <translation>
+        <numerusform>færa %n lög</numerusform>
+        <numerusform>færa %n lög</numerusform>
       </translation>
     </message>
   </context>
@@ -4854,9 +4854,9 @@ Are you sure you want to continue?</translation>
     <name>PlaylistUndoCommands::RemoveItems</name>
     <message numerus="yes">
       <source>remove %n songs</source>
-      <translation type="unfinished">
-        <numerusform>remove %n songs</numerusform>
-        <numerusform>remove %n songs</numerusform>
+      <translation>
+        <numerusform>fjarlægja %n lög</numerusform>
+        <numerusform>fjarlægja %n lög</numerusform>
       </translation>
     </message>
   </context>
@@ -4864,244 +4864,244 @@ Are you sure you want to continue?</translation>
     <name>PlaylistUndoCommands::ShuffleItems</name>
     <message>
       <source>shuffle songs</source>
-      <translation type="unfinished">shuffle songs</translation>
+      <translation>stokka lög</translation>
     </message>
   </context>
   <context>
     <name>PlaylistUndoCommands::SortItems</name>
     <message>
       <source>sort songs</source>
-      <translation type="unfinished">sort songs</translation>
+      <translation>raða lögum</translation>
     </message>
   </context>
   <context>
     <name>PlaylistView</name>
     <message>
       <source>Hz</source>
-      <translation type="unfinished">Hz</translation>
+      <translation>Hz</translation>
     </message>
     <message>
       <source>Bit</source>
-      <translation type="unfinished">Bit</translation>
+      <translation>bita</translation>
     </message>
     <message>
       <source>kbps</source>
-      <translation type="unfinished">kbps</translation>
+      <translation>kb/sek</translation>
     </message>
   </context>
   <context>
     <name>QObject</name>
     <message>
       <source>Usage</source>
-      <translation type="unfinished">Usage</translation>
+      <translation>Notkun</translation>
     </message>
     <message>
       <source>options</source>
-      <translation type="unfinished">options</translation>
+      <translation>valkostir</translation>
     </message>
     <message>
       <source>URL(s)</source>
-      <translation type="unfinished">URL(s)</translation>
+      <translation>Slóð(ir)</translation>
     </message>
     <message>
       <source>Player options</source>
-      <translation type="unfinished">Player options</translation>
+      <translation>Stillingar spilarans</translation>
     </message>
     <message>
       <source>Start the playlist currently playing</source>
-      <translation type="unfinished">Start the playlist currently playing</translation>
+      <translation>Ræsa spilunarlistann sem er núna í spilun</translation>
     </message>
     <message>
       <source>Play if stopped, pause if playing</source>
-      <translation type="unfinished">Play if stopped, pause if playing</translation>
+      <translation>Spila ef stöðvað, setja í hlé ef spilandi</translation>
     </message>
     <message>
       <source>Pause playback</source>
-      <translation type="unfinished">Pause playback</translation>
+      <translation>Gera hlé á afspilun</translation>
     </message>
     <message>
       <source>Stop playback</source>
-      <translation type="unfinished">Stop playback</translation>
+      <translation>Stöðva afspilun</translation>
     </message>
     <message>
       <source>Stop playback after current track</source>
-      <translation type="unfinished">Stop playback after current track</translation>
+      <translation>Stöðva afspilun eftir núverandi lag</translation>
     </message>
     <message>
       <source>Skip backwards in playlist</source>
-      <translation type="unfinished">Skip backwards in playlist</translation>
+      <translation>Fara afturábak í spilunarlista</translation>
     </message>
     <message>
       <source>Skip forwards in playlist</source>
-      <translation type="unfinished">Skip forwards in playlist</translation>
+      <translation>Fara áfram í spilunarlista</translation>
     </message>
     <message>
       <source>Set the volume to &lt;value&gt; percent</source>
-      <translation type="unfinished">Set the volume to &lt;value&gt; percent</translation>
+      <translation>Setja hljóðstyrk á &lt;value&gt; prósent</translation>
     </message>
     <message>
       <source>Increase the volume by 4 percent</source>
-      <translation type="unfinished">Increase the volume by 4 percent</translation>
+      <translation>Auka hljóðstyrk um 4 prósent</translation>
     </message>
     <message>
       <source>Decrease the volume by 4 percent</source>
-      <translation type="unfinished">Decrease the volume by 4 percent</translation>
+      <translation>Draga úr hljóðstyrk um 4 prósent</translation>
     </message>
     <message>
       <source>Increase the volume by &lt;value&gt; percent</source>
-      <translation type="unfinished">Increase the volume by &lt;value&gt; percent</translation>
+      <translation>Auka hljóðstyrk um &lt;value&gt; prósent</translation>
     </message>
     <message>
       <source>Decrease the volume by &lt;value&gt; percent</source>
-      <translation type="unfinished">Decrease the volume by &lt;value&gt; percent</translation>
+      <translation>Draga úr hljóðstyrk um &lt;value&gt; prósent</translation>
     </message>
     <message>
       <source>Seek the currently playing track to an absolute position</source>
-      <translation type="unfinished">Seek the currently playing track to an absolute position</translation>
+      <translation>Hoppa á ákveðinn stað í laginu sem nú er í spilun</translation>
     </message>
     <message>
       <source>Seek the currently playing track by a relative amount</source>
-      <translation type="unfinished">Seek the currently playing track by a relative amount</translation>
+      <translation>Hoppa hlutfallslega í laginu sem nú er í spilun</translation>
     </message>
     <message>
       <source>Restart the track, or play the previous track if within 8 seconds of start.</source>
-      <translation type="unfinished">Restart the track, or play the previous track if within 8 seconds of start.</translation>
+      <translation>Enduræsa lagið, eða spila fyrra lag ef það er innan 8 sekúndna frá upphafi þess.</translation>
     </message>
     <message>
       <source>Playlist options</source>
-      <translation type="unfinished">Playlist options</translation>
+      <translation>Valkostir spilunarlista</translation>
     </message>
     <message>
       <source>Create a new playlist with files</source>
-      <translation type="unfinished">Create a new playlist with files</translation>
+      <translation>Búa til nýjan spilunarlista með skrám</translation>
     </message>
     <message>
       <source>Append files/URLs to the playlist</source>
-      <translation type="unfinished">Append files/URLs to the playlist</translation>
+      <translation>Bæta skrám/slóðum í lagalista</translation>
     </message>
     <message>
       <source>Loads files/URLs, replacing current playlist</source>
-      <translation type="unfinished">Loads files/URLs, replacing current playlist</translation>
+      <translation>Hleður inn skrám/slóðum, skiptir út núverandi lagalista</translation>
     </message>
     <message>
       <source>Play the &lt;n&gt;th track in the playlist</source>
-      <translation type="unfinished">Play the &lt;n&gt;th track in the playlist</translation>
+      <translation>Spila lag númer &lt;n&gt; á spilunarlistanum</translation>
     </message>
     <message>
       <source>Play given playlist</source>
-      <translation type="unfinished">Play given playlist</translation>
+      <translation>Spila uppgefinn spilunarlista</translation>
     </message>
     <message>
       <source>Other options</source>
-      <translation type="unfinished">Other options</translation>
+      <translation>Aðrir valkostir</translation>
     </message>
     <message>
       <source>Display the on-screen-display</source>
-      <translation type="unfinished">Display the on-screen-display</translation>
+      <translation>Birta OSD-stjórntexta</translation>
     </message>
     <message>
       <source>Toggle visibility for the pretty on-screen-display</source>
-      <translation type="unfinished">Toggle visibility for the pretty on-screen-display</translation>
+      <translation>Víxla sýnileika fegraða OSD-stjórntextans af/á</translation>
     </message>
     <message>
       <source>Change the language</source>
-      <translation type="unfinished">Change the language</translation>
+      <translation>Skipta um tungumál</translation>
     </message>
     <message>
       <source>Resize the window</source>
-      <translation type="unfinished">Resize the window</translation>
+      <translation>Breyta stærð glugga</translation>
     </message>
     <message>
       <source>Equivalent to --log-levels *:1</source>
-      <translation type="unfinished">Equivalent to --log-levels *:1</translation>
+      <translation>Samsvarar --log-levels *:1</translation>
     </message>
     <message>
       <source>Equivalent to --log-levels *:3</source>
-      <translation type="unfinished">Equivalent to --log-levels *:3</translation>
+      <translation>Samsvarar --log-levels *:3</translation>
     </message>
     <message>
       <source>Comma separated list of class:level, level is 0-3</source>
-      <translation type="unfinished">Comma separated list of class:level, level is 0-3</translation>
+      <translation>Kommu-aðgreindur listi klasi:stig, stig eru 0-3</translation>
     </message>
     <message>
       <source>Print out version information</source>
-      <translation type="unfinished">Print out version information</translation>
+      <translation>Birta upplýsingar um útgáfu</translation>
     </message>
     <message>
       <source>Failed to create directory %1.</source>
-      <translation type="unfinished">Failed to create directory %1.</translation>
+      <translation>Mistókst að búa til möppuna %1.</translation>
     </message>
     <message>
       <source>Destination file %1 exists, but not allowed to overwrite.</source>
-      <translation type="unfinished">Destination file %1 exists, but not allowed to overwrite.</translation>
+      <translation>Úttaksskráin %1 er til, en ekki er leyft að skrifa yfir hana.</translation>
     </message>
     <message>
       <source>Destination file %1 exists, but not allowed to overwrite</source>
-      <translation type="unfinished">Destination file %1 exists, but not allowed to overwrite</translation>
+      <translation>Úttaksskráin %1 er til, en ekki er leyft að skrifa yfir hana</translation>
     </message>
     <message>
       <source>Could not copy file %1 to %2.</source>
-      <translation type="unfinished">Could not copy file %1 to %2.</translation>
+      <translation>Mistókst að afrita skrána %1 í %2.</translation>
     </message>
     <message>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>Óþekkt</translation>
     </message>
     <message>
       <source>LUFS</source>
-      <translation type="unfinished">LUFS</translation>
+      <translation>LUFS</translation>
     </message>
     <message>
       <source>LU</source>
-      <translation type="unfinished">LU</translation>
+      <translation>LU</translation>
     </message>
     <message>
       <source>File %1 is not recognized as a valid audio file.</source>
-      <translation type="unfinished">File %1 is not recognized as a valid audio file.</translation>
+      <translation>Skráin %1 er ekki gild hljóðskrá.</translation>
     </message>
     <message>
       <source>1 day</source>
-      <translation type="unfinished">1 day</translation>
+      <translation>1 dagur</translation>
     </message>
     <message>
       <source>%1 days</source>
-      <translation type="unfinished">%1 days</translation>
+      <translation>%1 dagar</translation>
     </message>
     <message>
       <source>Today</source>
-      <translation type="unfinished">Today</translation>
+      <translation>Í dag</translation>
     </message>
     <message>
       <source>Yesterday</source>
-      <translation type="unfinished">Yesterday</translation>
+      <translation>Í gær</translation>
     </message>
     <message>
       <source>%1 days ago</source>
-      <translation type="unfinished">%1 days ago</translation>
+      <translation>%1 dögum síðan</translation>
     </message>
     <message>
       <source>Tomorrow</source>
-      <translation type="unfinished">Tomorrow</translation>
+      <translation>Á morgun</translation>
     </message>
     <message>
       <source>In %1 days</source>
-      <translation type="unfinished">In %1 days</translation>
+      <translation>Á %1 dögum</translation>
     </message>
     <message>
       <source>Next week</source>
-      <translation type="unfinished">Next week</translation>
+      <translation>Næstu viku</translation>
     </message>
     <message>
       <source>In %1 weeks</source>
-      <translation type="unfinished">In %1 weeks</translation>
+      <translation>Á %1 viku</translation>
     </message>
     <message>
       <source>Show in file browser</source>
-      <translation type="unfinished">Show in file browser</translation>
+      <translation>Sýna í skráavafra</translation>
     </message>
     <message>
       <source>Too many songs selected.</source>
-      <translation type="unfinished">Too many songs selected.</translation>
+      <translation>Of mörg lög valin.</translation>
     </message>
     <message>
       <source>%1 songs in %2 different directories selected, are you sure you want to open them all?</source>
@@ -5109,39 +5109,39 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Failed to load image from data for %1</source>
-      <translation type="unfinished">Failed to load image from data for %1</translation>
+      <translation>Mistókst að hlaða mynd úr gögnum fyrir %1</translation>
     </message>
     <message>
       <source>Success</source>
-      <translation type="unfinished">Success</translation>
+      <translation>Tókst</translation>
     </message>
     <message>
       <source>File is unsupported</source>
-      <translation type="unfinished">File is unsupported</translation>
+      <translation>Óstudd skrá</translation>
     </message>
     <message>
       <source>Filename is missing</source>
-      <translation type="unfinished">Filename is missing</translation>
+      <translation>Skráarheitið vantar</translation>
     </message>
     <message>
       <source>File does not exist</source>
-      <translation type="unfinished">File does not exist</translation>
+      <translation>Skráin er ekki til</translation>
     </message>
     <message>
       <source>File could not be opened</source>
-      <translation type="unfinished">File could not be opened</translation>
+      <translation>Ekki var hægt að opna skrána</translation>
     </message>
     <message>
       <source>Could not parse file</source>
-      <translation type="unfinished">Could not parse file</translation>
+      <translation>Gat ekki þáttað skrá</translation>
     </message>
     <message>
       <source>Could save file</source>
-      <translation type="unfinished">Could save file</translation>
+      <translation>Tókst að vista skrána</translation>
     </message>
     <message>
       <source>Unknown error</source>
-      <translation type="unfinished">Unknown error</translation>
+      <translation>Óþekkt villa</translation>
     </message>
     <message>
       <source>Prefix a search term with a field name to limit the search to that field, e.g.:</source>
@@ -5149,7 +5149,7 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>artist</source>
-      <translation type="unfinished">artist</translation>
+      <translation>flytjandi</translation>
     </message>
     <message>
       <source>searches for all artists containing the word %1. </source>
@@ -5161,7 +5161,7 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>rating</source>
-      <translation type="unfinished">rating</translation>
+      <translation>einkunn</translation>
     </message>
     <message>
       <source>Multiple search terms can also be combined with &quot;%1&quot; (default) and &quot;%2&quot;, as well as grouped with parentheses. </source>
@@ -5169,255 +5169,255 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Available fields</source>
-      <translation type="unfinished">Available fields</translation>
+      <translation>Tiltækir reitir</translation>
     </message>
     <message>
       <source>after</source>
-      <translation type="unfinished">after</translation>
+      <translation>eftir</translation>
     </message>
     <message>
       <source>before</source>
-      <translation type="unfinished">before</translation>
+      <translation>áður</translation>
     </message>
     <message>
       <source>on</source>
-      <translation type="unfinished">on</translation>
+      <translation>á</translation>
     </message>
     <message>
       <source>not on</source>
-      <translation type="unfinished">not on</translation>
+      <translation>ekki á</translation>
     </message>
     <message>
       <source>in the last</source>
-      <translation type="unfinished">in the last</translation>
+      <translation>í seinustu</translation>
     </message>
     <message>
       <source>not in the last</source>
-      <translation type="unfinished">not in the last</translation>
+      <translation>ekki í seinustu</translation>
     </message>
     <message>
       <source>between</source>
-      <translation type="unfinished">between</translation>
+      <translation>milli</translation>
     </message>
     <message>
       <source>contains</source>
-      <translation type="unfinished">contains</translation>
+      <translation>inniheldur</translation>
     </message>
     <message>
       <source>does not contain</source>
-      <translation type="unfinished">does not contain</translation>
+      <translation>inniheldur ekki</translation>
     </message>
     <message>
       <source>starts with</source>
-      <translation type="unfinished">starts with</translation>
+      <translation>byrjar á</translation>
     </message>
     <message>
       <source>ends with</source>
-      <translation type="unfinished">ends with</translation>
+      <translation>endar á</translation>
     </message>
     <message>
       <source>greater than</source>
-      <translation type="unfinished">greater than</translation>
+      <translation>stærra en</translation>
     </message>
     <message>
       <source>less than</source>
-      <translation type="unfinished">less than</translation>
+      <translation>minna en</translation>
     </message>
     <message>
       <source>equals</source>
-      <translation type="unfinished">equals</translation>
+      <translation>jafnt og</translation>
     </message>
     <message>
       <source>not equals</source>
-      <translation type="unfinished">not equals</translation>
+      <translation>er ekki jafnt og</translation>
     </message>
     <message>
       <source>empty</source>
-      <translation type="unfinished">empty</translation>
+      <translation>tómt</translation>
     </message>
     <message>
       <source>not empty</source>
-      <translation type="unfinished">not empty</translation>
+      <translation>ekki tómt</translation>
     </message>
     <message>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Athugasemd</translation>
     </message>
     <message>
       <source>A-Z</source>
-      <translation type="unfinished">A-Z</translation>
+      <translation>A-Ö</translation>
     </message>
     <message>
       <source>Z-A</source>
-      <translation type="unfinished">Z-A</translation>
+      <translation>Ö-A</translation>
     </message>
     <message>
       <source>oldest first</source>
-      <translation type="unfinished">oldest first</translation>
+      <translation>elsta fyrst</translation>
     </message>
     <message>
       <source>newest first</source>
-      <translation type="unfinished">newest first</translation>
+      <translation>nýjast fyrst</translation>
     </message>
     <message>
       <source>shortest first</source>
-      <translation type="unfinished">shortest first</translation>
+      <translation>stysta fyrst</translation>
     </message>
     <message>
       <source>longest first</source>
-      <translation type="unfinished">longest first</translation>
+      <translation>lengsta fyrst</translation>
     </message>
     <message>
       <source>smallest first</source>
-      <translation type="unfinished">smallest first</translation>
+      <translation>minnsta fyrst</translation>
     </message>
     <message>
       <source>biggest first</source>
-      <translation type="unfinished">biggest first</translation>
+      <translation>stærsta fyrst</translation>
     </message>
     <message>
       <source>Hours</source>
-      <translation type="unfinished">Hours</translation>
+      <translation>Klukkustundir</translation>
     </message>
     <message>
       <source>Days</source>
-      <translation type="unfinished">Days</translation>
+      <translation>Dagar</translation>
     </message>
     <message>
       <source>Weeks</source>
-      <translation type="unfinished">Weeks</translation>
+      <translation>Vikur</translation>
     </message>
     <message>
       <source>Months</source>
-      <translation type="unfinished">Months</translation>
+      <translation>Mánuðir</translation>
     </message>
     <message>
       <source>Years</source>
-      <translation type="unfinished">Years</translation>
+      <translation>Ár</translation>
     </message>
     <message>
       <source>Normal</source>
-      <translation type="unfinished">Normal</translation>
+      <translation>Venjulegt</translation>
     </message>
     <message>
       <source>Angry</source>
-      <translation type="unfinished">Angry</translation>
+      <translation>Reiður</translation>
     </message>
     <message>
       <source>Frozen</source>
-      <translation type="unfinished">Frozen</translation>
+      <translation>Frosið</translation>
     </message>
     <message>
       <source>Happy</source>
-      <translation type="unfinished">Happy</translation>
+      <translation>Gleði</translation>
     </message>
     <message>
       <source>System colors</source>
-      <translation type="unfinished">System colors</translation>
+      <translation>Kerfislitir</translation>
     </message>
   </context>
   <context>
     <name>QWidget</name>
     <message>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>Hreinsa</translation>
     </message>
     <message>
       <source>Reset</source>
-      <translation type="unfinished">Reset</translation>
+      <translation>Endurstilla</translation>
     </message>
   </context>
   <context>
     <name>QobuzRequest</name>
     <message>
       <source>Receiving artists...</source>
-      <translation type="unfinished">Receiving artists...</translation>
+      <translation>Næ í flytjendur...</translation>
     </message>
     <message>
       <source>Receiving albums...</source>
-      <translation type="unfinished">Receiving albums...</translation>
+      <translation>Næ í hljómplötur...</translation>
     </message>
     <message>
       <source>Receiving songs...</source>
-      <translation type="unfinished">Receiving songs...</translation>
+      <translation>Næ í lög...</translation>
     </message>
     <message>
       <source>Searching...</source>
-      <translation type="unfinished">Searching...</translation>
+      <translation>Leita...</translation>
     </message>
     <message>
       <source>Receiving albums for %1 artist...</source>
-      <translation type="unfinished">Receiving albums for %1 artist...</translation>
+      <translation>Næ í hljómplötur fyrir %1 flytjanda...</translation>
     </message>
     <message>
       <source>Receiving albums for %1 artists...</source>
-      <translation type="unfinished">Receiving albums for %1 artists...</translation>
+      <translation>Næ í hljómplötur fyrir %1 flytjendur...</translation>
     </message>
     <message>
       <source>Receiving songs for %1 album...</source>
-      <translation type="unfinished">Receiving songs for %1 album...</translation>
+      <translation>Næ í lög fyrir %1 hljómplötu...</translation>
     </message>
     <message>
       <source>Receiving songs for %1 albums...</source>
-      <translation type="unfinished">Receiving songs for %1 albums...</translation>
+      <translation>Næ í lög fyrir %1 hljómplötur...</translation>
     </message>
     <message>
       <source>Receiving album cover for %1 album...</source>
-      <translation type="unfinished">Receiving album cover for %1 album...</translation>
+      <translation>Næ í umslag fyrir %1 hljómplötu...</translation>
     </message>
     <message>
       <source>Receiving album covers for %1 albums...</source>
-      <translation type="unfinished">Receiving album covers for %1 albums...</translation>
+      <translation>Næ í umslög fyrir %1 hljómplötur...</translation>
     </message>
     <message>
       <source>No match.</source>
-      <translation type="unfinished">No match.</translation>
+      <translation>Engin samsvörun.</translation>
     </message>
     <message>
       <source>Unknown error</source>
-      <translation type="unfinished">Unknown error</translation>
+      <translation>Óþekkt villa</translation>
     </message>
   </context>
   <context>
     <name>QobuzService</name>
     <message>
       <source>Authenticating...</source>
-      <translation type="unfinished">Authenticating...</translation>
+      <translation>Auðkenni...</translation>
     </message>
     <message>
       <source>Maximum number of login attempts reached.</source>
-      <translation type="unfinished">Maximum number of login attempts reached.</translation>
+      <translation>Hámarksfjölda innskráningartilrauna náð.</translation>
     </message>
     <message>
       <source>Missing Qobuz app ID.</source>
-      <translation type="unfinished">Missing Qobuz app ID.</translation>
+      <translation>Vantar Qobuz-auðkenni forrits.</translation>
     </message>
     <message>
       <source>Missing Qobuz username.</source>
-      <translation type="unfinished">Missing Qobuz username.</translation>
+      <translation>Vantar Qobuz-notandanafn.</translation>
     </message>
     <message>
       <source>Missing Qobuz password.</source>
-      <translation type="unfinished">Missing Qobuz password.</translation>
+      <translation>Vantar Qobuz-lykilorð.</translation>
     </message>
     <message>
       <source>Not authenticated with Qobuz.</source>
-      <translation type="unfinished">Not authenticated with Qobuz.</translation>
+      <translation>Ekki auðkennt á Qobuz.</translation>
     </message>
     <message>
       <source>Missing Qobuz app ID or secret.</source>
-      <translation type="unfinished">Missing Qobuz app ID or secret.</translation>
+      <translation>Vantar Qobuz-auðkenni forrits eða leynilykil.</translation>
     </message>
   </context>
   <context>
     <name>QobuzSettingsPage</name>
     <message>
       <source>Qobuz</source>
-      <translation type="unfinished">Qobuz</translation>
+      <translation>Qobuz</translation>
     </message>
     <message>
       <source>Enable</source>
-      <translation type="unfinished">Enable</translation>
+      <translation>Virkja</translation>
     </message>
     <message>
       <source>Qobuz support is not official and requires an API app ID and secret from a registered application to work. We can&apos;t help you getting these.</source>
@@ -5425,103 +5425,103 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Authentication</source>
-      <translation type="unfinished">Authentication</translation>
+      <translation>Auðkenning</translation>
     </message>
     <message>
       <source>App ID</source>
-      <translation type="unfinished">App ID</translation>
+      <translation>Auðkenni forrits</translation>
     </message>
     <message>
       <source>Username</source>
-      <translation type="unfinished">Username</translation>
+      <translation>Notandanafn</translation>
     </message>
     <message>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Lykilorð</translation>
     </message>
     <message>
       <source>App Secret</source>
-      <translation type="unfinished">App Secret</translation>
+      <translation>Leynilykill forrits</translation>
     </message>
     <message>
       <source>Login</source>
-      <translation type="unfinished">Login</translation>
+      <translation>Innskráning</translation>
     </message>
     <message>
       <source>Preferences</source>
-      <translation type="unfinished">Preferences</translation>
+      <translation>Kjörstillingar</translation>
     </message>
     <message>
       <source>Audio format</source>
-      <translation type="unfinished">Audio format</translation>
+      <translation>Hljóðsnið</translation>
     </message>
     <message>
       <source>Search delay</source>
-      <translation type="unfinished">Search delay</translation>
+      <translation>Töf við leit</translation>
     </message>
     <message>
       <source>ms</source>
-      <translation type="unfinished">ms</translation>
+      <translation>msek</translation>
     </message>
     <message>
       <source>Artists search limit</source>
-      <translation type="unfinished">Artists search limit</translation>
+      <translation>Leitarmörk flytjenda</translation>
     </message>
     <message>
       <source>Albums search limit</source>
-      <translation type="unfinished">Albums search limit</translation>
+      <translation>Leitarmörk hljómplatna</translation>
     </message>
     <message>
       <source>Songs search limit</source>
-      <translation type="unfinished">Songs search limit</translation>
+      <translation>Leitarmörk laga</translation>
     </message>
     <message>
       <source>Download album covers</source>
-      <translation type="unfinished">Download album covers</translation>
+      <translation>Sækja plötuumslög</translation>
     </message>
     <message>
       <source>Base64 encoded secret</source>
-      <translation type="unfinished">Base64 encoded secret</translation>
+      <translation>Base64-kóðaður leynilykill</translation>
     </message>
     <message>
       <source>Configuration incomplete</source>
-      <translation type="unfinished">Configuration incomplete</translation>
+      <translation>Ófullgerð uppsetning</translation>
     </message>
     <message>
       <source>Missing app id.</source>
-      <translation type="unfinished">Missing app id.</translation>
+      <translation>Vantar auðkenni forrits.</translation>
     </message>
     <message>
       <source>Missing username.</source>
-      <translation type="unfinished">Missing username.</translation>
+      <translation>Vantar notandanafn.</translation>
     </message>
     <message>
       <source>Missing password.</source>
-      <translation type="unfinished">Missing password.</translation>
+      <translation>Lykilorð vantar.</translation>
     </message>
     <message>
       <source>Authentication failed</source>
-      <translation type="unfinished">Authentication failed</translation>
+      <translation>Auðkenning mistókst</translation>
     </message>
   </context>
   <context>
     <name>QobuzStreamURLRequest</name>
     <message>
       <source>Missing Qobuz app ID or secret.</source>
-      <translation type="unfinished">Missing Qobuz app ID or secret.</translation>
+      <translation>Vantar Qobuz-auðkenni forrits eða leynilykil.</translation>
     </message>
     <message>
       <source>Cancelled.</source>
-      <translation type="unfinished">Cancelled.</translation>
+      <translation>Hætt við.</translation>
     </message>
   </context>
   <context>
     <name>Queue</name>
     <message numerus="yes">
       <source>%n track(s)</source>
-      <translation type="unfinished">
-        <numerusform>%n track(s)</numerusform>
-        <numerusform>%n track(s)</numerusform>
+      <translation>
+        <numerusform>%n lag</numerusform>
+        <numerusform>%n lög</numerusform>
       </translation>
     </message>
   </context>
@@ -5533,72 +5533,72 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Move down</source>
-      <translation type="unfinished">Move down</translation>
+      <translation>Færa niður</translation>
     </message>
     <message>
       <source>Ctrl+Up</source>
-      <translation type="unfinished">Ctrl+Up</translation>
+      <translation>Ctrl+Upp</translation>
     </message>
     <message>
       <source>Move up</source>
-      <translation type="unfinished">Move up</translation>
+      <translation>Færa upp</translation>
     </message>
     <message>
       <source>Ctrl+Down</source>
-      <translation type="unfinished">Ctrl+Down</translation>
+      <translation>Ctrl+Niður</translation>
     </message>
     <message>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>Fjarlægja</translation>
     </message>
     <message>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>Hreinsa</translation>
     </message>
     <message>
       <source>Ctrl+K</source>
-      <translation type="unfinished">Ctrl+K</translation>
+      <translation>Ctrl+K</translation>
     </message>
   </context>
   <context>
     <name>RadioParadiseService</name>
     <message>
       <source>Getting %1 channels</source>
-      <translation type="unfinished">Getting %1 channels</translation>
+      <translation>Sæki %1 rásir</translation>
     </message>
   </context>
   <context>
     <name>RadioView</name>
     <message>
       <source>Append to current playlist</source>
-      <translation type="unfinished">Append to current playlist</translation>
+      <translation>Bæta við fyrirliggjandi lagalista</translation>
     </message>
     <message>
       <source>Replace current playlist</source>
-      <translation type="unfinished">Replace current playlist</translation>
+      <translation>Skipta út fyrirliggjandi spilunarlista</translation>
     </message>
     <message>
       <source>Open in new playlist</source>
-      <translation type="unfinished">Open in new playlist</translation>
+      <translation>Opna í nýjum spilunarlista</translation>
     </message>
     <message>
       <source>Open homepage</source>
-      <translation type="unfinished">Open homepage</translation>
+      <translation>Opna heimasíðu</translation>
     </message>
     <message>
       <source>Donate</source>
-      <translation type="unfinished">Donate</translation>
+      <translation>Styrkja</translation>
     </message>
     <message>
       <source>Refresh channels</source>
-      <translation type="unfinished">Refresh channels</translation>
+      <translation>Endurlesa rásir</translation>
     </message>
   </context>
   <context>
     <name>RadioViewContainer</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
   </context>
   <context>
@@ -5624,161 +5624,161 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Directory does not exist.</source>
-      <translation type="unfinished">Directory does not exist.</translation>
+      <translation>Mappan er ekki til.</translation>
     </message>
   </context>
   <context>
     <name>SavedGroupingManager</name>
     <message>
       <source>Saved Grouping Manager</source>
-      <translation type="unfinished">Saved Grouping Manager</translation>
+      <translation>Umsýsla vistaðrar hópunar</translation>
     </message>
     <message>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>Fjarlægja</translation>
     </message>
     <message>
       <source>Ctrl+Up</source>
-      <translation type="unfinished">Ctrl+Up</translation>
+      <translation>Ctrl+Upp</translation>
     </message>
     <message>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nafn</translation>
     </message>
     <message>
       <source>First level</source>
-      <translation type="unfinished">First level</translation>
+      <translation>Fyrsta stig</translation>
     </message>
     <message>
       <source>Second Level</source>
-      <translation type="unfinished">Second Level</translation>
+      <translation>Annað stig</translation>
     </message>
     <message>
       <source>Third Level</source>
-      <translation type="unfinished">Third Level</translation>
+      <translation>Þriðja stig</translation>
     </message>
     <message>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Ekkert</translation>
     </message>
     <message>
       <source>Album artist</source>
-      <translation type="unfinished">Album artist</translation>
+      <translation>Listamenn á hljómplötu</translation>
     </message>
     <message>
       <source>Artist</source>
-      <translation type="unfinished">Artist</translation>
+      <translation>Flytjandi</translation>
     </message>
     <message>
       <source>Album</source>
-      <translation type="unfinished">Album</translation>
+      <translation>Hljómplata</translation>
     </message>
     <message>
       <source>Album - Disc</source>
-      <translation type="unfinished">Album - Disc</translation>
+      <translation>Hljómplata - Diskur</translation>
     </message>
     <message>
       <source>Year - Album</source>
-      <translation type="unfinished">Year - Album</translation>
+      <translation>Ár - Hljómplata</translation>
     </message>
     <message>
       <source>Year - Album - Disc</source>
-      <translation type="unfinished">Year - Album - Disc</translation>
+      <translation>Ár - Hljómplata - Diskur</translation>
     </message>
     <message>
       <source>Original year - Album</source>
-      <translation type="unfinished">Original year - Album</translation>
+      <translation>Upprunaár - Hljómplata</translation>
     </message>
     <message>
       <source>Original year - Album - Disc</source>
-      <translation type="unfinished">Original year - Album - Disc</translation>
+      <translation>Upprunaár - Hljómplata - Diskur</translation>
     </message>
     <message>
       <source>Disc</source>
-      <translation type="unfinished">Disc</translation>
+      <translation>Diskur</translation>
     </message>
     <message>
       <source>Year</source>
-      <translation type="unfinished">Year</translation>
+      <translation>Ár</translation>
     </message>
     <message>
       <source>Original year</source>
-      <translation type="unfinished">Original year</translation>
+      <translation>Upprunaár</translation>
     </message>
     <message>
       <source>Genre</source>
-      <translation type="unfinished">Genre</translation>
+      <translation>Tónlistarstíll</translation>
     </message>
     <message>
       <source>Composer</source>
-      <translation type="unfinished">Composer</translation>
+      <translation>Tónskáld</translation>
     </message>
     <message>
       <source>Performer</source>
-      <translation type="unfinished">Performer</translation>
+      <translation>Flytjandi</translation>
     </message>
     <message>
       <source>Grouping</source>
-      <translation type="unfinished">Grouping</translation>
+      <translation>Hópun</translation>
     </message>
     <message>
       <source>File type</source>
-      <translation type="unfinished">File type</translation>
+      <translation>Tegund skráar</translation>
     </message>
     <message>
       <source>Format</source>
-      <translation type="unfinished">Format</translation>
+      <translation>Snið</translation>
     </message>
     <message>
       <source>Sample rate</source>
-      <translation type="unfinished">Sample rate</translation>
+      <translation>Safntíðni</translation>
     </message>
     <message>
       <source>Bit depth</source>
-      <translation type="unfinished">Bit depth</translation>
+      <translation>Bitadýpt</translation>
     </message>
     <message>
       <source>Bitrate</source>
-      <translation type="unfinished">Bitrate</translation>
+      <translation>Bitahraði</translation>
     </message>
     <message>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>Óþekkt</translation>
     </message>
   </context>
   <context>
     <name>ScrobblerSettingsPage</name>
     <message>
       <source>Scrobbler</source>
-      <translation type="unfinished">Scrobbler</translation>
+      <translation>Scrobbler-hlustunarvenjur</translation>
     </message>
     <message>
       <source>Enable</source>
-      <translation type="unfinished">Enable</translation>
+      <translation>Virkja</translation>
     </message>
     <message>
       <source>Songs are scrobbled if they have valid metadata and are longer than 30 seconds, have been playing for at least half its duration or for 4 minutes (whichever occurs earlier).</source>
-      <translation type="unfinished">Songs are scrobbled if they have valid metadata and are longer than 30 seconds, have been playing for at least half its duration or for 4 minutes (whichever occurs earlier).</translation>
+      <translation>Skráðar eru hlustunarvenjur laga (scrobbling) ef þau eru með gild lýsigögn og eru lengri en 30 sekúndur, hafa verið spiluð að minnsta kosti til hálfs eða í 4 mínútur (hvort sem fyrr gerist).</translation>
     </message>
     <message>
       <source>Work in offline mode (Only cache scrobbles)</source>
-      <translation type="unfinished">Work in offline mode (Only cache scrobbles)</translation>
+      <translation>Vinna í ótengdum ham (einungis setja hlustunarvenjur í biðminni)</translation>
     </message>
     <message>
       <source>Show scrobble button</source>
-      <translation type="unfinished">Show scrobble button</translation>
+      <translation>Birta hnapp fyrir hlustunarvenjur</translation>
     </message>
     <message>
       <source>Show love button</source>
-      <translation type="unfinished">Show love button</translation>
+      <translation>Birta &apos;Líkar þetta&apos; hnappinn</translation>
     </message>
     <message>
       <source>Submit scrobbles every</source>
-      <translation type="unfinished">Submit scrobbles every</translation>
+      <translation>Senda inn skráningu á hlustunarvenjum (scrobbling) hverjar</translation>
     </message>
     <message>
       <source> seconds</source>
-      <translation type="unfinished"> seconds</translation>
+      <translation> sekúndur</translation>
     </message>
     <message>
       <source>(This is the delay between when a song is scrobbled and when scrobbles are submitted to the server. Setting the time to 0 seconds will submit scrobbles immediately).</source>
@@ -5786,403 +5786,403 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Prefer album artist when sending scrobbles</source>
-      <translation type="unfinished">Prefer album artist when sending scrobbles</translation>
+      <translation>Kjósa frekar flytjendur á hljómplötu þegar upplýsingar um hlustunarvenjur eru sendar inn</translation>
     </message>
     <message>
       <source>Show dialog for errors</source>
-      <translation type="unfinished">Show dialog for errors</translation>
+      <translation>Birta villuglugga</translation>
     </message>
     <message>
       <source>Strip &quot;remastered&quot; and similar from album and title</source>
-      <translation type="unfinished">Strip &quot;remastered&quot; and similar from album and title</translation>
+      <translation>Fjarlægja &quot;remastered&quot; og álíka úr heiti hljómplötu og titli</translation>
     </message>
     <message>
       <source>Enable scrobbling for the following sources:</source>
-      <translation type="unfinished">Enable scrobbling for the following sources:</translation>
+      <translation>Virkja skráningu á hlustunarvenjum (scrobbling) fyrir eftirfarandi veitur:</translation>
     </message>
     <message>
       <source>Collection</source>
-      <translation type="unfinished">Collection</translation>
+      <translation>Safn</translation>
     </message>
     <message>
       <source>Subsonic</source>
-      <translation type="unfinished">Subsonic</translation>
+      <translation>Subsonic</translation>
     </message>
     <message>
       <source>Local file</source>
-      <translation type="unfinished">Local file</translation>
+      <translation>Staðbundin skrá</translation>
     </message>
     <message>
       <source>Tidal</source>
-      <translation type="unfinished">Tidal</translation>
+      <translation>Tidal</translation>
     </message>
     <message>
       <source>Device</source>
-      <translation type="unfinished">Device</translation>
+      <translation>Tæki</translation>
     </message>
     <message>
       <source>Qobuz</source>
-      <translation type="unfinished">Qobuz</translation>
+      <translation>Qobuz</translation>
     </message>
     <message>
       <source>CDDA</source>
-      <translation type="unfinished">CDDA</translation>
+      <translation>CDDA</translation>
     </message>
     <message>
       <source>SomaFM</source>
-      <translation type="unfinished">SomaFM</translation>
+      <translation>SomaFM</translation>
     </message>
     <message>
       <source>Stream</source>
-      <translation type="unfinished">Stream</translation>
+      <translation>Streymi</translation>
     </message>
     <message>
       <source>Radio Paradise</source>
-      <translation type="unfinished">Radio Paradise</translation>
+      <translation>Radio Paradise</translation>
     </message>
     <message>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>Óþekkt</translation>
     </message>
     <message>
       <source>Last.fm</source>
-      <translation type="unfinished">Last.fm</translation>
+      <translation>Last.fm</translation>
     </message>
     <message>
       <source>Login</source>
-      <translation type="unfinished">Login</translation>
+      <translation>Innskráning</translation>
     </message>
     <message>
       <source>Libre.fm</source>
-      <translation type="unfinished">Libre.fm</translation>
+      <translation>Libre.fm</translation>
     </message>
     <message>
       <source>Listenbrainz</source>
-      <translation type="unfinished">Listenbrainz</translation>
+      <translation>Listenbrainz</translation>
     </message>
     <message>
       <source>User token:</source>
-      <translation type="unfinished">User token:</translation>
+      <translation>Aðgangsteikn notanda:</translation>
     </message>
     <message>
       <source>Enter your user token from</source>
-      <translation type="unfinished">Enter your user token from</translation>
+      <translation>Settu inn notandateiknið þitt frá</translation>
     </message>
   </context>
   <context>
     <name>ScrobblingAPI20</name>
     <message>
       <source>%1 Scrobbler Authentication</source>
-      <translation type="unfinished">%1 Scrobbler Authentication</translation>
+      <translation>Auðkenning fyrir %1 Scrobbler-hlustunarvenjur</translation>
     </message>
     <message>
       <source>Open URL in web browser?</source>
-      <translation type="unfinished">Open URL in web browser?</translation>
+      <translation>Opna slóð í vafra?</translation>
     </message>
     <message>
       <source>Press &quot;Save&quot; to copy the URL to clipboard and manually open it in a web browser.</source>
-      <translation type="unfinished">Press &quot;Save&quot; to copy the URL to clipboard and manually open it in a web browser.</translation>
+      <translation>Ýttu á &quot;Vista&quot; til að afrita slóðina á klippispjald og opnaðu hana handvirkt í vafra.</translation>
     </message>
     <message>
       <source>Could not open URL. Please open this URL in your browser</source>
-      <translation type="unfinished">Could not open URL. Please open this URL in your browser</translation>
+      <translation>Gat ekki opnað slóð. Opnaðu þessa slóð í vafranum þínum</translation>
     </message>
     <message>
       <source>Invalid reply from web browser. Missing token.</source>
-      <translation type="unfinished">Invalid reply from web browser. Missing token.</translation>
+      <translation>Fékk ógilt svar frá vafra. Vantar teikn.</translation>
     </message>
     <message>
       <source>Received invalid reply from web browser. Try another browser.</source>
-      <translation type="unfinished">Received invalid reply from web browser. Try another browser.</translation>
+      <translation>Fékk ógilt svar frá vafra. Prófaðu annan vafra.</translation>
     </message>
     <message>
       <source>Scrobbler %1 is not authenticated!</source>
-      <translation type="unfinished">Scrobbler %1 is not authenticated!</translation>
+      <translation>Ekki er auðkennt á %1 scrobbler-hlustunarvenjur!</translation>
     </message>
     <message>
       <source>Scrobbler %1 error: %2</source>
-      <translation type="unfinished">Scrobbler %1 error: %2</translation>
+      <translation>Villa í Scrobbler-hlustunarvenjum %1: %2</translation>
     </message>
   </context>
   <context>
     <name>SettingsDialog</name>
     <message>
       <source>Settings</source>
-      <translation type="unfinished">Settings</translation>
+      <translation>Stillingar</translation>
     </message>
     <message>
       <source>General</source>
-      <translation type="unfinished">General</translation>
+      <translation>Almennt</translation>
     </message>
     <message>
       <source>User interface</source>
-      <translation type="unfinished">User interface</translation>
+      <translation>Notandaviðmót</translation>
     </message>
     <message>
       <source>Streaming</source>
-      <translation type="unfinished">Streaming</translation>
+      <translation>Streymi</translation>
     </message>
   </context>
   <context>
     <name>SmartPlaylistQuerySearchPage</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
     <message>
       <source>Search mode</source>
-      <translation type="unfinished">Search mode</translation>
+      <translation>Leitarhamur</translation>
     </message>
     <message>
       <source>Match every search term (AND)</source>
-      <translation type="unfinished">Match every search term (AND)</translation>
+      <translation>Samsvara öllum leitarorðum (AND)</translation>
     </message>
     <message>
       <source>Match one or more search terms (OR)</source>
-      <translation type="unfinished">Match one or more search terms (OR)</translation>
+      <translation>Samsvara einu eða fleiri leitarorðum (OR)</translation>
     </message>
     <message>
       <source>Include all songs</source>
-      <translation type="unfinished">Include all songs</translation>
+      <translation>Hafa með öll lög</translation>
     </message>
     <message>
       <source>Search terms</source>
-      <translation type="unfinished">Search terms</translation>
+      <translation>Leitarorð</translation>
     </message>
   </context>
   <context>
     <name>SmartPlaylistQuerySortPage</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
     <message>
       <source>Sorting</source>
-      <translation type="unfinished">Sorting</translation>
+      <translation>Röðun</translation>
     </message>
     <message>
       <source>Put songs in a random order</source>
-      <translation type="unfinished">Put songs in a random order</translation>
+      <translation>Spila lög í tilviljunarkenndri röð</translation>
     </message>
     <message>
       <source>Sort songs by</source>
-      <translation type="unfinished">Sort songs by</translation>
+      <translation>Raða lögum eftir</translation>
     </message>
     <message>
       <source>Limits</source>
-      <translation type="unfinished">Limits</translation>
+      <translation>Takmörk</translation>
     </message>
     <message>
       <source>Show all the songs</source>
-      <translation type="unfinished">Show all the songs</translation>
+      <translation>Birta öll lögin</translation>
     </message>
     <message>
       <source>Only show the first</source>
-      <translation type="unfinished">Only show the first</translation>
+      <translation>Aðeins birta fyrstu</translation>
     </message>
     <message>
       <source> songs</source>
-      <translation type="unfinished"> songs</translation>
+      <translation> lög</translation>
     </message>
   </context>
   <context>
     <name>SmartPlaylistQueryWizardPlugin</name>
     <message>
       <source>Collection search</source>
-      <translation type="unfinished">Collection search</translation>
+      <translation>Leit í safni</translation>
     </message>
     <message>
       <source>Find songs in your collection that match the criteria you specify.</source>
-      <translation type="unfinished">Find songs in your collection that match the criteria you specify.</translation>
+      <translation>Finndu lög í safninu þínu sem samsvara skilyrðunum sem þú setur.</translation>
     </message>
     <message>
       <source>Search terms</source>
-      <translation type="unfinished">Search terms</translation>
+      <translation>Leitarorð</translation>
     </message>
     <message>
       <source>A song will be included in the playlist if it matches these conditions.</source>
-      <translation type="unfinished">A song will be included in the playlist if it matches these conditions.</translation>
+      <translation>Lag birtist á lagalista að ákveðnum skilyrðum uppfylltum.</translation>
     </message>
     <message>
       <source>Search options</source>
-      <translation type="unfinished">Search options</translation>
+      <translation>Valkostir leitar</translation>
     </message>
     <message>
       <source>Choose how the playlist is sorted and how many songs it will contain.</source>
-      <translation type="unfinished">Choose how the playlist is sorted and how many songs it will contain.</translation>
+      <translation>Veldu hvernig raðað er á spilunarlistann og hve mörg lög séu á honum.</translation>
     </message>
   </context>
   <context>
     <name>SmartPlaylistSearchPreview</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
     <message>
       <source>Preview</source>
-      <translation type="unfinished">Preview</translation>
+      <translation>Forskoða</translation>
     </message>
     <message>
       <source>Loading...</source>
-      <translation type="unfinished">Loading...</translation>
+      <translation>Hleð inn...</translation>
     </message>
     <message>
       <source>%1 songs found (showing %2)</source>
-      <translation type="unfinished">%1 songs found (showing %2)</translation>
+      <translation>%1 lög fundust (birti %2)</translation>
     </message>
     <message>
       <source>%1 songs found</source>
-      <translation type="unfinished">%1 songs found</translation>
+      <translation>%1 lög fundust</translation>
     </message>
   </context>
   <context>
     <name>SmartPlaylistSearchTermWidget</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
     <message>
       <source>and</source>
-      <translation type="unfinished">and</translation>
+      <translation>og</translation>
     </message>
     <message>
       <source>ago</source>
-      <translation type="unfinished">ago</translation>
+      <translation>síðan</translation>
     </message>
     <message>
       <source>The second value must be greater than the first one!</source>
-      <translation type="unfinished">The second value must be greater than the first one!</translation>
+      <translation>Seinna gildið verður að vera hærra en það fyrsta!</translation>
     </message>
   </context>
   <context>
     <name>SmartPlaylistSearchTermWidgetOverlay</name>
     <message>
       <source>Add search term</source>
-      <translation type="unfinished">Add search term</translation>
+      <translation>Bæta við leitarorði</translation>
     </message>
   </context>
   <context>
     <name>SmartPlaylistWizard</name>
     <message>
       <source>Smart playlist</source>
-      <translation type="unfinished">Smart playlist</translation>
+      <translation>Snjall spilunarlisti</translation>
     </message>
     <message>
       <source>Playlist type</source>
-      <translation type="unfinished">Playlist type</translation>
+      <translation>Gerð spilunarlista</translation>
     </message>
     <message>
       <source>A smart playlist is a dynamic list of songs that come from your collection.  There are different types of smart playlist that offer different ways of selecting songs.</source>
-      <translation type="unfinished">A smart playlist is a dynamic list of songs that come from your collection.  There are different types of smart playlist that offer different ways of selecting songs.</translation>
+      <translation>Snjall spilunarlisti er breytilegur listi með lögum úr safninu þínu Til eru mismunandi gerðir snjallra spilunarlista sem bjóða upp á mismunandi leiðir við val á lögum.</translation>
     </message>
     <message>
       <source>Finish</source>
-      <translation type="unfinished">Finish</translation>
+      <translation>Lokið</translation>
     </message>
     <message>
       <source>Choose a name for your smart playlist</source>
-      <translation type="unfinished">Choose a name for your smart playlist</translation>
+      <translation>Veldu nafn á snjalla spilunarlistann</translation>
     </message>
   </context>
   <context>
     <name>SmartPlaylistWizardFinishPage</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
     <message>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nafn</translation>
     </message>
     <message>
       <source>Use dynamic mode</source>
-      <translation type="unfinished">Use dynamic mode</translation>
+      <translation>Nota breytilegan ham</translation>
     </message>
     <message>
       <source>In dynamic mode new tracks will be chosen and added to the playlist every time a song finishes.</source>
-      <translation type="unfinished">In dynamic mode new tracks will be chosen and added to the playlist every time a song finishes.</translation>
+      <translation>Í breytilegum ham verða ný lög valin og bætt við spilunarlistann í hvert skipti sem spilun á lagi lýkur.</translation>
     </message>
   </context>
   <context>
     <name>SmartPlaylists</name>
     <message>
       <source>Newest tracks</source>
-      <translation type="unfinished">Newest tracks</translation>
+      <translation>Nýjustu lögin</translation>
     </message>
     <message>
       <source>50 random tracks</source>
-      <translation type="unfinished">50 random tracks</translation>
+      <translation>50 slembin lög</translation>
     </message>
     <message>
       <source>Ever played</source>
-      <translation type="unfinished">Ever played</translation>
+      <translation>Spilað einhverntíma</translation>
     </message>
     <message>
       <source>Never played</source>
-      <translation type="unfinished">Never played</translation>
+      <translation>Aldrei spilað</translation>
     </message>
     <message>
       <source>Last played</source>
-      <translation type="unfinished">Last played</translation>
+      <translation>Síðast spilað</translation>
     </message>
     <message>
       <source>Most played</source>
-      <translation type="unfinished">Most played</translation>
+      <translation>Mest spilað</translation>
     </message>
     <message>
       <source>Favourite tracks</source>
-      <translation type="unfinished">Favourite tracks</translation>
+      <translation>Eftirlætislög</translation>
     </message>
     <message>
       <source>All tracks</source>
-      <translation type="unfinished">All tracks</translation>
+      <translation>Öll lög</translation>
     </message>
     <message>
       <source>Dynamic random mix</source>
-      <translation type="unfinished">Dynamic random mix</translation>
+      <translation>Breytilegt slembið mix</translation>
     </message>
   </context>
   <context>
     <name>SmartPlaylistsViewContainer</name>
     <message>
       <source>New smart playlist</source>
-      <translation type="unfinished">New smart playlist</translation>
+      <translation>Nýr snjall spilunarlisti</translation>
     </message>
     <message>
       <source>Edit smart playlist</source>
-      <translation type="unfinished">Edit smart playlist</translation>
+      <translation>Breyta snjöllum spilunarlista</translation>
     </message>
     <message>
       <source>Delete smart playlist</source>
-      <translation type="unfinished">Delete smart playlist</translation>
+      <translation>Eyða snjöllum spilunarlista</translation>
     </message>
     <message>
       <source>New smart playlist...</source>
-      <translation type="unfinished">New smart playlist...</translation>
+      <translation>Nýr snjall spilunarlisti...</translation>
     </message>
     <message>
       <source>Append to current playlist</source>
-      <translation type="unfinished">Append to current playlist</translation>
+      <translation>Bæta við fyrirliggjandi lagalista</translation>
     </message>
     <message>
       <source>Replace current playlist</source>
-      <translation type="unfinished">Replace current playlist</translation>
+      <translation>Skipta út fyrirliggjandi spilunarlista</translation>
     </message>
     <message>
       <source>Open in new playlist</source>
-      <translation type="unfinished">Open in new playlist</translation>
+      <translation>Opna í nýjum spilunarlista</translation>
     </message>
     <message>
       <source>Queue track</source>
-      <translation type="unfinished">Queue track</translation>
+      <translation>Setja lag í biðröð</translation>
     </message>
     <message>
       <source>Play next</source>
-      <translation type="unfinished">Play next</translation>
+      <translation>Spila næsta</translation>
     </message>
     <message>
       <source>Edit smart playlist...</source>
-      <translation type="unfinished">Edit smart playlist...</translation>
+      <translation>Sýsla með snjallan spilunarlista...</translation>
     </message>
   </context>
   <context>
@@ -6193,7 +6193,7 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>It is detected that Strawberry is running as a Snap</source>
-      <translation type="unfinished">It is detected that Strawberry is running as a Snap</translation>
+      <translation>Það greindist að Strawberry sé að keyra sem Snap-pakki</translation>
     </message>
     <message>
       <source>Strawberry is slower, and has restrictions when running as a Snap. Accessing the root filesystem (/) will not work. There also might be other restrictions such as accessing certain devices or network shares.</source>
@@ -6201,11 +6201,11 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>For Ubuntu there is an official PPA repository available at %1.</source>
-      <translation type="unfinished">For Ubuntu there is an official PPA repository available at %1.</translation>
+      <translation>Fyrir Ubuntu er opinbert PPA-hugbúnaðarsafn tiltækt á %1.</translation>
     </message>
     <message>
       <source>Official releases are available for Debian and Ubuntu which also work on most of their derivatives. See %1 for more information.</source>
-      <translation type="unfinished">Official releases are available for Debian and Ubuntu which also work on most of their derivatives. See %1 for more information.</translation>
+      <translation>Hægt er að fá opinberar útgáfur fyrir Debian og Ubuntu, sem virka einnig á afleiddum kerfum. Skoðaðu %1 til að fá frekari upplýsingar.</translation>
     </message>
     <message>
       <source>For a better experience please consider the other options above.</source>
@@ -6221,21 +6221,21 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Install strawberry through PPA:</source>
-      <translation type="unfinished">Install strawberry through PPA:</translation>
+      <translation>Settu Strawberry upp frá PPA:</translation>
     </message>
   </context>
   <context>
     <name>SomaFMService</name>
     <message>
       <source>Getting %1 channels</source>
-      <translation type="unfinished">Getting %1 channels</translation>
+      <translation>Sæki %1 rásir</translation>
     </message>
   </context>
   <context>
     <name>SongLoader</name>
     <message>
       <source>You need GStreamer for this URL.</source>
-      <translation type="unfinished">You need GStreamer for this URL.</translation>
+      <translation>Þú þarft GStreamer fyrir þessa slóð.</translation>
     </message>
     <message>
       <source>Preload function was not set for blocking operation.</source>
@@ -6243,23 +6243,23 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>File %1 does not exist.</source>
-      <translation type="unfinished">File %1 does not exist.</translation>
+      <translation>Skráin %1 er ekki til.</translation>
     </message>
     <message>
       <source>CD playback is only available with the GStreamer engine.</source>
-      <translation type="unfinished">CD playback is only available with the GStreamer engine.</translation>
+      <translation>CD-afspilun er aðeins tiltæk með GStreamer-vélinni.</translation>
     </message>
     <message>
       <source>Could not open file %1 for reading: %2</source>
-      <translation type="unfinished">Could not open file %1 for reading: %2</translation>
+      <translation>Get ekki opnað skrána %1 til lestrar: %2</translation>
     </message>
     <message>
       <source>Could not open CUE file %1 for reading: %2</source>
-      <translation type="unfinished">Could not open CUE file %1 for reading: %2</translation>
+      <translation>Get ekki opnað CUE-skrána %1 til lestrar: %2</translation>
     </message>
     <message>
       <source>Could not open playlist file %1 for reading: %2</source>
-      <translation type="unfinished">Could not open playlist file %1 for reading: %2</translation>
+      <translation>Get ekki opnað spilunarlistaskrána %1 til lestrar: %2</translation>
     </message>
     <message>
       <source>Couldn&apos;t create GStreamer source element for %1</source>
@@ -6282,81 +6282,81 @@ Are you sure you want to continue?</translation>
     <name>SongLoaderInserter</name>
     <message>
       <source>Error while loading audio CD.</source>
-      <translation type="unfinished">Error while loading audio CD.</translation>
+      <translation>Villa við að hlaða inn CD-hljómdiski.</translation>
     </message>
     <message>
       <source>Loading tracks</source>
-      <translation type="unfinished">Loading tracks</translation>
+      <translation>Hleð inn lögum</translation>
     </message>
     <message>
       <source>Loading tracks info</source>
-      <translation type="unfinished">Loading tracks info</translation>
+      <translation>Hleð inn upplýsingum um lög</translation>
     </message>
   </context>
   <context>
     <name>SpotifyRequest</name>
     <message>
       <source>Authenticating...</source>
-      <translation type="unfinished">Authenticating...</translation>
+      <translation>Auðkenni...</translation>
     </message>
     <message>
       <source>Receiving artists...</source>
-      <translation type="unfinished">Receiving artists...</translation>
+      <translation>Næ í flytjendur...</translation>
     </message>
     <message>
       <source>Receiving albums...</source>
-      <translation type="unfinished">Receiving albums...</translation>
+      <translation>Næ í hljómplötur...</translation>
     </message>
     <message>
       <source>Receiving songs...</source>
-      <translation type="unfinished">Receiving songs...</translation>
+      <translation>Næ í lög...</translation>
     </message>
     <message>
       <source>Searching...</source>
-      <translation type="unfinished">Searching...</translation>
+      <translation>Leita...</translation>
     </message>
     <message>
       <source>Receiving albums for %1 artist...</source>
-      <translation type="unfinished">Receiving albums for %1 artist...</translation>
+      <translation>Næ í hljómplötur fyrir %1 flytjanda...</translation>
     </message>
     <message>
       <source>Receiving albums for %1 artists...</source>
-      <translation type="unfinished">Receiving albums for %1 artists...</translation>
+      <translation>Næ í hljómplötur fyrir %1 flytjendur...</translation>
     </message>
     <message>
       <source>Receiving songs for %1 album...</source>
-      <translation type="unfinished">Receiving songs for %1 album...</translation>
+      <translation>Næ í lög fyrir %1 hljómplötu...</translation>
     </message>
     <message>
       <source>Receiving songs for %1 albums...</source>
-      <translation type="unfinished">Receiving songs for %1 albums...</translation>
+      <translation>Næ í lög fyrir %1 hljómplötur...</translation>
     </message>
     <message>
       <source>Receiving album cover for %1 album...</source>
-      <translation type="unfinished">Receiving album cover for %1 album...</translation>
+      <translation>Næ í umslag fyrir %1 hljómplötu...</translation>
     </message>
     <message>
       <source>Receiving album covers for %1 albums...</source>
-      <translation type="unfinished">Receiving album covers for %1 albums...</translation>
+      <translation>Næ í umslög fyrir %1 hljómplötur...</translation>
     </message>
     <message>
       <source>No match.</source>
-      <translation type="unfinished">No match.</translation>
+      <translation>Engin samsvörun.</translation>
     </message>
     <message>
       <source>Data missing error</source>
-      <translation type="unfinished">Data missing error</translation>
+      <translation>Villa vegna gagna sem vantar</translation>
     </message>
   </context>
   <context>
     <name>SpotifyService</name>
     <message>
       <source>Spotify Authentication</source>
-      <translation type="unfinished">Spotify Authentication</translation>
+      <translation>Spotify auðkenning</translation>
     </message>
     <message>
       <source>Please open this URL in your browser</source>
-      <translation type="unfinished">Please open this URL in your browser</translation>
+      <translation>Opnaðu þessa slóð í vafranum þínum</translation>
     </message>
     <message>
       <source>Redirect missing token code or state!</source>
@@ -6364,11 +6364,11 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Received invalid reply from web browser.</source>
-      <translation type="unfinished">Received invalid reply from web browser.</translation>
+      <translation>Fékk ógilt svar frá vafra.</translation>
     </message>
     <message>
       <source>Not authenticated with Spotify.</source>
-      <translation type="unfinished">Not authenticated with Spotify.</translation>
+      <translation>Ekki auðkennt á Spotify.</translation>
     </message>
   </context>
   <context>
@@ -6379,15 +6379,15 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Enable</source>
-      <translation type="unfinished">Enable</translation>
+      <translation>Virkja</translation>
     </message>
     <message>
       <source>Basic authentication</source>
-      <translation type="unfinished">Basic authentication</translation>
+      <translation>Einföld auðkenning</translation>
     </message>
     <message>
       <source>Authenticate</source>
-      <translation type="unfinished">Authenticate</translation>
+      <translation>Auðkenna</translation>
     </message>
     <message>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The GStreamer Spotify plugin is not detected, you will not be able to stream songs from Spotify without it. See &lt;a href=&quot;https://wiki.strawberrymusicplayer.org/wiki/Installing_GStreamer_Spotify_plugin&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;Wiki&lt;/span&gt;&lt;/a&gt; for instructions on how to install the plugin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -6395,39 +6395,39 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Preferences</source>
-      <translation type="unfinished">Preferences</translation>
+      <translation>Kjörstillingar</translation>
     </message>
     <message>
       <source>Search delay</source>
-      <translation type="unfinished">Search delay</translation>
+      <translation>Töf við leit</translation>
     </message>
     <message>
       <source>ms</source>
-      <translation type="unfinished">ms</translation>
+      <translation>msek</translation>
     </message>
     <message>
       <source>Artists search limit</source>
-      <translation type="unfinished">Artists search limit</translation>
+      <translation>Leitarmörk flytjenda</translation>
     </message>
     <message>
       <source>Albums search limit</source>
-      <translation type="unfinished">Albums search limit</translation>
+      <translation>Leitarmörk hljómplatna</translation>
     </message>
     <message>
       <source>Songs search limit</source>
-      <translation type="unfinished">Songs search limit</translation>
+      <translation>Leitarmörk laga</translation>
     </message>
     <message>
       <source>Download album covers</source>
-      <translation type="unfinished">Download album covers</translation>
+      <translation>Sækja plötuumslög</translation>
     </message>
     <message>
       <source>Fetch entire albums when searching songs</source>
-      <translation type="unfinished">Fetch entire albums when searching songs</translation>
+      <translation>Ná í heilar hljómplötur þegar leitað er að lögum</translation>
     </message>
     <message>
       <source>Authentication failed</source>
-      <translation type="unfinished">Authentication failed</translation>
+      <translation>Auðkenning mistókst</translation>
     </message>
   </context>
   <context>
@@ -6438,57 +6438,57 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Click here to retrieve music</source>
-      <translation type="unfinished">Click here to retrieve music</translation>
+      <translation>Smelltu hér til að ná í tónlist</translation>
     </message>
     <message>
       <source>Append to current playlist</source>
-      <translation type="unfinished">Append to current playlist</translation>
+      <translation>Bæta við fyrirliggjandi lagalista</translation>
     </message>
     <message>
       <source>Replace current playlist</source>
-      <translation type="unfinished">Replace current playlist</translation>
+      <translation>Skipta út fyrirliggjandi spilunarlista</translation>
     </message>
     <message>
       <source>Open in new playlist</source>
-      <translation type="unfinished">Open in new playlist</translation>
+      <translation>Opna í nýjum spilunarlista</translation>
     </message>
     <message>
       <source>Queue track</source>
-      <translation type="unfinished">Queue track</translation>
+      <translation>Setja lag í biðröð</translation>
     </message>
     <message>
       <source>Queue to play next</source>
-      <translation type="unfinished">Queue to play next</translation>
+      <translation>Setja í biðröð til að spila næst</translation>
     </message>
     <message>
       <source>Remove from favorites</source>
-      <translation type="unfinished">Remove from favorites</translation>
+      <translation>Fjarlægja úr eftirlætum</translation>
     </message>
   </context>
   <context>
     <name>StreamingCollectionViewContainer</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
     <message>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>Loka</translation>
     </message>
     <message>
       <source>Abort</source>
-      <translation type="unfinished">Abort</translation>
+      <translation>Um</translation>
     </message>
     <message>
       <source>Refresh catalogue</source>
-      <translation type="unfinished">Refresh catalogue</translation>
+      <translation>Endurlesa yfirlitsskrá</translation>
     </message>
   </context>
   <context>
     <name>StreamingSearchModel</name>
     <message>
       <source>Various artists</source>
-      <translation type="unfinished">Various artists</translation>
+      <translation>Ýmsir flytjendur</translation>
     </message>
   </context>
   <context>
@@ -6503,66 +6503,66 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>artists</source>
-      <translation type="unfinished">artists</translation>
+      <translation>flytjendur</translation>
     </message>
     <message>
       <source>albums</source>
-      <translation type="unfinished">albums</translation>
+      <translation>hljómplötur</translation>
     </message>
     <message>
       <source>songs</source>
-      <translation type="unfinished">songs</translation>
+      <translation>lög</translation>
     </message>
     <message>
       <source>Enter search terms above to find music</source>
-      <translation type="unfinished">Enter search terms above to find music</translation>
+      <translation>Settu inn leitarstreng hér fyrir ofan til að finna tónlist</translation>
     </message>
     <message>
       <source>Configure %1...</source>
-      <translation type="unfinished">Configure %1...</translation>
+      <translation>Grunnstilla %1...</translation>
     </message>
     <message>
       <source>Append to current playlist</source>
-      <translation type="unfinished">Append to current playlist</translation>
+      <translation>Bæta við núverandi lagalista</translation>
     </message>
     <message>
       <source>Replace current playlist</source>
-      <translation type="unfinished">Replace current playlist</translation>
+      <translation>Skipta út núverandi spilunarlista</translation>
     </message>
     <message>
       <source>Open in new playlist</source>
-      <translation type="unfinished">Open in new playlist</translation>
+      <translation>Opna í nýjum spilunarlista</translation>
     </message>
     <message>
       <source>Queue track</source>
-      <translation type="unfinished">Queue track</translation>
+      <translation>Setja í biðröð</translation>
     </message>
     <message>
       <source>Add to artists</source>
-      <translation type="unfinished">Add to artists</translation>
+      <translation>Bæta í flytjendur</translation>
     </message>
     <message>
       <source>Add to albums</source>
-      <translation type="unfinished">Add to albums</translation>
+      <translation>Bæta í hljómplötur</translation>
     </message>
     <message>
       <source>Add to songs</source>
-      <translation type="unfinished">Add to songs</translation>
+      <translation>Bæta við í lög</translation>
     </message>
     <message>
       <source>Search for this</source>
-      <translation type="unfinished">Search for this</translation>
+      <translation>Leita að þessu</translation>
     </message>
     <message>
       <source>Group by</source>
-      <translation type="unfinished">Group by</translation>
+      <translation>Hópa eftir</translation>
     </message>
   </context>
   <context>
     <name>StreamingSongsView</name>
     <message>
       <source>Configure %1...</source>
-      <translation type="unfinished">Configure %1...</translation>
+      <translation>Grunnstilla %1...</translation>
     </message>
   </context>
   <context>
@@ -6573,23 +6573,23 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Artists</source>
-      <translation type="unfinished">Artists</translation>
+      <translation>Flytjendur</translation>
     </message>
     <message>
       <source>Albums</source>
-      <translation type="unfinished">Albums</translation>
+      <translation>Hljómplötur</translation>
     </message>
     <message>
       <source>Songs</source>
-      <translation type="unfinished">Songs</translation>
+      <translation>Lög</translation>
     </message>
     <message>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>Leita</translation>
     </message>
     <message>
       <source>Configure %1...</source>
-      <translation type="unfinished">Configure %1...</translation>
+      <translation>Stilla %1...</translation>
     </message>
   </context>
   <context>
@@ -6616,7 +6616,7 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Unknown error</source>
-      <translation type="unfinished">Unknown error</translation>
+      <translation>Óþekkt villa</translation>
     </message>
   </context>
   <context>
@@ -6627,7 +6627,7 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Missing username or password.</source>
-      <translation type="unfinished">Missing username or password.</translation>
+      <translation>Vantar notandanafn eða lykilorð.</translation>
     </message>
   </context>
   <context>
@@ -6638,27 +6638,27 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Enable</source>
-      <translation type="unfinished">Enable</translation>
+      <translation>Virkja</translation>
     </message>
     <message>
       <source>Server URL</source>
-      <translation type="unfinished">Server URL</translation>
+      <translation>Slóð þjóns</translation>
     </message>
     <message>
       <source>Authentication</source>
-      <translation type="unfinished">Authentication</translation>
+      <translation>Auðkenning</translation>
     </message>
     <message>
       <source>Username</source>
-      <translation type="unfinished">Username</translation>
+      <translation>Notandanafn</translation>
     </message>
     <message>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Lykilorð</translation>
     </message>
     <message>
       <source>Authentication method:</source>
-      <translation type="unfinished">Authentication method:</translation>
+      <translation>Auðkenningaraðferð:</translation>
     </message>
     <message>
       <source>Hex</source>
@@ -6666,11 +6666,11 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>MD5 token (Recommended)</source>
-      <translation type="unfinished">MD5 token (Recommended)</translation>
+      <translation>MD5-teikn (mælt er með þessu)</translation>
     </message>
     <message>
       <source>Preferences</source>
-      <translation type="unfinished">Preferences</translation>
+      <translation>Kjörstillingar</translation>
     </message>
     <message>
       <source>Use HTTP/2 when possible</source>
@@ -6678,35 +6678,35 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Verify server certificate</source>
-      <translation type="unfinished">Verify server certificate</translation>
+      <translation>Sannreyna skilríki þjóns</translation>
     </message>
     <message>
       <source>Download album covers</source>
-      <translation type="unfinished">Download album covers</translation>
+      <translation>Sækja plötuumslög</translation>
     </message>
     <message>
       <source>Server-side scrobbling</source>
-      <translation type="unfinished">Server-side scrobbling</translation>
+      <translation>Skráning á hlustunarvenjum (scrobbling) á netþjóni</translation>
     </message>
     <message>
       <source>Test</source>
-      <translation type="unfinished">Test</translation>
+      <translation>Prófa</translation>
     </message>
     <message>
       <source>Delete songs</source>
-      <translation type="unfinished">Delete songs</translation>
+      <translation>Eyða lögum</translation>
     </message>
     <message>
       <source>Configuration incomplete</source>
-      <translation type="unfinished">Configuration incomplete</translation>
+      <translation>Ófullgerð uppsetning</translation>
     </message>
     <message>
       <source>Missing server url, username or password.</source>
-      <translation type="unfinished">Missing server url, username or password.</translation>
+      <translation>Vantar slóð á netþjón, notandanafn eða lykilorð.</translation>
     </message>
     <message>
       <source>Configuration incorrect</source>
-      <translation type="unfinished">Configuration incorrect</translation>
+      <translation>Röng uppsetning</translation>
     </message>
     <message>
       <source>Server URL is invalid.</source>
@@ -6718,7 +6718,7 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Test failed!</source>
-      <translation type="unfinished">Test failed!</translation>
+      <translation>Prófun mistókst!</translation>
     </message>
   </context>
   <context>
@@ -6729,84 +6729,84 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Missing Subsonic username or password.</source>
-      <translation type="unfinished">Missing Subsonic username or password.</translation>
+      <translation>Vantar Subsonic-notandanafn eða lykilorð.</translation>
     </message>
   </context>
   <context>
     <name>SystemTrayIcon</name>
     <message>
       <source>Pause</source>
-      <translation type="unfinished">Pause</translation>
+      <translation>Í bið</translation>
     </message>
     <message>
       <source>Play</source>
-      <translation type="unfinished">Play</translation>
+      <translation>Spila</translation>
     </message>
   </context>
   <context>
     <name>TagFetcher</name>
     <message>
       <source>Identifying song</source>
-      <translation type="unfinished">Identifying song</translation>
+      <translation>Greini lag</translation>
     </message>
     <message>
       <source>Fingerprinting song</source>
-      <translation type="unfinished">Fingerprinting song</translation>
+      <translation>Tek fingrafar af lagi</translation>
     </message>
     <message>
       <source>Downloading metadata</source>
-      <translation type="unfinished">Downloading metadata</translation>
+      <translation>Sæki lýsigögn</translation>
     </message>
   </context>
   <context>
     <name>TidalRequest</name>
     <message>
       <source>Authenticating...</source>
-      <translation type="unfinished">Authenticating...</translation>
+      <translation>Auðkenni...</translation>
     </message>
     <message>
       <source>Receiving artists...</source>
-      <translation type="unfinished">Receiving artists...</translation>
+      <translation>Næ í flytjendur...</translation>
     </message>
     <message>
       <source>Receiving albums...</source>
-      <translation type="unfinished">Receiving albums...</translation>
+      <translation>Næ í hljómplötur...</translation>
     </message>
     <message>
       <source>Receiving songs...</source>
-      <translation type="unfinished">Receiving songs...</translation>
+      <translation>Næ í lög...</translation>
     </message>
     <message>
       <source>Searching...</source>
-      <translation type="unfinished">Searching...</translation>
+      <translation>Leita...</translation>
     </message>
     <message>
       <source>Receiving albums for %1 artist...</source>
-      <translation type="unfinished">Receiving albums for %1 artist...</translation>
+      <translation>Næ í hljómplötur fyrir %1 flytjanda...</translation>
     </message>
     <message>
       <source>Receiving albums for %1 artists...</source>
-      <translation type="unfinished">Receiving albums for %1 artists...</translation>
+      <translation>Næ í hljómplötur fyrir %1 flytjendur...</translation>
     </message>
     <message>
       <source>Receiving songs for %1 album...</source>
-      <translation type="unfinished">Receiving songs for %1 album...</translation>
+      <translation>Næ í lög fyrir %1 hljómplötu...</translation>
     </message>
     <message>
       <source>Receiving songs for %1 albums...</source>
-      <translation type="unfinished">Receiving songs for %1 albums...</translation>
+      <translation>Næ í lög fyrir %1 hljómplötur...</translation>
     </message>
     <message>
       <source>Receiving album cover for %1 album...</source>
-      <translation type="unfinished">Receiving album cover for %1 album...</translation>
+      <translation>Næ í umslag fyrir %1 hljómplötu...</translation>
     </message>
     <message>
       <source>Receiving album covers for %1 albums...</source>
-      <translation type="unfinished">Receiving album covers for %1 albums...</translation>
+      <translation>Næ í umslög fyrir %1 hljómplötur...</translation>
     </message>
     <message>
       <source>No match.</source>
-      <translation type="unfinished">No match.</translation>
+      <translation>Engin samsvörun.</translation>
     </message>
   </context>
   <context>
@@ -6817,38 +6817,38 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Missing Tidal API token.</source>
-      <translation type="unfinished">Missing Tidal API token.</translation>
+      <translation>Vantar API-teikn á Tidal.</translation>
     </message>
     <message>
       <source>Missing Tidal username.</source>
-      <translation type="unfinished">Missing Tidal username.</translation>
+      <translation>Vantar Tidal-notandanafn.</translation>
     </message>
     <message>
       <source>Missing Tidal password.</source>
-      <translation type="unfinished">Missing Tidal password.</translation>
+      <translation>Vantar Tidal-lykilorð.</translation>
     </message>
     <message>
       <source>Not authenticated with Tidal and reached maximum number of login attempts.</source>
-      <translation type="unfinished">Not authenticated with Tidal and reached maximum number of login attempts.</translation>
+      <translation>Ekki auðkennt á Tidal og hámarksfjölda innskráningartilrauna náð.</translation>
     </message>
     <message>
       <source>Not authenticated with Tidal.</source>
-      <translation type="unfinished">Not authenticated with Tidal.</translation>
+      <translation>Ekki auðkennt á Tidal.</translation>
     </message>
     <message>
       <source>Missing Tidal API token, username or password.</source>
-      <translation type="unfinished">Missing Tidal API token, username or password.</translation>
+      <translation>Vantar API-teikn á Tidal, notandanafn eða lykilorð.</translation>
     </message>
   </context>
   <context>
     <name>TidalSettingsPage</name>
     <message>
       <source>Tidal</source>
-      <translation type="unfinished">Tidal</translation>
+      <translation>Tidal</translation>
     </message>
     <message>
       <source>Enable</source>
-      <translation type="unfinished">Enable</translation>
+      <translation>Virkja</translation>
     </message>
     <message>
       <source>Tidal support is not official and requires a API token from a registered application to work. We can&apos;t help you getting these.</source>
@@ -6856,7 +6856,7 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Authentication</source>
-      <translation type="unfinished">Authentication</translation>
+      <translation>Auðkenning</translation>
     </message>
     <message>
       <source>Use OAuth</source>
@@ -6864,63 +6864,63 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Client ID</source>
-      <translation type="unfinished">Client ID</translation>
+      <translation>Auðkenni biðlara</translation>
     </message>
     <message>
       <source>API Token</source>
-      <translation type="unfinished">API Token</translation>
+      <translation>API-teikn</translation>
     </message>
     <message>
       <source>Username</source>
-      <translation type="unfinished">Username</translation>
+      <translation>Notandanafn</translation>
     </message>
     <message>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Lykilorð</translation>
     </message>
     <message>
       <source>Login</source>
-      <translation type="unfinished">Login</translation>
+      <translation>Innskráning</translation>
     </message>
     <message>
       <source>Preferences</source>
-      <translation type="unfinished">Preferences</translation>
+      <translation>Kjörstillingar</translation>
     </message>
     <message>
       <source>Audio quality</source>
-      <translation type="unfinished">Audio quality</translation>
+      <translation>Hljóðgæði</translation>
     </message>
     <message>
       <source>Search delay</source>
-      <translation type="unfinished">Search delay</translation>
+      <translation>Töf við leit</translation>
     </message>
     <message>
       <source>ms</source>
-      <translation type="unfinished">ms</translation>
+      <translation>msek</translation>
     </message>
     <message>
       <source>Artists search limit</source>
-      <translation type="unfinished">Artists search limit</translation>
+      <translation>Leitarmörk flytjenda</translation>
     </message>
     <message>
       <source>Albums search limit</source>
-      <translation type="unfinished">Albums search limit</translation>
+      <translation>Leitarmörk hljómplatna</translation>
     </message>
     <message>
       <source>Songs search limit</source>
-      <translation type="unfinished">Songs search limit</translation>
+      <translation>Leitarmörk laga</translation>
     </message>
     <message>
       <source>Download album covers</source>
-      <translation type="unfinished">Download album covers</translation>
+      <translation>Sækja plötuumslög</translation>
     </message>
     <message>
       <source>Fetch entire albums when searching songs</source>
-      <translation type="unfinished">Fetch entire albums when searching songs</translation>
+      <translation>Ná í heilar hljómplötur þegar leitað er að lögum</translation>
     </message>
     <message>
       <source>Album cover size</source>
-      <translation type="unfinished">Album cover size</translation>
+      <translation>Stærð plötuumslags</translation>
     </message>
     <message>
       <source>Stream URL method</source>
@@ -6932,42 +6932,42 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Configuration incomplete</source>
-      <translation type="unfinished">Configuration incomplete</translation>
+      <translation>Ófullgerð uppsetning</translation>
     </message>
     <message>
       <source>Missing Tidal client ID.</source>
-      <translation type="unfinished">Missing Tidal client ID.</translation>
+      <translation>Vantar Tidal-auðkenni biðlara</translation>
     </message>
     <message>
       <source>Missing API token.</source>
-      <translation type="unfinished">Missing API token.</translation>
+      <translation>API-teikn vantar.</translation>
     </message>
     <message>
       <source>Missing username.</source>
-      <translation type="unfinished">Missing username.</translation>
+      <translation>Vantar notandanafn.</translation>
     </message>
     <message>
       <source>Missing password.</source>
-      <translation type="unfinished">Missing password.</translation>
+      <translation>Lykilorð vantar.</translation>
     </message>
     <message>
       <source>Authentication failed</source>
-      <translation type="unfinished">Authentication failed</translation>
+      <translation>Auðkenning mistókst</translation>
     </message>
   </context>
   <context>
     <name>TidalStreamURLRequest</name>
     <message>
       <source>Not authenticated with Tidal.</source>
-      <translation type="unfinished">Not authenticated with Tidal.</translation>
+      <translation>Ekki auðkennt á Tidal.</translation>
     </message>
     <message>
       <source>Missing Tidal API token, username or password.</source>
-      <translation type="unfinished">Missing Tidal API token, username or password.</translation>
+      <translation>Vantar API-teikn á Tidal, notandanafn eða lykilorð.</translation>
     </message>
     <message>
       <source>Cancelled.</source>
-      <translation type="unfinished">Cancelled.</translation>
+      <translation>Hætt við.</translation>
     </message>
     <message>
       <source>Received URL with %1 encrypted stream from Tidal. Strawberry does not currently support encrypted streams.</source>
@@ -6982,11 +6982,11 @@ Are you sure you want to continue?</translation>
     <name>TrackSelectionDialog</name>
     <message>
       <source>Tag fetcher</source>
-      <translation type="unfinished">Tag fetcher</translation>
+      <translation>Merkjasækir</translation>
     </message>
     <message>
       <source>Sorry</source>
-      <translation type="unfinished">Sorry</translation>
+      <translation>Því miður</translation>
     </message>
     <message>
       <source>Strawberry was unable to find results for this file</source>
@@ -6994,576 +6994,576 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Select best possible match</source>
-      <translation type="unfinished">Select best possible match</translation>
+      <translation>Velja bestu mögulegu samsvörun</translation>
     </message>
     <message>
       <source>Track</source>
-      <translation type="unfinished">Track</translation>
+      <translation>Lag</translation>
     </message>
     <message>
       <source>Year</source>
-      <translation type="unfinished">Year</translation>
+      <translation>Ár</translation>
     </message>
     <message>
       <source>Title</source>
-      <translation type="unfinished">Title</translation>
+      <translation>Titill</translation>
     </message>
     <message>
       <source>Artist</source>
-      <translation type="unfinished">Artist</translation>
+      <translation>Flytjandi</translation>
     </message>
     <message>
       <source>Album</source>
-      <translation type="unfinished">Album</translation>
+      <translation>Hljómplata</translation>
     </message>
     <message>
       <source>Previous</source>
-      <translation type="unfinished">Previous</translation>
+      <translation>Fyrri</translation>
     </message>
     <message>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>Næst</translation>
     </message>
     <message>
       <source>Original tags</source>
-      <translation type="unfinished">Original tags</translation>
+      <translation>Upprunaleg merki</translation>
     </message>
     <message>
       <source>Suggested tags</source>
-      <translation type="unfinished">Suggested tags</translation>
+      <translation>Merki sem mælt er með</translation>
     </message>
     <message>
       <source>Saving tracks</source>
-      <translation type="unfinished">Saving tracks</translation>
+      <translation>Vista lög</translation>
     </message>
   </context>
   <context>
     <name>TrackSlider</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
     <message>
       <source>0:00:00</source>
-      <translation type="unfinished">0:00:00</translation>
+      <translation>0:00:00</translation>
     </message>
     <message>
       <source>Click to toggle between remaining time and total time</source>
-      <translation type="unfinished">Click to toggle between remaining time and total time</translation>
+      <translation>Smelltu til að víxla á milli heildartíma og tíma sem er eftir</translation>
     </message>
   </context>
   <context>
     <name>TranscodeDialog</name>
     <message>
       <source>Transcode Music</source>
-      <translation type="unfinished">Transcode Music</translation>
+      <translation>Umkóða tónlist</translation>
     </message>
     <message>
       <source>Files to transcode</source>
-      <translation type="unfinished">Files to transcode</translation>
+      <translation>Skrár sem á að umkóða</translation>
     </message>
     <message>
       <source>Filename</source>
-      <translation type="unfinished">Filename</translation>
+      <translation>Skráarheiti</translation>
     </message>
     <message>
       <source>Directory</source>
-      <translation type="unfinished">Directory</translation>
+      <translation>Mappa</translation>
     </message>
     <message>
       <source>Add...</source>
-      <translation type="unfinished">Add...</translation>
+      <translation>Bæta við...</translation>
     </message>
     <message>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>Fjarlægja</translation>
     </message>
     <message>
       <source>Add all tracks from a directory and all its subdirectories</source>
-      <translation type="unfinished">Add all tracks from a directory and all its subdirectories</translation>
+      <translation>Bæta við öllum sporum úr möppu og undirmöppum hennar</translation>
     </message>
     <message>
       <source>Import...</source>
-      <translation type="unfinished">Import...</translation>
+      <translation>Flytja inn...</translation>
     </message>
     <message>
       <source>Output options</source>
-      <translation type="unfinished">Output options</translation>
+      <translation>Valmöguleikar úttaks</translation>
     </message>
     <message>
       <source>Audio format</source>
-      <translation type="unfinished">Audio format</translation>
+      <translation>Hljóðsnið</translation>
     </message>
     <message>
       <source>Options...</source>
-      <translation type="unfinished">Options...</translation>
+      <translation>Stillingar...</translation>
     </message>
     <message>
       <source>Destination</source>
-      <translation type="unfinished">Destination</translation>
+      <translation>Áfangastaður</translation>
     </message>
     <message>
       <source>Alongside the originals</source>
-      <translation type="unfinished">Alongside the originals</translation>
+      <translation>Samhliða upprunalegum</translation>
     </message>
     <message>
       <source>Select...</source>
-      <translation type="unfinished">Select...</translation>
+      <translation>Velja...</translation>
     </message>
     <message>
       <source>Progress</source>
-      <translation type="unfinished">Progress</translation>
+      <translation>Framvinda</translation>
     </message>
     <message>
       <source>Details...</source>
-      <translation type="unfinished">Details...</translation>
+      <translation>Nánar...</translation>
     </message>
     <message>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>Hreinsa</translation>
     </message>
     <message>
       <source>Start transcoding</source>
-      <translation type="unfinished">Start transcoding</translation>
+      <translation>Hefja umkóðun</translation>
     </message>
     <message numerus="yes">
       <source>%n remaining</source>
-      <translation type="unfinished">
-        <numerusform>%n remaining</numerusform>
-        <numerusform>%n remaining</numerusform>
+      <translation>
+        <numerusform>%n eftir</numerusform>
+        <numerusform>%n eftir</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <source>%n finished</source>
-      <translation type="unfinished">
-        <numerusform>%n finished</numerusform>
-        <numerusform>%n finished</numerusform>
+      <translation>
+        <numerusform>%n lokið</numerusform>
+        <numerusform>%n lokið</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <source>%n failed</source>
-      <translation type="unfinished">
-        <numerusform>%n failed</numerusform>
-        <numerusform>%n failed</numerusform>
+      <translation>
+        <numerusform>%n misheppnaðist</numerusform>
+        <numerusform>%n misheppnaðist</numerusform>
       </translation>
     </message>
     <message>
       <source>Add files to transcode</source>
-      <translation type="unfinished">Add files to transcode</translation>
+      <translation>Bæta við skrá til að millikóða</translation>
     </message>
     <message>
       <source>Music</source>
-      <translation type="unfinished">Music</translation>
+      <translation>Tónlist</translation>
     </message>
     <message>
       <source>Open a directory to import music from</source>
-      <translation type="unfinished">Open a directory to import music from</translation>
+      <translation>Opna möppu til að flytja tónlist inn úr</translation>
     </message>
     <message>
       <source>Add folder</source>
-      <translation type="unfinished">Add folder</translation>
+      <translation>Bæta við möppu</translation>
     </message>
   </context>
   <context>
     <name>TranscodeLogDialog</name>
     <message>
       <source>Transcoder Log</source>
-      <translation type="unfinished">Transcoder Log</translation>
+      <translation>Atvikaskrá umkóðara</translation>
     </message>
   </context>
   <context>
     <name>Transcoder</name>
     <message>
       <source>Could not create the GStreamer element &quot;%1&quot; - make sure you have all the required GStreamer plugins installed</source>
-      <translation type="unfinished">Could not create the GStreamer element &quot;%1&quot; - make sure you have all the required GStreamer plugins installed</translation>
+      <translation>Gat ekki búið til GStreamer einindið &quot;%1&quot; - gakktu úr skugga um að þú sért með allar nauðsynlegar GStreamer viðbætur uppsettar</translation>
     </message>
     <message>
       <source>Successfully written %1</source>
-      <translation type="unfinished">Successfully written %1</translation>
+      <translation>Tókst að skrifa %1</translation>
     </message>
     <message>
       <source>Transcoding %1 files using %2 threads</source>
-      <translation type="unfinished">Transcoding %1 files using %2 threads</translation>
+      <translation>Umkóða %1 skrár í %2 þráðum</translation>
     </message>
     <message>
       <source>Error processing %1: %2</source>
-      <translation type="unfinished">Error processing %1: %2</translation>
+      <translation>Villa við meðhöndlun %1: %2</translation>
     </message>
     <message>
       <source>Starting %1</source>
-      <translation type="unfinished">Starting %1</translation>
+      <translation>Ræsi %1</translation>
     </message>
     <message>
       <source>Couldn&apos;t find an encoder for %1, check you have the correct GStreamer plugins installed</source>
-      <translation type="unfinished">Couldn&apos;t find an encoder for %1, check you have the correct GStreamer plugins installed</translation>
+      <translation>Gat ekki fundið kóðara fyrir &quot;%1&quot; - gakktu úr skugga um að þú sért með réttar GStreamer viðbætur uppsettar</translation>
     </message>
     <message>
       <source>Couldn&apos;t find a muxer for %1, check you have the correct GStreamer plugins installed</source>
-      <translation type="unfinished">Couldn&apos;t find a muxer for %1, check you have the correct GStreamer plugins installed</translation>
+      <translation>Gat ekki fundið fléttara fyrir &quot;%1&quot; - gakktu úr skugga um að þú sért með réttar GStreamer viðbætur uppsettar</translation>
     </message>
   </context>
   <context>
     <name>TranscoderOptionsAAC</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
     <message>
       <source>Bitrate</source>
-      <translation type="unfinished">Bitrate</translation>
+      <translation>Bitahraði</translation>
     </message>
     <message>
       <source> kbps</source>
-      <translation type="unfinished"> kbps</translation>
+      <translation> kb/sek</translation>
     </message>
     <message>
       <source>Profile</source>
-      <translation type="unfinished">Profile</translation>
+      <translation>Notandasnið</translation>
     </message>
     <message>
       <source>Main profile (MAIN)</source>
-      <translation type="unfinished">Main profile (MAIN)</translation>
+      <translation>Aðalsnið (MAIN)</translation>
     </message>
     <message>
       <source>Low complexity profile (LC)</source>
-      <translation type="unfinished">Low complexity profile (LC)</translation>
+      <translation>Lágflækjustigssnið (LC)</translation>
     </message>
     <message>
       <source>Scalable sampling rate profile (SSR)</source>
-      <translation type="unfinished">Scalable sampling rate profile (SSR)</translation>
+      <translation>Snið fyrir kvarðanlega safntíðni (SSR)</translation>
     </message>
     <message>
       <source>Long term prediction profile (LTP)</source>
-      <translation type="unfinished">Long term prediction profile (LTP)</translation>
+      <translation>Langtíma spásnið (LTP)</translation>
     </message>
     <message>
       <source>Use temporal noise shaping</source>
-      <translation type="unfinished">Use temporal noise shaping</translation>
+      <translation>Nota tímabundna hljóðmótun (noise shaping)</translation>
     </message>
     <message>
       <source>Allow mid/side encoding</source>
-      <translation type="unfinished">Allow mid/side encoding</translation>
+      <translation>Leyfa Mid/Side-kóðun</translation>
     </message>
     <message>
       <source>Block type</source>
-      <translation type="unfinished">Block type</translation>
+      <translation>Blokkartegund</translation>
     </message>
     <message>
       <source>Normal block type</source>
-      <translation type="unfinished">Normal block type</translation>
+      <translation>Venjuleg blokkartegund</translation>
     </message>
     <message>
       <source>No short blocks</source>
-      <translation type="unfinished">No short blocks</translation>
+      <translation>Engar stuttar blokkir</translation>
     </message>
     <message>
       <source>No long blocks</source>
-      <translation type="unfinished">No long blocks</translation>
+      <translation>Engar langar blokkir</translation>
     </message>
   </context>
   <context>
     <name>TranscoderOptionsASF</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
     <message>
       <source>Bitrate</source>
-      <translation type="unfinished">Bitrate</translation>
+      <translation>Bitahraði</translation>
     </message>
     <message>
       <source> kbps</source>
-      <translation type="unfinished"> kbps</translation>
+      <translation> kb/sek</translation>
     </message>
   </context>
   <context>
     <name>TranscoderOptionsDialog</name>
     <message>
       <source>Transcoding options</source>
-      <translation type="unfinished">Transcoding options</translation>
+      <translation>Valkostir umkóðunar</translation>
     </message>
   </context>
   <context>
     <name>TranscoderOptionsFLAC</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
     <message>
       <source>Quality</source>
       <comment>Sound quality</comment>
-      <translation type="unfinished">Quality</translation>
+      <translation>Gæði</translation>
     </message>
     <message>
       <source>Fast</source>
-      <translation type="unfinished">Fast</translation>
+      <translation>Hratt</translation>
     </message>
     <message>
       <source>Best</source>
-      <translation type="unfinished">Best</translation>
+      <translation>Best</translation>
     </message>
   </context>
   <context>
     <name>TranscoderOptionsMP3</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
     <message>
       <source>Optimize for &amp;quality</source>
-      <translation type="unfinished">Optimize for &amp;quality</translation>
+      <translation>Besta út frá &amp;gæðum</translation>
     </message>
     <message>
       <source>Quality</source>
       <comment>Sound quality</comment>
-      <translation type="unfinished">Quality</translation>
+      <translation>Gæði</translation>
     </message>
     <message>
       <source>Opti&amp;mize for bitrate</source>
-      <translation type="unfinished">Opti&amp;mize for bitrate</translation>
+      <translation>Besta út frá &amp;bitahraða</translation>
     </message>
     <message>
       <source>Bitrate</source>
-      <translation type="unfinished">Bitrate</translation>
+      <translation>Bitahraði</translation>
     </message>
     <message>
       <source> kbps</source>
-      <translation type="unfinished"> kbps</translation>
+      <translation> kb/sek</translation>
     </message>
     <message>
       <source>Constant bitrate</source>
-      <translation type="unfinished">Constant bitrate</translation>
+      <translation>Fastur bitahraði</translation>
     </message>
     <message>
       <source>Encoding engine quality</source>
-      <translation type="unfinished">Encoding engine quality</translation>
+      <translation>Gæði kóðunarvélar</translation>
     </message>
     <message>
       <source>Fast</source>
-      <translation type="unfinished">Fast</translation>
+      <translation>Hratt</translation>
     </message>
     <message>
       <source>Standard</source>
-      <translation type="unfinished">Standard</translation>
+      <translation>Staðlað</translation>
     </message>
     <message>
       <source>High</source>
-      <translation type="unfinished">High</translation>
+      <translation>Hátt</translation>
     </message>
     <message>
       <source>Force mono encoding</source>
-      <translation type="unfinished">Force mono encoding</translation>
+      <translation>Þvinga einóma-kóðun</translation>
     </message>
   </context>
   <context>
     <name>TranscoderOptionsOpus</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
     <message>
       <source>Bitrate</source>
-      <translation type="unfinished">Bitrate</translation>
+      <translation>Bitahraði</translation>
     </message>
     <message>
       <source> kbps</source>
-      <translation type="unfinished"> kbps</translation>
+      <translation> kb/sek</translation>
     </message>
   </context>
   <context>
     <name>TranscoderOptionsSpeex</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
     <message>
       <source>Quality</source>
       <comment>Sound quality</comment>
-      <translation type="unfinished">Quality</translation>
+      <translation>Gæði</translation>
     </message>
     <message>
       <source>Bitrate</source>
-      <translation type="unfinished">Bitrate</translation>
+      <translation>Bitahraði</translation>
     </message>
     <message>
       <source>automatic</source>
-      <translation type="unfinished">automatic</translation>
+      <translation>sjálfvirkt</translation>
     </message>
     <message>
       <source> kbps</source>
-      <translation type="unfinished"> kbps</translation>
+      <translation> kb/sek</translation>
     </message>
     <message>
       <source>Average bitrate</source>
-      <translation type="unfinished">Average bitrate</translation>
+      <translation>Meðal bitahraði</translation>
     </message>
     <message>
       <source>disabled</source>
-      <translation type="unfinished">disabled</translation>
+      <translation>óvirkt</translation>
     </message>
     <message>
       <source>Encoding mode</source>
-      <translation type="unfinished">Encoding mode</translation>
+      <translation>Kóðunarhamur</translation>
     </message>
     <message>
       <source>Auto</source>
-      <translation type="unfinished">Auto</translation>
+      <translation>Sjálfgefið</translation>
     </message>
     <message>
       <source>Ultra wide band (UWB)</source>
-      <translation type="unfinished">Ultra wide band (UWB)</translation>
+      <translation>Ofurbreiðtíðni (UWB)</translation>
     </message>
     <message>
       <source>Wide band (WB)</source>
-      <translation type="unfinished">Wide band (WB)</translation>
+      <translation>Breiðtíðni (WB)</translation>
     </message>
     <message>
       <source>Narrow band (NB)</source>
-      <translation type="unfinished">Narrow band (NB)</translation>
+      <translation>Þröngtíðni (NB)</translation>
     </message>
     <message>
       <source>Variable bit rate</source>
-      <translation type="unfinished">Variable bit rate</translation>
+      <translation>Breytilegur bitahraði</translation>
     </message>
     <message>
       <source>Voice activity detection</source>
-      <translation type="unfinished">Voice activity detection</translation>
+      <translation>Greining raddvirkni</translation>
     </message>
     <message>
       <source>Discontinuous transmission</source>
-      <translation type="unfinished">Discontinuous transmission</translation>
+      <translation>Slitrótt sending</translation>
     </message>
     <message>
       <source>Encoding complexity</source>
-      <translation type="unfinished">Encoding complexity</translation>
+      <translation>Kóðunarflækjustig</translation>
     </message>
     <message>
       <source>Frames per buffer</source>
-      <translation type="unfinished">Frames per buffer</translation>
+      <translation>Rammar í biðminni</translation>
     </message>
   </context>
   <context>
     <name>TranscoderOptionsVorbis</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
     <message>
       <source>Quality</source>
       <comment>Sound quality</comment>
-      <translation type="unfinished">Quality</translation>
+      <translation>Gæði</translation>
     </message>
     <message>
       <source>Use bitrate management engine</source>
-      <translation type="unfinished">Use bitrate management engine</translation>
+      <translation>Nota bitahraðaumsýslukerfi</translation>
     </message>
     <message>
       <source>Target bitrate</source>
-      <translation type="unfinished">Target bitrate</translation>
+      <translation>Óskabitahraði</translation>
     </message>
     <message>
       <source> kbps</source>
-      <translation type="unfinished"> kbps</translation>
+      <translation> kb/sek</translation>
     </message>
     <message>
       <source>Minimum bitrate</source>
-      <translation type="unfinished">Minimum bitrate</translation>
+      <translation>Lágmarks bitahraði</translation>
     </message>
     <message>
       <source>disabled</source>
-      <translation type="unfinished">disabled</translation>
+      <translation>óvirkt</translation>
     </message>
     <message>
       <source>Maximum bitrate</source>
-      <translation type="unfinished">Maximum bitrate</translation>
+      <translation>Hámarks bitahraði</translation>
     </message>
   </context>
   <context>
     <name>TranscoderOptionsWavPack</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Innfylliform</translation>
     </message>
   </context>
   <context>
     <name>TranscoderSettingsPage</name>
     <message>
       <source>Transcoding</source>
-      <translation type="unfinished">Transcoding</translation>
+      <translation>Umkóðun</translation>
     </message>
     <message>
       <source>These settings are used in the &quot;Transcode Music&quot; dialog, and when converting music before copying it to a device.</source>
-      <translation type="unfinished">These settings are used in the &quot;Transcode Music&quot; dialog, and when converting music before copying it to a device.</translation>
+      <translation>Þessar stillingar eru notaðar í &quot;Umkóða tónlist&quot; valmyndinni og þegar umbreyta þarf tónlist áður en hún er afrituð á tæki.</translation>
     </message>
     <message>
       <source>FLAC</source>
-      <translation type="unfinished">FLAC</translation>
+      <translation>FLAC</translation>
     </message>
     <message>
       <source>WavPack</source>
-      <translation type="unfinished">WavPack</translation>
+      <translation>WavPack</translation>
     </message>
     <message>
       <source>Vorbis</source>
-      <translation type="unfinished">Vorbis</translation>
+      <translation>Vorbis</translation>
     </message>
     <message>
       <source>Opus</source>
-      <translation type="unfinished">Opus</translation>
+      <translation>Opus</translation>
     </message>
     <message>
       <source>Speex</source>
-      <translation type="unfinished">Speex</translation>
+      <translation>Speex</translation>
     </message>
     <message>
       <source>AAC</source>
-      <translation type="unfinished">AAC</translation>
+      <translation>AAC</translation>
     </message>
     <message>
       <source>ASF (WMA)</source>
-      <translation type="unfinished">ASF (WMA)</translation>
+      <translation>ASF (WMA)</translation>
     </message>
     <message>
       <source>MP3</source>
-      <translation type="unfinished">MP3</translation>
+      <translation>MP3</translation>
     </message>
   </context>
   <context>
     <name>Udisks2Lister</name>
     <message>
       <source>D-Bus path</source>
-      <translation type="unfinished">D-Bus path</translation>
+      <translation>D-Bus slóð</translation>
     </message>
     <message>
       <source>Serial number</source>
-      <translation type="unfinished">Serial number</translation>
+      <translation>Raðnúmer</translation>
     </message>
     <message>
       <source>Mount points</source>
-      <translation type="unfinished">Mount points</translation>
+      <translation>Tengipunktar</translation>
     </message>
     <message>
       <source>Partition label</source>
-      <translation type="unfinished">Partition label</translation>
+      <translation>Merking disksneiðar</translation>
     </message>
     <message>
       <source>UUID</source>
-      <translation type="unfinished">UUID</translation>
+      <translation>UUID</translation>
     </message>
   </context>
   <context>
     <name>UserPassDialog</name>
     <message>
       <source>Enter username and password</source>
-      <translation type="unfinished">Enter username and password</translation>
+      <translation>Settu inn notandanafn og lykilorð</translation>
     </message>
     <message>
       <source>Username</source>
-      <translation type="unfinished">Username</translation>
+      <translation>Notandanafn</translation>
     </message>
     <message>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Lykilorð</translation>
     </message>
   </context>
 </TS>
