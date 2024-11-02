@@ -374,7 +374,7 @@
     </message>
     <message>
       <source>Use system theme icons</source>
-      <translation type="unfinished">Use system theme icons</translation>
+      <translation>Nota þematáknmyndir kerfisins</translation>
     </message>
     <message>
       <source>Settings require restart.</source>
@@ -394,7 +394,7 @@
     </message>
     <message>
       <source>Use gradient background</source>
-      <translation type="unfinished">Use gradient background</translation>
+      <translation>Nota bakgrunn með litstigli</translation>
     </message>
     <message>
       <source>Select tabbar color:</source>
@@ -458,7 +458,7 @@
     </message>
     <message>
       <source>Stretch image to fill playlist</source>
-      <translation type="unfinished">Stretch image to fill playlist</translation>
+      <translation>Strekkja mynd til að fylla spilunarlista</translation>
     </message>
     <message>
       <source>Keep aspect ratio</source>
@@ -506,7 +506,7 @@
     </message>
     <message>
       <source>Files, playlists and queue buttons</source>
-      <translation type="unfinished">Files, playlists and queue buttons</translation>
+      <translation>Skrár, spilunarlistar og biðraðahnappar</translation>
     </message>
     <message>
       <source>Tabbar small mode</source>
@@ -601,7 +601,7 @@
     </message>
     <message>
       <source>Use strict SSL mode</source>
-      <translation type="unfinished">Use strict SSL mode</translation>
+      <translation>Nota strangan SSL-ham</translation>
     </message>
     <message>
       <source>Buffer</source>
@@ -772,7 +772,7 @@
     </message>
     <message>
       <source>You will need to restart Strawberry if you change the language.</source>
-      <translation type="unfinished">You will need to restart Strawberry if you change the language.</translation>
+      <translation>Þú munt þurfa að endurræsa Strawberry ef þú skiptir um tungumál.</translation>
     </message>
     <message>
       <source>Using the menu to add a song will...</source>
@@ -844,7 +844,7 @@
     </message>
     <message>
       <source>Volume Increment</source>
-      <translation type="unfinished">Volume Increment</translation>
+      <translation>Stighækkun/lækkun hljóðstyrks</translation>
     </message>
   </context>
   <context>
@@ -1097,7 +1097,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Use various artists for compilation albums</source>
-      <translation type="unfinished">Use various artists for compilation albums</translation>
+      <translation>Nota ýmsa flytjendur fyrir safnplötur</translation>
     </message>
     <message>
       <source>Skip leading articles (&quot;the&quot;, &quot;a&quot;, &quot;an&quot;) when sorting artist names</source>
@@ -1129,7 +1129,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Song playcounts and ratings</source>
-      <translation type="unfinished">Song playcounts and ratings</translation>
+      <translation>Fjöldi spilana og einkunnir laga</translation>
     </message>
     <message>
       <source>Save playcounts to song tags when possible</source>
@@ -1663,19 +1663,19 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Saving album covers</source>
-      <translation type="unfinished">Saving album covers</translation>
+      <translation>Vista plötuumslög</translation>
     </message>
     <message>
       <source>Save album covers in album directory</source>
-      <translation type="unfinished">Save album covers in album directory</translation>
+      <translation>Vista plötuumslög í möppu viðkomandi hljómplötu</translation>
     </message>
     <message>
       <source>Save album covers in cache directory</source>
-      <translation type="unfinished">Save album covers in cache directory</translation>
+      <translation>Vista plötuumslög í möppu biðminnis</translation>
     </message>
     <message>
       <source>Save album covers as embedded cover</source>
-      <translation type="unfinished">Save album covers as embedded cover</translation>
+      <translation>Vista plötuumslög sem ígrædd umslög</translation>
     </message>
     <message>
       <source>Filename:</source>
@@ -1703,15 +1703,15 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Use Tidal settings to authenticate.</source>
-      <translation type="unfinished">Use Tidal settings to authenticate.</translation>
+      <translation>Nota stillingar Tidal til að auðkenna.</translation>
     </message>
     <message>
       <source>Use Spotify settings to authenticate.</source>
-      <translation type="unfinished">Use Spotify settings to authenticate.</translation>
+      <translation>Nota stillingar Spotify til að auðkenna.</translation>
     </message>
     <message>
       <source>Use Qobuz settings to authenticate.</source>
-      <translation type="unfinished">Use Qobuz settings to authenticate.</translation>
+      <translation>Nota stillingar Qobuz til að auðkenna.</translation>
     </message>
     <message>
       <source>%1 needs authentication.</source>
@@ -1750,14 +1750,14 @@ If there are no matches then it will use the largest image in the directory.</tr
     <name>CueParser</name>
     <message>
       <source>Saving CUE files is not supported.</source>
-      <translation type="unfinished">Saving CUE files is not supported.</translation>
+      <translation>Vistun CUE-skráa er ekki studd.</translation>
     </message>
   </context>
   <context>
     <name>Database</name>
     <message>
       <source>Unable to execute SQL query: %1</source>
-      <translation type="unfinished">Unable to execute SQL query: %1</translation>
+      <translation>Tókst ekki að keyra SQL-beiðni: %1</translation>
     </message>
     <message>
       <source>Failed SQL query: %1</source>
@@ -2706,7 +2706,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Use Gnome (GSD) shortcuts when available</source>
-      <translation type="unfinished">Use Gnome (GSD) shortcuts when available</translation>
+      <translation>Nota flýtilykla Gnome (GSD) þegar þeir eru tiltækir</translation>
     </message>
     <message>
       <source>Open...</source>
@@ -2714,15 +2714,15 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Use MATE shortcuts when available</source>
-      <translation type="unfinished">Use MATE shortcuts when available</translation>
+      <translation>Nota flýtilykla MATE þegar þeir eru tiltækir</translation>
     </message>
     <message>
       <source>Use KDE (KGlobalAccel) shortcuts when available</source>
-      <translation type="unfinished">Use KDE (KGlobalAccel) shortcuts when available</translation>
+      <translation>Nota flýtilykla KDE (KGlobalAccel) þegar þeir eru tiltækir</translation>
     </message>
     <message>
       <source>Use X11 shortcuts when available</source>
-      <translation type="unfinished">Use X11 shortcuts when available</translation>
+      <translation>Nota flýtilykla X11 þegar þeir eru tiltækir</translation>
     </message>
     <message>
       <source>You need to launch System Preferences and allow Strawberry to &quot;&lt;span style=&quot;font-style:italic&quot;&gt;control your computer&lt;/span&gt;&quot; to use global shortcuts in Strawberry.</source>
@@ -3501,7 +3501,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Strawberry running under Rosetta</source>
-      <translation type="unfinished">Strawberry running under Rosetta</translation>
+      <translation>Strawberry keyrandi undir Rosetta</translation>
     </message>
     <message>
       <source>You are running Strawberry under Rosetta. Running Strawberry under Rosetta is unsupported and known to have issues. You should download Strawberry for the correct CPU architecture from %1</source>
@@ -3862,7 +3862,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Strawberry Red</source>
-      <translation type="unfinished">Strawberry Red</translation>
+      <translation>Jarðarberjarautt</translation>
     </message>
     <message>
       <source>Custom...</source>
@@ -4099,11 +4099,11 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Restrict to characters allowed on FAT filesystems</source>
-      <translation type="unfinished">Restrict to characters allowed on FAT filesystems</translation>
+      <translation>Takmarka við stafi sem leyfðir eru á FAT-skráakerfum</translation>
     </message>
     <message>
       <source>Restrict characters to ASCII</source>
-      <translation type="unfinished">Restrict characters to ASCII</translation>
+      <translation>Takmarka stafi við ASCII</translation>
     </message>
     <message>
       <source>Allow extended ASCII characters</source>
@@ -4694,7 +4694,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     </message>
     <message>
       <source>Use alternating row colors</source>
-      <translation type="unfinished">Use alternating row colors</translation>
+      <translation>Nota mismunandi liti til skiptis á röðum</translation>
     </message>
     <message>
       <source>Show bars on the currently playing track</source>
@@ -4781,7 +4781,7 @@ If there are no matches then it will use the largest image in the directory.</tr
     <name>PlaylistTabBar</name>
     <message>
       <source>Star playlist</source>
-      <translation type="unfinished">Star playlist</translation>
+      <translation>Stjörnumerkja spilunarlista</translation>
     </message>
     <message>
       <source>Close playlist</source>
@@ -5105,7 +5105,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     </message>
     <message>
       <source>%1 songs in %2 different directories selected, are you sure you want to open them all?</source>
-      <translation type="unfinished">%1 songs in %2 different directories selected, are you sure you want to open them all?</translation>
+      <translation>%1lög í %2 mismunandi möppum eru valin, ertu viss um að þú viljir opna þau öll?</translation>
     </message>
     <message>
       <source>Failed to load image from data for %1</source>
@@ -5153,7 +5153,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     </message>
     <message>
       <source>searches for all artists containing the word %1. </source>
-      <translation type="unfinished">searches for all artists containing the word %1. </translation>
+      <translation>leitar að öllum flytjendum sem innihalda orðið %1. </translation>
     </message>
     <message>
       <source>Search terms for numerical fields can be prefixed with %1 or %2 to refine the search, e.g.: </source>
@@ -5605,22 +5605,22 @@ Ertu viss um að þú viljir halda áfram?</translation>
     <name>SCollection</name>
     <message>
       <source>Saving playcounts and ratings</source>
-      <translation type="unfinished">Saving playcounts and ratings</translation>
+      <translation>Vista fjölda spilana og einkunnir</translation>
     </message>
   </context>
   <context>
     <name>SavePlaylistsDialog</name>
     <message>
       <source>Select directory for saving playlists</source>
-      <translation type="unfinished">Select directory for saving playlists</translation>
+      <translation>Veldu möppu til að vista spilunarlista</translation>
     </message>
     <message>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Tegund</translation>
     </message>
     <message>
       <source>Select directory for the playlists</source>
-      <translation type="unfinished">Select directory for the playlists</translation>
+      <translation>Veldu möppu undir spilunarlistana</translation>
     </message>
     <message>
       <source>Directory does not exist.</source>
@@ -6189,7 +6189,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     <name>SnapDialog</name>
     <message>
       <source>Strawberry is running as a Snap</source>
-      <translation type="unfinished">Strawberry is running as a Snap</translation>
+      <translation>Strawberry er að keyra sem Snap-pakki</translation>
     </message>
     <message>
       <source>It is detected that Strawberry is running as a Snap</source>
@@ -6217,7 +6217,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     </message>
     <message>
       <source>Uninstall the snap with:</source>
-      <translation type="unfinished">Uninstall the snap with:</translation>
+      <translation>Taktu út Snap-pakkann með:</translation>
     </message>
     <message>
       <source>Install strawberry through PPA:</source>
@@ -6596,23 +6596,23 @@ Ertu viss um að þú viljir halda áfram?</translation>
     <name>SubsonicRequest</name>
     <message>
       <source>Retrieving albums...</source>
-      <translation type="unfinished">Retrieving albums...</translation>
+      <translation>Næ í hljómplötur...</translation>
     </message>
     <message>
       <source>Retrieving songs for %1 album...</source>
-      <translation type="unfinished">Retrieving songs for %1 album...</translation>
+      <translation>Næ í lög fyrir %1 hljómplötu...</translation>
     </message>
     <message>
       <source>Retrieving songs for %1 albums...</source>
-      <translation type="unfinished">Retrieving songs for %1 albums...</translation>
+      <translation>Næ í lög fyrir %1 hljómplötur...</translation>
     </message>
     <message>
       <source>Retrieving album cover for %1 album...</source>
-      <translation type="unfinished">Retrieving album cover for %1 album...</translation>
+      <translation>Næ í umslag fyrir %1 hljómplötu...</translation>
     </message>
     <message>
       <source>Retrieving album covers for %1 albums...</source>
-      <translation type="unfinished">Retrieving album covers for %1 albums...</translation>
+      <translation>Næ í umslög fyrir %1 hljómplötur...</translation>
     </message>
     <message>
       <source>Unknown error</source>
@@ -6623,7 +6623,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     <name>SubsonicService</name>
     <message>
       <source>Server URL is invalid.</source>
-      <translation type="unfinished">Server URL is invalid.</translation>
+      <translation>Slóðin á netþjóninn er ógild.</translation>
     </message>
     <message>
       <source>Missing username or password.</source>
@@ -6674,7 +6674,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     </message>
     <message>
       <source>Use HTTP/2 when possible</source>
-      <translation type="unfinished">Use HTTP/2 when possible</translation>
+      <translation>Nota HTTP/2 þegar það er mögulegt</translation>
     </message>
     <message>
       <source>Verify server certificate</source>
@@ -6710,11 +6710,11 @@ Ertu viss um að þú viljir halda áfram?</translation>
     </message>
     <message>
       <source>Server URL is invalid.</source>
-      <translation type="unfinished">Server URL is invalid.</translation>
+      <translation>Slóðin á netþjóninn er ógild.</translation>
     </message>
     <message>
       <source>Test successful!</source>
-      <translation type="unfinished">Test successful!</translation>
+      <translation>Prófun tókst!</translation>
     </message>
     <message>
       <source>Test failed!</source>
@@ -6725,7 +6725,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     <name>SubsonicUrlHandler</name>
     <message>
       <source>Subsonic server URL is invalid.</source>
-      <translation type="unfinished">Subsonic server URL is invalid.</translation>
+      <translation>Slóðin á Subsonic-netþjóninn er ógild.</translation>
     </message>
     <message>
       <source>Missing Subsonic username or password.</source>
@@ -6860,7 +6860,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     </message>
     <message>
       <source>Use OAuth</source>
-      <translation type="unfinished">Use OAuth</translation>
+      <translation>Nota OAuth</translation>
     </message>
     <message>
       <source>Client ID</source>
