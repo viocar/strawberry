@@ -561,11 +561,11 @@
     </message>
     <message>
       <source>hw</source>
-      <translation type="unfinished">hw</translation>
+      <translation>hw</translation>
     </message>
     <message>
       <source>p&amp;lughw</source>
-      <translation type="unfinished">p&amp;lughw</translation>
+      <translation>p&amp;lughw</translation>
     </message>
     <message>
       <source>pcm</source>
@@ -585,7 +585,7 @@
     </message>
     <message>
       <source>Upmix / downmix to</source>
-      <translation type="unfinished">Upmix / downmix to</translation>
+      <translation>Blanda upp/niður í</translation>
     </message>
     <message>
       <source>channels</source>
@@ -593,7 +593,7 @@
     </message>
     <message>
       <source>Improve headphone listening of stereo audio records (bs2b)</source>
-      <translation type="unfinished">Improve headphone listening of stereo audio records (bs2b)</translation>
+      <translation>Bættu hlustun með heyrnartólum á víðóma hljómplötur (bs2b)</translation>
     </message>
     <message>
       <source>Enable HTTP/2 for streaming</source>
@@ -617,11 +617,11 @@
     </message>
     <message>
       <source>High watermark</source>
-      <translation type="unfinished">High watermark</translation>
+      <translation>Há merking inni í hljóði</translation>
     </message>
     <message>
       <source>Low watermark</source>
-      <translation type="unfinished">Low watermark</translation>
+      <translation>Lág merking inni í hljóði</translation>
     </message>
     <message>
       <source>Defaults</source>
@@ -677,7 +677,7 @@
     </message>
     <message>
       <source>Target Level</source>
-      <translation type="unfinished">Target Level</translation>
+      <translation>Markstyrkur</translation>
     </message>
     <message>
       <source>Fading</source>
@@ -736,7 +736,7 @@
     </message>
     <message>
       <source>Show playing widget</source>
-      <translation type="unfinished">Show playing widget</translation>
+      <translation>Sýna spilunarhlut</translation>
     </message>
     <message>
       <source>On startup</source>
@@ -1063,7 +1063,7 @@
     </message>
     <message>
       <source>Expire unavailable songs after</source>
-      <translation type="unfinished">Expire unavailable songs after</translation>
+      <translation>Láta lög sem ekki eru aðgengileg renna út eftir</translation>
     </message>
     <message>
       <source>days</source>
@@ -1416,7 +1416,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>%filename%</source>
-      <translation type="unfinished">%filename%</translation>
+      <translation>%filename%</translation>
     </message>
     <message>
       <source>Add song filename</source>
@@ -1424,7 +1424,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>%url%</source>
-      <translation type="unfinished">%url%</translation>
+      <translation>%url%</translation>
     </message>
     <message>
       <source>Add song URL</source>
@@ -1577,7 +1577,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>0</source>
-      <translation type="unfinished">0</translation>
+      <translation>0</translation>
     </message>
     <message>
       <source>Fetch Missing Covers</source>
@@ -1735,7 +1735,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Set through album cover search (%1)</source>
-      <translation type="unfinished">Set through album cover search (%1)</translation>
+      <translation>Sett í gegnum leit að plötuumslögum (%1)</translation>
     </message>
     <message>
       <source>Automatically picked up from album directory (%1)</source>
@@ -2947,7 +2947,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Receiving playcount for %1 songs and last played for %2 songs.</source>
-      <translation type="unfinished">Receiving playcount for %1 songs and last played for %2 songs.</translation>
+      <translation>Næ í spilanafjölda fyrir %1 lög og síðast spilað fyrir %2 lög.</translation>
     </message>
     <message>
       <source>Receiving last played for %1 songs.</source>
@@ -3297,7 +3297,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Ctrl+Shift+O</source>
-      <translation type="unfinished">Ctrl+Shift+O</translation>
+      <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
       <source>&amp;Save all playlists...</source>
@@ -3325,7 +3325,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Ctrl+M</source>
-      <translation type="unfinished">Ctrl+M</translation>
+      <translation>Ctrl+M</translation>
     </message>
     <message>
       <source>&amp;Do a full collection rescan</source>
@@ -3341,7 +3341,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Ctrl+T</source>
-      <translation type="unfinished">Ctrl+T</translation>
+      <translation>Ctrl+T</translation>
     </message>
     <message>
       <source>Toggle scrobbling</source>
@@ -3413,19 +3413,19 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Subsonic</source>
-      <translation type="unfinished">Subsonic</translation>
+      <translation>Subsonic</translation>
     </message>
     <message>
       <source>Tidal</source>
-      <translation type="unfinished">Tidal</translation>
+      <translation>Tidal</translation>
     </message>
     <message>
       <source>Spotify</source>
-      <translation type="unfinished">Spotify</translation>
+      <translation>Spotify</translation>
     </message>
     <message>
       <source>Qobuz</source>
-      <translation type="unfinished">Qobuz</translation>
+      <translation>Qobuz</translation>
     </message>
     <message>
       <source>Show all songs</source>
@@ -3457,7 +3457,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Toggle skip status</source>
-      <translation type="unfinished">Toggle skip status</translation>
+      <translation>Víxla stöðu sleppts</translation>
     </message>
     <message>
       <source>Rescan song(s)...</source>
@@ -3513,7 +3513,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Strawberry is free and open source software. If you like Strawberry, please consider sponsoring the project. For more information about sponsorship see our website %1</source>
-      <translation type="unfinished">Strawberry is free and open source software. If you like Strawberry, please consider sponsoring the project. For more information about sponsorship see our website %1</translation>
+      <translation>Strawberry er frjáls og opinn hugbúnaður. Ef þú kannt að meta Strawberry, ættirðu að íhuga að styrkja verkefnið. Til að sjá nánari upplýsingar um hvernig best sé að gera það geturðu skoðað vefsvæðið okkar %1</translation>
     </message>
     <message>
       <source>Pause</source>
@@ -3585,7 +3585,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Playlist has %1 songs, too large to undo, are you sure you want to clear the playlist?</source>
-      <translation type="unfinished">Playlist has %1 songs, too large to undo, are you sure you want to clear the playlist?</translation>
+      <translation>Spilunarlistinn er með %1 lög, sem er of mikið til að afturkalla; ertu viss um að þú viljir hreinsa spilunarlistann?</translation>
     </message>
     <message>
       <source>Error</source>
@@ -3653,7 +3653,7 @@ Ef engar samsvaranir finnast, verður notast víð stærstu myndina í möppunni
     </message>
     <message>
       <source>Save the .mood files directly in the songs folders</source>
-      <translation type="unfinished">Save the .mood files directly in the songs folders</translation>
+      <translation>Vista .mood skrár beint í möppum laga</translation>
     </message>
     <message>
       <source>Enabled</source>
@@ -6375,7 +6375,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     <name>SpotifySettingsPage</name>
     <message>
       <source>Spotify</source>
-      <translation type="unfinished">Spotify</translation>
+      <translation>Spotify</translation>
     </message>
     <message>
       <source>Enable</source>
@@ -6495,7 +6495,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     <name>StreamingSearchView</name>
     <message>
       <source>Streaming Search View</source>
-      <translation type="unfinished">Streaming Search View</translation>
+      <translation>Streymisleitarsýn</translation>
     </message>
     <message>
       <source>MenuPopupToolButton</source>
@@ -6569,7 +6569,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     <name>StreamingTabsView</name>
     <message>
       <source>Streaming Tabs View</source>
-      <translation type="unfinished">Streaming Tabs View</translation>
+      <translation>Streymisflipasýn</translation>
     </message>
     <message>
       <source>Artists</source>
@@ -6634,7 +6634,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     <name>SubsonicSettingsPage</name>
     <message>
       <source>Subsonic</source>
-      <translation type="unfinished">Subsonic</translation>
+      <translation>Subsonic</translation>
     </message>
     <message>
       <source>Enable</source>
@@ -6662,7 +6662,7 @@ Ertu viss um að þú viljir halda áfram?</translation>
     </message>
     <message>
       <source>Hex</source>
-      <translation type="unfinished">Hex</translation>
+      <translation>Hex</translation>
     </message>
     <message>
       <source>MD5 token (Recommended)</source>
