@@ -71,7 +71,8 @@ GlobalShortcutsManager::GlobalShortcutsManager(QWidget *parent) : QWidget(parent
   // Create actions
   AddShortcut(u"play"_s, tr("Play"), std::bind(&GlobalShortcutsManager::Play, this));
   AddShortcut(u"pause"_s, tr("Pause"), std::bind(&GlobalShortcutsManager::Pause, this));
-  AddShortcut(u"play_pause"_s, tr("Play/Pause"), std::bind(&GlobalShortcutsManager::PlayPause, this), QKeySequence(Qt::Key_MediaPlay));
+  AddShortcut(u"play_pause"_s, tr("Play/Pause"), std::bind(&GlobalShortcutsManager::PlayPause, this));
+  AddShortcut(u"play_stop"_s, tr("Play/Stop"), std::bind(&GlobalShortcutsManager::PlayStop, this), QKeySequence(Qt::Key_MediaPlay));
   AddShortcut(u"stop"_s, tr("Stop"), std::bind(&GlobalShortcutsManager::Stop, this), QKeySequence(Qt::Key_MediaStop));
   AddShortcut(u"stop_after"_s, tr("Stop playing after current track"), std::bind(&GlobalShortcutsManager::StopAfter, this));
   AddShortcut(u"next_track"_s, tr("Next track"), std::bind(&GlobalShortcutsManager::Next, this), QKeySequence(Qt::Key_MediaNext));

@@ -80,7 +80,9 @@ class Player : public PlayerInterface {
 
   void PlayAt(const int index, const bool pause, const quint64 offset_nanosec, EngineBase::TrackChangeFlags change, const Playlist::AutoScroll autoscroll, const bool reshuffle, const bool force_inform = false) override;
   void PlayPause(const quint64 offset_nanosec = 0, const Playlist::AutoScroll autoscroll = Playlist::AutoScroll::Always) override;
+  void PlayStop(const quint64 offset_nanosec = 0, const Playlist::AutoScroll autoscroll = Playlist::AutoScroll::Always) override;
   void PlayPauseHelper() override { PlayPause(play_offset_nanosec_); }
+  void PlayStopHelper() override { PlayStop(play_offset_nanosec_); }
   void RestartOrPrevious() override;
   void Next() override;
   void Previous() override;

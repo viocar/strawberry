@@ -62,7 +62,9 @@ class PlayerInterface : public QObject {
 
   // If there's currently a song playing, pause it, otherwise play the track that was playing last, or the first one on the playlist
   virtual void PlayPause(const quint64 offset_nanosec = 0, const Playlist::AutoScroll autoscroll = Playlist::AutoScroll::Always) = 0;
+  virtual void PlayStop(const quint64 offset_nanosec = 0, const Playlist::AutoScroll autoscroll = Playlist::AutoScroll::Always) = 0;
   virtual void PlayPauseHelper() = 0;
+  virtual void PlayStopHelper() = 0;
   virtual void RestartOrPrevious() = 0;
 
   // Skips this track.  Might load more of the current radio station.

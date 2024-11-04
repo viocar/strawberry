@@ -608,7 +608,31 @@ void Player::PlayPause(const quint64 offset_nanosec, const Playlist::AutoScroll 
       break;
     }
   }
+}
 
+void Player::PlayStop(const quint64 offset_nanosec, const Playlist::AutoScroll autoscroll) {
+  qLog(Debug) << "HERE";
+  switch (engine_->state()) {
+    case EngineBase::State::Paused:
+    case EngineBase::State::Playing:{
+      Stop();
+      break;
+    }
+
+    case EngineBase::State::Empty:
+    case EngineBase::State::Error:
+    case EngineBase::State::Idle:{
+      pause_time_ = QDateTime();
+      play_offset_nanosec_ = offset_nanosec;
+      playlist_manager_->SetActivePlaylist(playlist_manager_->current_id());
+      if (playlist_manager_->active()->rowCount() == 0) break;
+      int i = playlist_manager_->active()->current_row();
+      if (i == -1) i = playlist_manager_->active()->last_played_row();
+      if (i == -1) i = 0;
+      PlayAt(i, false, offset_nanosec, EngineBase::TrackChangeType::First, autoscroll, true);
+      break;
+    }
+  }
 }
 
 void Player::UnPause() {

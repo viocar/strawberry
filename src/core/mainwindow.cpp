@@ -464,6 +464,7 @@ MainWindow::MainWindow(Application *app, SharedPtr<SystemTrayIcon> tray_icon, OS
   ui_->action_open_cd->setIcon(IconLoader::Load(u"media-optical"_s));
   ui_->action_previous_track->setIcon(IconLoader::Load(u"media-skip-backward"_s));
   ui_->action_play_pause->setIcon(IconLoader::Load(u"media-playback-start"_s));
+  ui_->action_play_stop->setIcon(IconLoader::Load(u"media-playback-stop"_s));
   ui_->action_stop->setIcon(IconLoader::Load(u"media-playback-stop"_s));
   ui_->action_stop_after_this_track->setIcon(IconLoader::Load(u"media-playback-stop"_s));
   ui_->action_next_track->setIcon(IconLoader::Load(u"media-skip-forward"_s));
@@ -524,6 +525,7 @@ MainWindow::MainWindow(Application *app, SharedPtr<SystemTrayIcon> tray_icon, OS
   QObject::connect(ui_->action_next_track, &QAction::triggered, &*app_->player(), &Player::Next);
   QObject::connect(ui_->action_previous_track, &QAction::triggered, &*app_->player(), &Player::Previous);
   QObject::connect(ui_->action_play_pause, &QAction::triggered, &*app_->player(), &Player::PlayPauseHelper);
+  QObject::connect(ui_->action_play_stop, &QAction::triggered, &*app_->player(), &Player::PlayStopHelper);
   QObject::connect(ui_->action_stop, &QAction::triggered, &*app_->player(), &Player::Stop);
   QObject::connect(ui_->action_quit, &QAction::triggered, this, &MainWindow::Exit);
   QObject::connect(ui_->action_stop_after_this_track, &QAction::triggered, this, &MainWindow::StopAfterCurrent);
@@ -577,7 +579,7 @@ MainWindow::MainWindow(Application *app, SharedPtr<SystemTrayIcon> tray_icon, OS
   ui_->forward_button->setDefaultAction(ui_->action_next_track);
   ui_->back_button->setDefaultAction(ui_->action_previous_track);
   ui_->pause_play_button->setDefaultAction(ui_->action_play_pause);
-  ui_->stop_button->setDefaultAction(ui_->action_stop);
+  ui_->stop_button->setDefaultAction(ui_->action_play_stop);
   ui_->button_scrobble->setDefaultAction(ui_->action_toggle_scrobbling);
   ui_->button_love->setDefaultAction(ui_->action_love);
 
@@ -822,6 +824,7 @@ MainWindow::MainWindow(Application *app, SharedPtr<SystemTrayIcon> tray_icon, OS
   // Tray icon
   tray_icon_->SetupMenu(ui_->action_previous_track, ui_->action_play_pause, ui_->action_stop, ui_->action_stop_after_this_track, ui_->action_next_track, ui_->action_mute, ui_->action_love, ui_->action_quit);
   QObject::connect(&*tray_icon_, &SystemTrayIcon::PlayPause, &*app_->player(), &Player::PlayPauseHelper);
+  // QObject::connect(&*tray_icon_, &SystemTrayIcon::PlayStop, &*app_->player(), &Player::PlayStopHelper);
   QObject::connect(&*tray_icon_, &SystemTrayIcon::SeekForward, &*app_->player(), &Player::SeekForward);
   QObject::connect(&*tray_icon_, &SystemTrayIcon::SeekBackward, &*app_->player(), &Player::SeekBackward);
   QObject::connect(&*tray_icon_, &SystemTrayIcon::NextTrack, &*app_->player(), &Player::Next);
@@ -844,6 +847,7 @@ MainWindow::MainWindow(Application *app, SharedPtr<SystemTrayIcon> tray_icon, OS
   QObject::connect(globalshortcuts_manager_, &GlobalShortcutsManager::Play, &*app_->player(), &Player::PlayHelper);
   QObject::connect(globalshortcuts_manager_, &GlobalShortcutsManager::Pause, &*app_->player(), &Player::Pause);
   QObject::connect(globalshortcuts_manager_, &GlobalShortcutsManager::PlayPause, ui_->action_play_pause, &QAction::trigger);
+  QObject::connect(globalshortcuts_manager_, &GlobalShortcutsManager::PlayStop, ui_->action_play_stop, &QAction::trigger);
   QObject::connect(globalshortcuts_manager_, &GlobalShortcutsManager::Stop, ui_->action_stop, &QAction::trigger);
   QObject::connect(globalshortcuts_manager_, &GlobalShortcutsManager::StopAfter, ui_->action_stop_after_this_track, &QAction::trigger);
   QObject::connect(globalshortcuts_manager_, &GlobalShortcutsManager::Next, ui_->action_next_track, &QAction::trigger);

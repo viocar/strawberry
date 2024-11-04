@@ -81,6 +81,7 @@ class GlobalShortcutsManager : public QWidget {
   void Play();
   void Pause();
   void PlayPause();
+  void PlayStop();
   void Stop();
   void StopAfter();
   void Next();

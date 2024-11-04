@@ -475,6 +475,7 @@
     <addaction name="separator"/>
     <addaction name="action_previous_track"/>
     <addaction name="action_play_pause"/>
+    <addaction name="action_play_stop"/>
     <addaction name="action_stop"/>
     <addaction name="action_next_track"/>
     <addaction name="separator"/>
@@ -553,12 +554,20 @@
     <string>F6</string>
    </property>
   </action>
+  <action name="action_play_stop">
+    <property name="text">
+      <string>&amp;Play/Stop</string>
+    </property>
+    <property name="shortcut">
+      <string>F9</string>
+    </property>
+  </action>
   <action name="action_stop">
    <property name="enabled">
     <bool>false</bool>
    </property>
    <property name="text">
-    <string>&amp;Stop</string>
+    <string>&amp;Play/Stop</string>
    </property>
    <property name="shortcut">
     <string>F7</string>
